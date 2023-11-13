@@ -42,6 +42,8 @@ int main() {
 }
 ```
 
+[C++ Playground](https://leetcode.com/playground/V4r5YpoS)
+
 ```go
 package main
 
@@ -85,6 +87,9 @@ func main(){
     sort.Ints(a1[:])
 }
 
-// Go Playground
-// https://go.dev/play/p/4GJbAk3JUD6
 ```
+
+[Go Playground](https://go.dev/play/p/4GJbAk3JUD6)
+
+
+© Leetcode [link](https://leetcode.com/explore/learn/card/array-and-string/201/introduction-to-array/1143/)
