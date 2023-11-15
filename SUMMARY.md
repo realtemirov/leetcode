@@ -10,6 +10,8 @@
     * [Plus One](<Array and String/Introduction to Array/Plus One.md>)
   * [Introduction to 2D Array](<Array and String/Introduction to 2D Array/README.md>)
     * [Introduction to 2D Array](<Array and String/Introduction to 2D Array/Introduction to 2D Array.md>)
+    * [Diagonal Traverse](<Array and String/Introduction to 2D Array/Diagonal Traverse.md>)
+    * [Spiral Matrix](<Array and String/Introduction to 2D Array/Spiral Matrix.md>)
 
 * [Problems](<Problems/README.md>)
   * [54. Spiral Matrix](<Problems/54. Spiral Matrix.md>)
