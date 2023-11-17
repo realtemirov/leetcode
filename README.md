@@ -12,8 +12,8 @@
     * [Diagonal Traverse](<Array and String/Introduction to 2D Array/Diagonal Traverse.md>)
     * [Spiral Matrix](<Array and String/Introduction to 2D Array/Spiral Matrix.md>)
     * [Pascal's Triangle](<Array and String/Introduction to 2D Array/Pascal's Triangle.md>)
-  * [Introduction to String](<Array and String/Introduction to 2D Array/README.md>)
-    * [Introduction to String](<Array and String/Introduction to 2D Array/Introduction to 2D Array.md>)
+  * [Introduction to String](<Array and String/Introduction ot String/README.md>)
+    * [Introduction to String](<Array and String/Introduction to String/Introduction to String.md>)
     
 * [Problems](<Problems/README.md>)
   * [54. Spiral Matrix](<Problems/54. Spiral Matrix.md>)
