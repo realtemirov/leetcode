@@ -15,7 +15,7 @@
 
 * [Problems](<Problems/README.md>)
   * [54. Spiral Matrix](<Problems/54. Spiral Matrix.md>)
-  * [66. Plus One](<Problems/66.Plus One.md>)
+  * [66. Plus One](<Problems/66. Plus One.md>)
   * [498. Diagonal Traverse](<Problems/498. Diagonal Traverse.md>)
   * [620. Not Boring Movies](<Problems/620. Not Boring Movies.md>)
   * [724. Find Pivot Index](<Problems/724. Find Pivot Index.md>)

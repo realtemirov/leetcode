@@ -1,7 +1,7 @@
 # Problems
 
-* 🟧 Medium - [54. Spiral Matrix](<54. Spiral Matrix>)
-* 🟩 Easy - [66. Plus One](<66.Plus One.md>)
+* 🟧 Medium - [54. Spiral Matrix](<54. Spiral Matrix.md>)
+* 🟩 Easy - [66. Plus One](<66. Plus One.md>)
 * 🟧 Medium - [498. Diagonal Traverse](<498. Diagonal Traverse.md>)
 * 🟩 Easy - [620. Not Boring Movies](<620. Not Boring Movies.md>)
 * 🟩 Easy - [724. Find Pivot Index](<724. Find Pivot Index.md>)
