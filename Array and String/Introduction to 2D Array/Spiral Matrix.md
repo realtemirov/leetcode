@@ -40,8 +40,54 @@ Output: [1,2,3,4,8,12,11,10,9,5,6,7]
 > Indekslardan birida taraqqiyotni qachon o'zgartirmoqchi ekanligingizni o'ylab ko'ring. Agar [i, j] dan i ga o'tsangiz, xuddi shu ustunga o'tasiz. Xuddi shunday, j uchun qiymatlarni o'zgartirish orqali siz bir xil qatorga o'tasiz. Shuningdek, chegaraning oxirini kuzatib boring, shunda siz ichkariga qarab harakat qilishingiz va keyin takrorlashni davom ettirasiz. Bitta ustun yoki bitta qator kabi chekka holatlarni taqlid qilish har doim eng yaxshisidir.
 
 ```go
-func findMedianSortedArrays(nums1 []int, nums2 []int) float64 {
-    
+func spiralOrder(matrix [][]int) []int {
+	m := len(matrix)
+	n := len(matrix[0])
+
+	res := make([]int, m*n)
+
+	l, r, t, b := 0, n-1, 0, m-1
+
+	for i := 0; i < m*n; {
+
+		// left to rigth step
+		for j := l; j <= r; j++ {
+			res[i] = matrix[t][j]
+			i++
+		}
+		t++
+
+		if t > b {
+			break
+		}
+
+		// top to bottom step
+		for j := t; j <= b; j++ {
+			res[i] = matrix[j][r]
+			i++
+		}
+		r--
+
+		if l > r {
+			break
+		}
+
+		// right to left step
+		for j := r; j >= l; j-- {
+			res[i] = matrix[b][j]
+			i++
+		}
+		b--
+
+		// bottom to top step
+		for j := b; j >= t; j-- {
+			res[i] = matrix[j][l]
+			i++
+		}
+		l++
+	}
+
+	return res
 }
 ```
 © Leetcode [link](https://leetcode.com/explore/learn/card/array-and-string/202/introduction-to-2d-array/1168/)
