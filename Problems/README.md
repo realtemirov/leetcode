@@ -1,7 +1,8 @@
 # Problems
-
+* 🟩 Easy - [1. Two Sum](<1. Two Sum.md>)
 * 🟧 Medium - [54. Spiral Matrix](<54. Spiral Matrix.md>)
 * 🟩 Easy - [66. Plus One](<66. Plus One.md>)
+* 🟩 Easy - [67. Add Binary](<67. Add Binary.md>)
 * 🟩 Easy - [118. Pascal's Triangle](<118. Pascal's Triangle.md>)
 * 🟧 Medium - [498. Diagonal Traverse](<498. Diagonal Traverse.md>)
 * 🟩 Easy - [620. Not Boring Movies](<620. Not Boring Movies.md>)

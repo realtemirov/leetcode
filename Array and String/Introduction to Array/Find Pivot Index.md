@@ -46,15 +46,15 @@ Right sum = nums[1] + nums[2] = 1 + -1 = 0
 
 > Eslatma: Bu savol 1991 yilgi savol bilan bir xil: [link](https://leetcode.com/problems/find-the-middle-index-in-array/)
 
-> Hint1: 
+> Hint-1: 
 > 
 > sumLeft massivi yarating, bunda sumLeft[i] i indeksining chap tomonidagi barcha raqamlar yig'indisidir.
 
-> Hint2:
+> Hint-2:
 >
 > SumRight massivi yarating, bunda sumRight[i] i indeksining o'ng tomonidagi barcha raqamlar yig'indisidir.
 
-> Hint3: 
+> Hint-3: 
 >
 > Har bir i indeksi uchun sumLeft[i] sumRight[i] ga teng ekanligini tekshiring. Agar topilmasam, -1 ni qaytaring.
 
