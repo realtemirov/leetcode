@@ -16,9 +16,11 @@
     * [Introduction to String](<Array and String/Introduction to String/Introduction to String.md>)
     * [Immutable String - Problems & Solutions](<Array and String/Introduction to String/Immutable String - Problems & Solutions.md>)
     * [Add binary](<Array and String/Introduction to String/Add binary.md>)
+    * [Implement strStr()](<Array and String/Introduction to String/Implement strStr().md>)
     
 * [Problems](<Problems/README.md>)
   * [1. Two Sum](<Problems/1. Two Sum.md>)
+  * [28. Find the Index of the First Occurrence in a String](<Problems/28. Find the Index of the First Occurrence in a String.md>)
   * [54. Spiral Matrix](<Problems/54. Spiral Matrix.md>)
   * [66. Plus One](<Problems/66. Plus One.md>)
   * [67. Add Binary](<Problems/67. Add Binary.md>)
@@ -28,3 +30,4 @@
   * [724. Find Pivot Index](<Problems/724. Find Pivot Index.md>)
   * [747. Largest Number At Least Twice of Others](<Problems/747. Largest Number At Least Twice of Others.md>)
   * [1251. Average Selling Price](<Problems/1251. Average Selling Price.md>)
+  * [2351. First Letter to Appear Twice](<Problems/2351. First Letter to Appear Twice.md>)

@@ -25,7 +25,36 @@ Output: "10101"
 
 ```go
 func addBinary(a string, b string) string {
-    
+
+	str := ""
+	var carry int8 = 0
+
+	for i, j := len(a), len(b); i >= 1 || j >= 1; {
+		i--
+		j--
+		var digitA, digitB int8
+
+		if i >= 0 {
+			digitA = int8(a[i] - '0')
+		}
+
+		if j >= 0 {
+			digitB = int8(b[j] - '0')
+		}
+
+		total := carry + digitA + digitB
+
+		c := fmt.Sprintf("%d", total%2)
+		str = c + str
+
+		carry = total / 2
+	}
+
+	if carry > 0 {
+		str = "1" + str
+	}
+
+	return str
 }
 ```
 © Leetcode [link](https://leetcode.com/explore/learn/card/array-and-string/203/introduction-to-string/1160/)

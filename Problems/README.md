@@ -1,5 +1,6 @@
 # Problems
 * 🟩 Easy - [1. Two Sum](<1. Two Sum.md>)
+* 🟩 Easy - [28. Find the Index of the First Occurrence in a String](<28. Find the Index of the First Occurrence in a String.md>)
 * 🟧 Medium - [54. Spiral Matrix](<54. Spiral Matrix.md>)
 * 🟩 Easy - [66. Plus One](<66. Plus One.md>)
 * 🟩 Easy - [67. Add Binary](<67. Add Binary.md>)
@@ -9,3 +10,4 @@
 * 🟩 Easy - [724. Find Pivot Index](<724. Find Pivot Index.md>)
 * 🟩 Easy - [747. Largest Number At Least Twice of Others](<747. Largest Number At Least Twice of Others.md>)
 * 🟩 Easy - [1251. Average Selling Price](<1251. Average Selling Price.md>)
+* 🟩 Easy - [2351. First Letter to Appear Twice](<2351. First Letter to Appear Twice.md>)
