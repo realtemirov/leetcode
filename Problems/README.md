@@ -1,10 +1,12 @@
 # Problems
 * 🟩 Easy - [1. Two Sum](<1. Two Sum.md>)
+* 🟩 Easy - [14. Longest Common Prefix](<14. Longest Common Prefix.md>)
 * 🟩 Easy - [28. Find the Index of the First Occurrence in a String](<28. Find the Index of the First Occurrence in a String.md>)
 * 🟧 Medium - [54. Spiral Matrix](<54. Spiral Matrix.md>)
 * 🟩 Easy - [66. Plus One](<66. Plus One.md>)
 * 🟩 Easy - [67. Add Binary](<67. Add Binary.md>)
 * 🟩 Easy - [118. Pascal's Triangle](<118. Pascal's Triangle.md>)
+* 🟩 Easy - [344. Reverse String](<344. Reverse String.md>)
 * 🟧 Medium - [498. Diagonal Traverse](<498. Diagonal Traverse.md>)
 * 🟩 Easy - [620. Not Boring Movies](<620. Not Boring Movies.md>)
 * 🟩 Easy - [724. Find Pivot Index](<724. Find Pivot Index.md>)
