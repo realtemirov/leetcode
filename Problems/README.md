@@ -8,6 +8,7 @@
 * 🟩 Easy - [118. Pascal's Triangle](<118. Pascal's Triangle.md>)
 * 🟩 Easy - [344. Reverse String](<344. Reverse String.md>)
 * 🟧 Medium - [498. Diagonal Traverse](<498. Diagonal Traverse.md>)
+* 🟩 Easy - [561. Array Partition](<561. Array Partition.md>)
 * 🟩 Easy - [620. Not Boring Movies](<620. Not Boring Movies.md>)
 * 🟩 Easy - [724. Find Pivot Index](<724. Find Pivot Index.md>)
 * 🟩 Easy - [747. Largest Number At Least Twice of Others](<747. Largest Number At Least Twice of Others.md>)

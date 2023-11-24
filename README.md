@@ -21,6 +21,7 @@
   * [Two-Pointer Technique](<Array and String/Two-Pointer Technique/README.md>)
     * [Two-pointer Technique - Scenario I](<Array and String/Two-Pointer Technique/Two-pointer Technique - Scenario I.md>)
     * [Reverse String](<Array and String/Two-Pointer Technique/Reverse String.md>)
+    * [Array Partition I](<Array and String/Two-Pointer Technique/Array Partition I.md>)
     
 * [Problems](<Problems/README.md>)
   * [1. Two Sum](<Problems/1. Two Sum.md>)
@@ -32,6 +33,7 @@
   * [118. Pascal's Triangle](<Problems/118. Pascal's Triangle.md>)
   * [344. Reverse String](<Problems/344. Reverse String.md>)
   * [498. Diagonal Traverse](<Problems/498. Diagonal Traverse.md>)
+  * [561. Array Partition](<Problems/561. Array Partition.md>)
   * [620. Not Boring Movies](<Problems/620. Not Boring Movies.md>)
   * [724. Find Pivot Index](<Problems/724. Find Pivot Index.md>)
   * [747. Largest Number At Least Twice of Others](<Problems/747. Largest Number At Least Twice of Others.md>)
