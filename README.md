@@ -22,6 +22,12 @@
     * [Two-pointer Technique - Scenario I](<Array and String/Two-Pointer Technique/Two-pointer Technique - Scenario I.md>)
     * [Reverse String](<Array and String/Two-Pointer Technique/Reverse String.md>)
     * [Array Partition I](<Array and String/Two-Pointer Technique/Array Partition I.md>)
+    * [Two Sum II - Input array is sorted](<Array and String/Two-Pointer Technique/Two Sum II - Input array is sorted.md>)
+    * [Two-pointer Technique - Scenario II](<Array and String/Two-Pointer Technique/Two-pointer Technique - Scenario II.md>)
+    * [Remove Element](<Array and String/Two-Pointer Technique/Remove Element.md>)
+    * [Max Consecutive Ones](<Array and String/Two-Pointer Technique/Max Consecutive Ones.md>)
+    * [Minimum Size Subarray Sum](<Array and String/Two-Pointer Technique/Minimum Size Subarray Sum.md>)
+
     
 * [Problems](<Problems/README.md>)
   * [1. Two Sum](<Problems/1. Two Sum.md>)
@@ -34,6 +40,7 @@
   * [67. Add Binary](<Problems/67. Add Binary.md>)
   * [118. Pascal's Triangle](<Problems/118. Pascal's Triangle.md>)
   * [167. Two Sum II - Input Array Is Sorted](<Problems/167. Two Sum II - Input Array Is Sorted.md>)
+  * [197. Rising Temperature](<Problems/197. Rising Temperature.md>)
   * [344. Reverse String](<Problems/344. Reverse String.md>)
   * [498. Diagonal Traverse](<Problems/498. Diagonal Traverse.md>)
   * [561. Array Partition](<Problems/561. Array Partition.md>)
