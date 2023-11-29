@@ -1,8 +1,8 @@
 # Problems
 
 
-> **Easy:** `15` \
-> **Medium:** `4` \
+> **Easy:** `25` \
+> **Medium:** `8` \
 > **Hard:** `0` 
 
 
@@ -17,6 +17,7 @@
 * 🟩 Easy - [67. Add Binary](<67. Add Binary.md>)
 * 🟩 Easy - [118. Pascal's Triangle](<118. Pascal's Triangle.md>)
 * 🟧 Medium - [167. Two Sum II - Input Array Is Sorted](<167. Two Sum II - Input Array Is Sorted.md>)
+* 🟩 Easy - [191. Number of 1 Bits](<191. Number of 1 Bits.md>)
 * 🟩 Easy - [197. Rising Temperature](<197. Rising Temperature.md>)
 * 🟧 Medium - [209. Minimum Size Subarray Sum](<209. Minimum Size Subarray Sum.md>)
 * 🟩 Easy - [344. Reverse String](<344. Reverse String.md>)
@@ -26,7 +27,13 @@
 * 🟩 Easy - [620. Not Boring Movies](<620. Not Boring Movies.md>)
 * 🟩 Easy - [724. Find Pivot Index](<724. Find Pivot Index.md>)
 * 🟩 Easy - [747. Largest Number At Least Twice of Others](<747. Largest Number At Least Twice of Others.md>)
+* 🟩 Easy - [1084. Sales Analysis III](<1084. Sales Analysis III.md>)
+* 🟩 Easy - [1141. User Activity for the Past 30 Days I](<1141. User Activity for the Past 30 Days I.md>)
+* 🟩 Easy - [1148. Article Views I](<1148. Article Views I.md>)
 * 🟩 Easy - [1251. Average Selling Price](<1251. Average Selling Price.md>)
+* 🟩 Easy - [1342. Number of Steps to Reduce a Number to Zero](<1342. Number of Steps to Reduce a Number to Zero.md>)
+* 🟩 Easy - [1480. Running Sum of 1d Array](<1480. Running Sum of 1d Array.md>)
+* 🟧 Medium - [1641. Count Sorted Vowel Strings](<1641. Count Sorted Vowel Strings.md>)
 * 🟩 Easy - [2119. A Number After a Double Reversal](<2119. A Number After a Double Reversal.md>)
 * 🟧 Medium - [2396. Strictly Palindromic Number](<2396. Strictly Palindromic Number.md>)
 * 🟩 Easy - [2413. Smallest Even Multiple](<2413. Smallest Even Multiple.md>)
