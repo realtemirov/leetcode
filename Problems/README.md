@@ -1,14 +1,16 @@
 # Problems
 
 
-> **Easy:** `25` \
-> **Medium:** `8` \
+> **Easy:** `26` \
+> **Medium:** `10` \
 > **Hard:** `0` 
 
 
 * 🟩 Easy - [1. Two Sum](<1. Two Sum.md>)
 * 🟧 Medium - [7. Reverse Integer](<7. Reverse Integer.md>)
 * 🟩 Easy - [9. Palindrome Number](<9. Palindrome Number.md>)
+* 🟧 Medium - [12. Integer to Roman](<12. Integer to Roman.md>)
+* 🟩 Easy - [13. Roman to Integer](<13. Roman to Integer.md>)
 * 🟩 Easy - [14. Longest Common Prefix](<14. Longest Common Prefix.md>)
 * 🟩 Easy - [27. Remove Element](<27. Remove Element.md>)
 * 🟩 Easy - [28. Find the Index of the First Occurrence in a String](<28. Find the Index of the First Occurrence in a String.md>)
@@ -33,6 +35,7 @@
 * 🟩 Easy - [1251. Average Selling Price](<1251. Average Selling Price.md>)
 * 🟩 Easy - [1342. Number of Steps to Reduce a Number to Zero](<1342. Number of Steps to Reduce a Number to Zero.md>)
 * 🟩 Easy - [1480. Running Sum of 1d Array](<1480. Running Sum of 1d Array.md>)
+* 🟧 Medium - [1551. Minimum Operations to Make Array Equal](<1551. Minimum Operations to Make Array Equal.md>)
 * 🟧 Medium - [1641. Count Sorted Vowel Strings](<1641. Count Sorted Vowel Strings.md>)
 * 🟩 Easy - [2119. A Number After a Double Reversal](<2119. A Number After a Double Reversal.md>)
 * 🟧 Medium - [2396. Strictly Palindromic Number](<2396. Strictly Palindromic Number.md>)
