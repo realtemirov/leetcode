@@ -1,4 +1,4 @@
-	# Spiral Matrix
+# Spiral Matrix
 
 `m x n` matritsa mat berilgan bolsa, matritsaning barcha elementlarini spiral tartibda qaytaring..
 
