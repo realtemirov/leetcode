@@ -57,7 +57,7 @@
 * 🟩 Easy - [1160. Find Words That Can Be Formed by Characters](<1160. Find Words That Can Be Formed by Characters.md>)
 * 🟩 Easy - [1251. Average Selling Price](<1251. Average Selling Price.md>)
 * 🟩 Easy - [1252. Cells with Odd Values in a Matrix](<1252. Cells with Odd Values in a Matrix.md>)
-* 🟩 Easy - [1287. Element Appearing More Than 25% In Sorted Array](<1287. Element Appearing More Than 25% In Sorted Array.md>)
+* 🟩 Easy - [1287. Element Appearing More Than 25% In Sorted Array](<1287. Element Appearing More Than 25 In Sorted Array.md>)
 * 🟩 Easy - [1295. Find Numbers with Even Number of Digits](<1295. Find Numbers with Even Number of Digits.md>)
 * 🟩 Easy - [1342. Number of Steps to Reduce a Number to Zero](<1342. Number of Steps to Reduce a Number to Zero.md>)
 * 🟩 Easy - [1346. Check If N and Its Double Exist](<1346. Check If N and Its Double Exist.md>)

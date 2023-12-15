@@ -88,7 +88,7 @@
   * [1148. Article Views I](<Problems/1148. Article Views I.md>)
   * [1160. Find Words That Can Be Formed by Characters](<Problems/1160. Find Words That Can Be Formed by Characters.md>)
   * [1251. Average Selling Price](<Problems/1251. Average Selling Price.md>)
-  * [1287. Element Appearing More Than 25% In Sorted Array](<Problems/1287. Element Appearing More Than 25% In Sorted Array.md>)
+  * [1287. Element Appearing More Than 25% In Sorted Array](<Problems/1287. Element Appearing More Than 25 In Sorted Array.md>)
   * [1295. Find Numbers with Even Number of Digits](<Problems/1295. Find Numbers with Even Number of Digits.md>)
   * [1342. Number of Steps to Reduce a Number to Zero](<Problems/1342. Number of Steps to Reduce a Number to Zero.md>)
   * [1346. Check If N and Its Double Exist](<Problems/1346. Check If N and Its Double Exist.md>)
