@@ -1,8 +1,8 @@
 # Problems
 
-
-> **Easy:** `26` \
-> **Medium:** `10` \
+> **Total:** `80` \
+> **Easy:** `64` \
+> **Medium:** `16` \
 > **Hard:** `0` 
 
 
@@ -20,6 +20,7 @@
 * 🟩 Easy - [66. Plus One](<66. Plus One.md>)
 * 🟩 Easy - [67. Add Binary](<67. Add Binary.md>)
 * 🟧 Medium - [80. Remove Duplicates from Sorted Array II](<80. Remove Duplicates from Sorted Array II.md>)
+* 🟩 Easy - [88. Merge Sorted Array](<88. Merge Sorted Array.md>)
 * 🟩 Easy - [94. Binary Tree Inorder Traversal](<94. Binary Tree Inorder Traversal.md>)
 * 🟩 Easy - [118. Pascal's Triangle](<118. Pascal's Triangle.md>)
 * 🟩 Easy - [119. Pascal's Triangle II](<119. Pascal's Triangle II.md>)
@@ -48,14 +49,18 @@
 * 🟩 Easy - [747. Largest Number At Least Twice of Others](<747. Largest Number At Least Twice of Others.md>)
 * 🟩 Easy - [867. Transpose Matrix](<867. Transpose Matrix.md>)
 * 🟩 Easy - [876. Middle of the Linked List](<876. Middle of the Linked List.md>)
+* 🟩 Easy - [977. Squares of a Sorted Array](<977. Squares of a Sorted Array.md>)
 * 🟩 Easy - [1084. Sales Analysis III](<1084. Sales Analysis III.md>)
+* 🟩 Easy - [1089. Duplicate Zeros](<1089. Duplicate Zeros.md>)
 * 🟩 Easy - [1141. User Activity for the Past 30 Days I](<1141. User Activity for the Past 30 Days I.md>)
 * 🟩 Easy - [1148. Article Views I](<1148. Article Views I.md>)
 * 🟩 Easy - [1160. Find Words That Can Be Formed by Characters](<1160. Find Words That Can Be Formed by Characters.md>)
 * 🟩 Easy - [1251. Average Selling Price](<1251. Average Selling Price.md>)
 * 🟩 Easy - [1252. Cells with Odd Values in a Matrix](<1252. Cells with Odd Values in a Matrix.md>)
 * 🟩 Easy - [1287. Element Appearing More Than 25% In Sorted Array](<1287. Element Appearing More Than 25% In Sorted Array.md>)
+* 🟩 Easy - [1295. Find Numbers with Even Number of Digits](<1295. Find Numbers with Even Number of Digits.md>)
 * 🟩 Easy - [1342. Number of Steps to Reduce a Number to Zero](<1342. Number of Steps to Reduce a Number to Zero.md>)
+* 🟩 Easy - [1346. Check If N and Its Double Exist](<1346. Check If N and Its Double Exist.md>)
 * 🟩 Easy - [1436. Destination City](<1436. Destination City.md>)
 * 🟩 Easy - [1464. Maximum Product of Two Elements in an Array](<1464. Maximum Product of Two Elements in an Array.md>)
 * 🟩 Easy - [1480. Running Sum of 1d Array](<1480. Running Sum of 1d Array.md>)
