@@ -1,8 +1,8 @@
 # Problems
 
-> **Total:** `80` \
-> **Easy:** `64` \
-> **Medium:** `16` \
+> **Total:** `82` \
+> **Easy:** `65` \
+> **Medium:** `17` \
 > **Hard:** `0` 
 
 
@@ -33,6 +33,7 @@
 * 🟩 Easy - [197. Rising Temperature](<197. Rising Temperature.md>)
 * 🟧 Medium - [209. Minimum Size Subarray Sum](<209. Minimum Size Subarray Sum.md>)
 * 🟩 Easy - [226. Invert Binary Tree](<226. Invert Binary Tree.md>)
+* 🟩 Easy - [242. Valid Anagram](<242. Valid Anagram.md>)
 * 🟩 Easy - [283. Move Zeroes](<283. Move Zeroes.md>)
 * 🟩 Easy - [344. Reverse String](<344. Reverse String.md>)
 * 🟩 Easy - [367. Valid Perfect Square](<367. Valid Perfect Square.md>)
@@ -77,6 +78,7 @@
 * 🟩 Easy - [2235. Add Two Integers](<2235. Add Two Integers.md>)
 * 🟩 Easy - [2236. Root Equals Sum of Children](<2236. Root Equals Sum of Children.md>)
 * 🟩 Easy - [2351. First Letter to Appear Twice](<2351. First Letter to Appear Twice.md>)
+* 🟧 Medium - [2353. Design a Food Rating System](<2353. Design a Food Rating System.md>)
 * 🟧 Medium - [2396. Strictly Palindromic Number](<2396. Strictly Palindromic Number.md>)
 * 🟩 Easy - [2413. Smallest Even Multiple](<2413. Smallest Even Multiple.md>)
 * 🟧 Medium - [2442. Count Number of Distinct Integers After Reverse Operations](<2442. Count Number of Distinct Integers After Reverse Operations.md>)
