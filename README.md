@@ -1,4 +1,4 @@
-# leetcode
+# Leetcode
 
 * [Array and String](<Array and String/README.md>)
   * [Introduction to Array](<Array and String/Introduction to Array/README.md>)
