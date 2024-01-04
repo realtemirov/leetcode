@@ -1,8 +1,8 @@
 # Problems
 
-> **Total:** `82` \
-> **Easy:** `65` \
-> **Medium:** `17` \
+> **Total:** `93` \
+> **Easy:** `72` \
+> **Medium:** `21` \
 > **Hard:** `0` 
 
 
@@ -40,12 +40,14 @@
 * 🟩 Easy - [383. Ransom Note](<383. Ransom Note.md>)
 * 🟩 Easy - [392. Is Subsequence](<392. Is Subsequence.md>)
 * 🟩 Easy - [412. Fizz Buzz](<412. Fizz Buzz.md>)
+* 🟩 Easy - [455. Assign Cookies](<455. Assign Cookies.md>)
 * 🟩 Easy - [485. Max Consecutive Ones](<485. Max Consecutive Ones.md>)
 * 🟧 Medium - [498. Diagonal Traverse](<498. Diagonal Traverse.md>)
 * 🟩 Easy - [557. Reverse Words in a String III](<557. Reverse Words in a String III.md>)
 * 🟩 Easy - [561. Array Partition](<561. Array Partition.md>)
 * 🟩 Easy - [606. Construct String from Binary Tree](<606. Construct String from Binary Tree.md>)
 * 🟩 Easy - [620. Not Boring Movies](<620. Not Boring Movies.md>)
+* 🟩 Easy - [661. Image Smoother](<661. Image Smoother.md>)
 * 🟩 Easy - [724. Find Pivot Index](<724. Find Pivot Index.md>)
 * 🟩 Easy - [747. Largest Number At Least Twice of Others](<747. Largest Number At Least Twice of Others.md>)
 * 🟩 Easy - [867. Transpose Matrix](<867. Transpose Matrix.md>)
@@ -57,26 +59,32 @@
 * 🟩 Easy - [1148. Article Views I](<1148. Article Views I.md>)
 * 🟩 Easy - [1160. Find Words That Can Be Formed by Characters](<1160. Find Words That Can Be Formed by Characters.md>)
 * 🟩 Easy - [1251. Average Selling Price](<1251. Average Selling Price.md>)
-* 🟩 Easy - [1252. Cells with Odd Values in a Matrix](<1252. Cells with Odd Values in a Matrix.md>)
 * 🟩 Easy - [1287. Element Appearing More Than 25% In Sorted Array](<1287. Element Appearing More Than 25 In Sorted Array.md>)
 * 🟩 Easy - [1295. Find Numbers with Even Number of Digits](<1295. Find Numbers with Even Number of Digits.md>)
 * 🟩 Easy - [1342. Number of Steps to Reduce a Number to Zero](<1342. Number of Steps to Reduce a Number to Zero.md>)
 * 🟩 Easy - [1346. Check If N and Its Double Exist](<1346. Check If N and Its Double Exist.md>)
+* 🟩 Easy - [1422. Maximum Score After Splitting a String](<1422. Maximum Score After Splitting a String.md>)
 * 🟩 Easy - [1436. Destination City](<1436. Destination City.md>)
 * 🟩 Easy - [1464. Maximum Product of Two Elements in an Array](<1464. Maximum Product of Two Elements in an Array.md>)
 * 🟩 Easy - [1480. Running Sum of 1d Array](<1480. Running Sum of 1d Array.md>)
+* 🟩 Easy - [1496. Path Crossing](<1496. Path Crossing.md>)
 * 🟧 Medium - [1551. Minimum Operations to Make Array Equal](<1551. Minimum Operations to Make Array Equal.md>)
 * 🟩 Easy - [1582. Special Positions in a Binary Matrix](<1582. Special Positions in a Binary Matrix.md>)
-* 🟩 Easy - [1603. Design Parking System](<1603. Design Parking System.md>)
+* 🟧 Medium - [1637. Widest Vertical Area Between Two Points Containing No Points](<1637. Widest Vertical Area Between Two Points Containing No Points.md>)
 * 🟧 Medium - [1641. Count Sorted Vowel Strings](<1641. Count Sorted Vowel Strings.md>)
 * 🟩 Easy - [1662. Check If Two String Arrays are Equivalent](<1662. Check If Two String Arrays are Equivalent.md>)
 * 🟩 Easy - [1672. Richest Customer Wealth](<1672. Richest Customer Wealth.md>)
+* 🟩 Easy - [1688. Count of Matches in Tournament](<1688. Count of Matches in Tournament.md>)
+* 🟩 Easy - [1716. Calculate Money in Leetcode Bank](<1716. Calculate Money in Leetcode Bank.md>)
 * 🟩 Easy - [1903. Largest Odd Number in String](<1903. Largest Odd Number in String.md>)
+* 🟩 Easy - [1913. Maximum Product Difference Between Two Pairs](<1913. Maximum Product Difference Between Two Pairs.md>)
 * 🟩 Easy - [2119. A Number After a Double Reversal](<2119. A Number After a Double Reversal.md>)
+* 🟧 Medium - [2125. Number of Laser Beams in a Bank](<2125. Number of Laser Beams in a Bank.md>)
 * 🟩 Easy - [2129. Capitalize the Title](<2129. Capitalize the Title.md>)
 * 🟧 Medium - [2221. Find Triangular Sum of an Array](<2221. Find Triangular Sum of an Array.md>)
 * 🟩 Easy - [2235. Add Two Integers](<2235. Add Two Integers.md>)
 * 🟩 Easy - [2236. Root Equals Sum of Children](<2236. Root Equals Sum of Children.md>)
+* 🟩 Easy - [2264. Largest 3-Same-Digit Number in String](<2264. Largest 3-Same-Digit Number in String.md>)
 * 🟩 Easy - [2351. First Letter to Appear Twice](<2351. First Letter to Appear Twice.md>)
 * 🟧 Medium - [2353. Design a Food Rating System](<2353. Design a Food Rating System.md>)
 * 🟧 Medium - [2396. Strictly Palindromic Number](<2396. Strictly Palindromic Number.md>)
@@ -86,5 +94,8 @@
 * 🟧 Medium - [2482. Difference Between Ones and Zeros in Row and Column](<2482. Difference Between Ones and Zeros in Row and Column.md>)
 * 🟩 Easy - [2520. Count the Digits That Divide a Number](<2520. Count the Digits That Divide a Number.md>)
 * 🟩 Easy - [2544. Alternating Digit Sum](<2544. Alternating Digit Sum.md>)
+* 🟧 Medium - [2610. Convert an Array Into a 2D Array With Conditions](<2610. Convert an Array Into a 2D Array With Conditions.md>)
 * 🟩 Easy - [2651. Calculate Delayed Arrival Time](<2651. Calculate Delayed Arrival Time.md>)
 * 🟩 Easy - [2652. Sum Multiples](<2652. Sum Multiples.md>)
+* 🟩 Easy - [2706. Buy Two Chocolates](<2706. Buy Two Chocolates.md>)
+* 🟧 Medium - [2870. Minimum Number of Operations to Make Array Empty](<2870. Minimum Number of Operations to Make Array Empty.md>)
