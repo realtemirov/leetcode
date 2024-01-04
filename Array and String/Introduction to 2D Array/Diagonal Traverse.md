@@ -4,7 +4,7 @@
 
 #### Example 1:
 
-![matrix](image-2.png)
+![matrix](<image-2 (1).png>)
 
 ```
 Input: mat = [[1,2,3],[4,5,6],[7,8,9]]
@@ -12,6 +12,7 @@ Output: [1,2,4,7,5,3,6,8,9]
 ```
 
 #### Example 2:
+
 ```
 Input: mat = [[1,2],[3,4]]
 Output: [1,2,3,4]
@@ -24,7 +25,6 @@ Output: [1,2,3,4]
 * `1 <= m, n <= 104`
 * `1 <= m * n <= 104`
 * `-105 <= mat[i][j] <= 105`
-
 
 ```go
 func findDiagonalOrder(mat [][]int) []int {
@@ -65,4 +65,5 @@ func findDiagonalOrder(mat [][]int) []int {
 	return res
 }
 ```
+
 © Leetcode [link](https://leetcode.com/explore/learn/card/array-and-string/202/introduction-to-2d-array/1167/)
