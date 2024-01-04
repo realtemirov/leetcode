@@ -37,7 +37,7 @@
     * [Move Zeroes](<Array and String/Conclusion/Move Zeroes.md>)
     
 * [Problems](<Problems/README.md>)
-  * [1. Two Sum](<Problems/1. Two Sum.md>)
+  * [1. Two Sum](<./Problems/1. Two Sum.md>)
   * [7. Reverse Integer](<Problems/7. Reverse Integer.md>)
   * [9. Palindrome Number](<Problems/9. Palindrome Number.md>)
   * [12. Integer to Roman](<Problems/12. Integer to Roman.md>)
@@ -129,4 +129,4 @@
   * [2651. Calculate Delayed Arrival Time](<Problems/2651. Calculate Delayed Arrival Time.md>)
   * [2652. Sum Multiples](<Problems/2652. Sum Multiples.md>)
   * [2706. Buy Two Chocolates](<Problems/2706. Buy Two Chocolates.md>)
-  * [2870. Minimum Number of Operations to Make Array Empty](<Problems/2870. Minimum Number of Operations to Make Array Empty.md>)
+  * [2870. Minimum Number of Operations to Make Array Empty](<./Problems/2870. Minimum Number of Operations to Make Array Empty.md>)
