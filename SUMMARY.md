@@ -1,8 +1,10 @@
 # Table of contents
 
 * [Content](README.md)
-* [Algorithms](</Algorithms/README.md)
-  * [Counting Sort](</Algorithms/Counting sort.md>)
+* [Algorithms](<Algorithms/README.md>)
+  * [Binary Search](<Algorithms/Binary Search.md>)
+  * [Counting Sort](<Algorithms/Counting sort.md>)
+
 * [Array and String](<Array and String/README.md>)
   * [Introduction to Array](<Array and String/Introduction to Array/README.md>)
     * [Introduction to Array](<Array and String/Introduction to Array/Introduction to Array.md>)

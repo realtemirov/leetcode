@@ -1,8 +1,9 @@
 # Leetcode
 
-* [Algorithms](</Algorithms/README.md>)
- * [Counting Sort](</Algorithms/Counting sort.md>)
-
+* [Algorithms](<Algorithms/README.md>)
+  * [Counting Sort](<Algorithms/Counting sort.md>)
+  * [Binary Search](<Algorithms/Binary Search.md>)
+  
 * [Array and String](<Array and String/README.md>)
   * [Introduction to Array](<Array and String/Introduction to Array/README.md>)
     * [Introduction to Array](<Array and String/Introduction to Array/Introduction to Array.md>)

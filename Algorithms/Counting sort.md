@@ -125,14 +125,14 @@ func countingSort(nums []int) []int {
     return outputArray  
 }
 ```
-Kodni ishlatib ko'rish uchun [playground](https://go.dev/play/p/9hXO7vOdcHA)dan foydalaning.
+Kodni ishlatib ko'rish uchun [playground](https://go.dev/play/p/_6rPxg1hw5x)dan foydalaning.
 
 ## Complexity Analysis of Counting Sort:
-* **Time Complexity**: **O(N+K)**, bu yerda **N** - massiv uzunligi, **K** - massivning maksimal elementi.
-    * Worst Case: **O(N+K)**
-    * Average Case: **O(N+K)**
-    * Best Case: **O(N+K)**
-* **Space Complexity**: **O(N+K)**, bu yerda **N** - massiv uzunligi, **K** - massivning maksimal elementi.
+* **Time Complexity** `O(N+K)`, bu yerda **N** - massiv uzunligi, **K** - massivning maksimal elementi.
+    * Best Case: `O(N+K)`
+    * Average Case: `O(N+K)`
+    * Worst Case: `O(N+K)`
+* **Space Complexity**: `O(N+K)`, bu yerda **N** - massiv uzunligi, **K** - massivning maksimal elementi.
 
 ## Advantage of Counting Sort:
 * Counting sort agar kiritish diapazoni kirish soniga teng bo'lsa, odatda **merge sort, quick sort** kabi barcha taqqoslashga asoslangan tartiblash algoritmlariga qaraganda tezroq ishlaydi.
