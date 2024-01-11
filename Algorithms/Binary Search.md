@@ -124,7 +124,7 @@ Kodni ishlatib ko'rish uchun [playground](https://go.dev/play/p/Krd6h0KVNux)dan 
     * Best Case: `O(logN)`
     * Average Case: `O(logN)`
     * Worst Case: `O(logN)`
-* **Space Complexity**: `O(1)`, agar rekursiv qo'ng'iroqlar to'plami hisobga olinsa, yordamchi fazo `O(logN)` bo'ladi.
+* **Space Complexity**: `O(1)`, agar rekursiv binary search implementi ishlatilsa, `O(logN)` bo'ladi.
 
 ## Advantages of Binary Search:
 * Binary Search Linear Searchga qaraganda tezroq, ayniqsa katta massivlar uchun.
