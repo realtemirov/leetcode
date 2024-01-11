@@ -1,6 +1,8 @@
 # Table of contents
 
 * [Content](README.md)
+* [Algorithms](</Algorithms/README.md)
+  * [Counting Sort](</Algorithms/Counting sort.md>)
 * [Array and String](<Array and String/README.md>)
   * [Introduction to Array](<Array and String/Introduction to Array/README.md>)
     * [Introduction to Array](<Array and String/Introduction to Array/Introduction to Array.md>)
@@ -67,6 +69,7 @@
   * [226. Invert Binary Tree](<Problems/226. Invert Binary Tree.md>)
   * [242. Valid Anagram](<Problems/242. Valid Anagram.md>)
   * [283. Move Zeroes](<Problems/283. Move Zeroes.md>)
+  * [300. Longest Increasing Subsequence](<Problems/300. Longest Increasing Subsequence.md>)
   * [344. Reverse String](<Problems/344. Reverse String.md>)
   * [367. Valid Perfect Square](<Problems/367. Valid Perfect Square.md>)
   * [383. Ransom Note](<Problems/383. Ransom Note.md>)
@@ -84,6 +87,8 @@
   * [747. Largest Number At Least Twice of Others](<Problems/747. Largest Number At Least Twice of Others.md>)
   * [867. Transpose Matrix](<Problems/867. Transpose Matrix.md>)
   * [876. Middle of the Linked List](<Problems/876. Middle of the Linked List.md>)
+  * [905. Sort Array By Parity](<Problems/905. Sort Array By Parity.md>)
+  * [941. Valid Mountain Array](<Problems/941. Valid Mountain Array.md>)
   * [977. Squares of a Sorted Array](<Problems/977. Squares of a Sorted Array.md>)
   * [1084. Sales Analysis III](<Problems/1084. Sales Analysis III.md>)
   * [1089. Duplicate Zeros](<Problems/1089. Duplicate Zeros.md>)
@@ -93,6 +98,7 @@
   * [1251. Average Selling Price](<Problems/1251. Average Selling Price.md>)
   * [1287. Element Appearing More Than 25% In Sorted Array](<Problems/1287. Element Appearing More Than 25 In Sorted Array.md>)
   * [1295. Find Numbers with Even Number of Digits](<Problems/1295. Find Numbers with Even Number of Digits.md>)
+  * [1299. Replace Elements with Greatest Element on Right Side](<Problems/1299. Replace Elements with Greatest Element on Right Side.md>)
   * [1342. Number of Steps to Reduce a Number to Zero](<Problems/1342. Number of Steps to Reduce a Number to Zero.md>)
   * [1346. Check If N and Its Double Exist](<Problems/1346. Check If N and Its Double Exist.md>)
   * [1422. Maximum Score After Splitting a String](<Problems/1422. Maximum Score After Splitting a String.md>)
