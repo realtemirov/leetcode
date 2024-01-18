@@ -1,8 +1,8 @@
 # Problems
 
-> **Total:** `93` \
-> **Easy:** `72` \
-> **Medium:** `21` \
+> **Total:** `99` \
+> **Easy:** `77` \
+> **Medium:** `22` \
 > **Hard:** `0` 
 
 
@@ -19,6 +19,7 @@
 * 🟧 Medium - [54. Spiral Matrix](<./54. Spiral Matrix.md>)
 * 🟩 Easy - [66. Plus One](<./66. Plus One.md>)
 * 🟩 Easy - [67. Add Binary](<./67. Add Binary.md>)
+* 🟩 Easy - [69. Sqrt(x)](<./69. Sqrt(x).md>)
 * 🟧 Medium - [80. Remove Duplicates from Sorted Array II](<./80. Remove Duplicates from Sorted Array II.md>)
 * 🟩 Easy - [88. Merge Sorted Array](<./88. Merge Sorted Array.md>)
 * 🟩 Easy - [94. Binary Tree Inorder Traversal](<./94. Binary Tree Inorder Traversal.md>)
@@ -41,6 +42,8 @@
 * 🟩 Easy - [383. Ransom Note](<./383. Ransom Note.md>)
 * 🟩 Easy - [392. Is Subsequence](<./392. Is Subsequence.md>)
 * 🟩 Easy - [412. Fizz Buzz](<./412. Fizz Buzz.md>)
+* 🟩 Easy - [414. Third Maximum Number](<./414. Third Maximum Number.md>)
+* 🟩 Easy - [448. Find All Numbers Disappeared in an Array](<./448. Find All Numbers Disappeared in an Array.md>)
 * 🟩 Easy - [455. Assign Cookies](<./455. Assign Cookies.md>)
 * 🟩 Easy - [485. Max Consecutive Ones](<./485. Max Consecutive Ones.md>)
 * 🟧 Medium - [498. Diagonal Traverse](<./498. Diagonal Traverse.md>)
@@ -49,6 +52,7 @@
 * 🟩 Easy - [606. Construct String from Binary Tree](<./606. Construct String from Binary Tree.md>)
 * 🟩 Easy - [620. Not Boring Movies](<./620. Not Boring Movies.md>)
 * 🟩 Easy - [661. Image Smoother](<./661. Image Smoother.md>)
+* 🟩 Easy - [704. Binary Search](<./704. Binary Search.md>)
 * 🟩 Easy - [724. Find Pivot Index](<./724. Find Pivot Index.md>)
 * 🟩 Easy - [747. Largest Number At Least Twice of Others](<./747. Largest Number At Least Twice of Others.md>)
 * 🟩 Easy - [867. Transpose Matrix](<./867. Transpose Matrix.md>)
