@@ -33,6 +33,7 @@
 * 🟩 Easy - [191. Number of 1 Bits](<./191. Number of 1 Bits.md>)
 * 🟩 Easy - [197. Rising Temperature](<./197. Rising Temperature.md>)
 * 🟧 Medium - [209. Minimum Size Subarray Sum](<./209. Minimum Size Subarray Sum.md>)
+* 🟩 Easy - [217. Contains Duplicate](<./217. Contains Duplicate.md>)
 * 🟩 Easy - [226. Invert Binary Tree](<./226. Invert Binary Tree.md>)
 * 🟩 Easy - [242. Valid Anagram](<./242. Valid Anagram.md>)
 * 🟩 Easy - [283. Move Zeroes](<./283. Move Zeroes.md>)
