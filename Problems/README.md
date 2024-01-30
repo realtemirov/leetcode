@@ -1,8 +1,8 @@
 # Problems
 
-> **Total:** `99` \
-> **Easy:** `77` \
-> **Medium:** `22` \
+> **Total:** `105` \
+> **Easy:** `80` \
+> **Medium:** `25` \
 > **Hard:** `0` 
 
 
@@ -16,6 +16,7 @@
 * 🟩 Easy - [27. Remove Element](<./27. Remove Element.md>)
 * 🟩 Easy - [28. Find the Index of the First Occurrence in a String](<./28. Find the Index of the First Occurrence in a String.md>)
 * 🟧 Medium - [48. Rotate Image](<./48. Rotate Image.md>)
+* 🟧 Medium - [49. Group Anagrams](<./49. Group Anagrams.md>)
 * 🟧 Medium - [54. Spiral Matrix](<./54. Spiral Matrix.md>)
 * 🟩 Easy - [66. Plus One](<./66. Plus One.md>)
 * 🟩 Easy - [67. Add Binary](<./67. Add Binary.md>)
@@ -35,10 +36,12 @@
 * 🟧 Medium - [209. Minimum Size Subarray Sum](<./209. Minimum Size Subarray Sum.md>)
 * 🟩 Easy - [217. Contains Duplicate](<./217. Contains Duplicate.md>)
 * 🟩 Easy - [226. Invert Binary Tree](<./226. Invert Binary Tree.md>)
+* 🟧 Medium - [238. Product of Array Except Self](<./238. Product of Array Except Self.md>)
 * 🟩 Easy - [242. Valid Anagram](<./242. Valid Anagram.md>)
 * 🟩 Easy - [283. Move Zeroes](<./283. Move Zeroes.md>)
 * 🟧 Medium - [300. Longest Increasing Subsequence](<./300. Longest Increasing Subsequence.md>)
 * 🟩 Easy - [344. Reverse String](<./344. Reverse String.md>)
+* 🟧 Medium - [347. Top K Frequent Elements](<./347. Top K Frequent Elements.md>)
 * 🟩 Easy - [367. Valid Perfect Square](<./367. Valid Perfect Square.md>)
 * 🟩 Easy - [383. Ransom Note](<./383. Ransom Note.md>)
 * 🟩 Easy - [392. Is Subsequence](<./392. Is Subsequence.md>)
@@ -55,6 +58,7 @@
 * 🟩 Easy - [661. Image Smoother](<./661. Image Smoother.md>)
 * 🟩 Easy - [704. Binary Search](<./704. Binary Search.md>)
 * 🟩 Easy - [724. Find Pivot Index](<./724. Find Pivot Index.md>)
+* 🟩 Easy - [746. Min Cost Climbing Stairs](<./746. Min Cost Climbing Stairs.md>) 
 * 🟩 Easy - [747. Largest Number At Least Twice of Others](<./747. Largest Number At Least Twice of Others.md>)
 * 🟩 Easy - [867. Transpose Matrix](<./867. Transpose Matrix.md>)
 * 🟩 Easy - [876. Middle of the Linked List](<./876. Middle of the Linked List.md>)
