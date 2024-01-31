@@ -50,6 +50,7 @@
   * [12. Integer to Roman](<Problems/12. Integer to Roman.md>)
   * [13. Roman to Integer](<Problems/13. Roman to Integer.md>)
   * [14. Longest Common Prefix](<Problems/14. Longest Common Prefix.md>)
+  * [20. Valid Parentheses](<Problems/20. Valid Parentheses.md>)
   * [26. Remove Duplicates from Sorted Array](<Problems/26. Remove Duplicates from Sorted Array.md>)
   * [27. Remove Element](<Problems/27. Remove Element.md>)
   * [28. Find the Index of the First Occurrence in a String](<Problems/28. Find the Index of the First Occurrence in a String.md>)

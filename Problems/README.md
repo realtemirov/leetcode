@@ -1,7 +1,7 @@
 # Problems
 
-> **Total:** `105` \
-> **Easy:** `80` \
+> **Total:** `107` \
+> **Easy:** `82` \
 > **Medium:** `25` \
 > **Hard:** `0` 
 
@@ -12,6 +12,7 @@
 * 🟧 Medium - [12. Integer to Roman](<./12. Integer to Roman.md>)
 * 🟩 Easy - [13. Roman to Integer](<./13. Roman to Integer.md>)
 * 🟩 Easy - [14. Longest Common Prefix](<./14. Longest Common Prefix.md>)
+* 🟩 Easy - [20. Valid Parentheses](<./20. Valid Parentheses.md>)
 * 🟩 Easy - [26. Remove Duplicates from Sorted Array](<./26. Remove Duplicates from Sorted Array.md>)
 * 🟩 Easy - [27. Remove Element](<./27. Remove Element.md>)
 * 🟩 Easy - [28. Find the Index of the First Occurrence in a String](<./28. Find the Index of the First Occurrence in a String.md>)
