@@ -1,8 +1,8 @@
 # Problems
 
-> **Total:** `107` \
-> **Easy:** `82` \
-> **Medium:** `25` \
+> **Total:** `111` \
+> **Easy:** `83` \
+> **Medium:** `28` \
 > **Hard:** `0` 
 
 
@@ -75,6 +75,7 @@
 * 🟩 Easy - [1160. Find Words That Can Be Formed by Characters](<./1160. Find Words That Can Be Formed by Characters.md>)
 * 🟩 Easy - [1251. Average Selling Price](<./1251. Average Selling Price.md>)
 * 🟩 Easy - [1287. Element Appearing More Than 25% In Sorted Array](<./1287. Element Appearing More Than 25 In Sorted Array.md>)
+* 🟧 Medium - [1291. Sequential Digits](<./1291. Sequential Digits.md>) 
 * 🟩 Easy - [1295. Find Numbers with Even Number of Digits](<./1295. Find Numbers with Even Number of Digits.md>)
 * 🟩 Easy - [1299. Replace Elements with Greatest Element on Right Side](<./1299. Replace Elements with Greatest Element on Right Side.md>)
 * 🟩 Easy - [1342. Number of Steps to Reduce a Number to Zero](<./1342. Number of Steps to Reduce a Number to Zero.md>)

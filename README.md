@@ -113,6 +113,7 @@
   * [1160. Find Words That Can Be Formed by Characters](<Problems/1160. Find Words That Can Be Formed by Characters.md>)
   * [1251. Average Selling Price](<Problems/1251. Average Selling Price.md>)
   * [1287. Element Appearing More Than 25% In Sorted Array](<Problems/1287. Element Appearing More Than 25 In Sorted Array.md>)
+  * [1291. Sequential Digits](<Problems/1291. Sequential Digits.md>)
   * [1295. Find Numbers with Even Number of Digits](<Problems/1295. Find Numbers with Even Number of Digits.md>)
   * [1299. Replace Elements with Greatest Element on Right Side](<Problems/1299. Replace Elements with Greatest Element on Right Side.md>)
   * [1342. Number of Steps to Reduce a Number to Zero](<Problems/1342. Number of Steps to Reduce a Number to Zero.md>)
