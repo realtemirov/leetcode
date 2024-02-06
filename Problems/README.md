@@ -1,9 +1,9 @@
 # Problems
 
-> **Total:** `111` \
-> **Easy:** `83` \
-> **Medium:** `28` \
-> **Hard:** `0` 
+> **Total:** `117` \
+> **Easy:** `85` \
+> **Medium:** `31` \
+> **Hard:** `1` 
 
 
 * 🟩 Easy - [1. Two Sum](<./1. Two Sum.md>)
@@ -24,6 +24,7 @@
 * 🟩 Easy - [66. Plus One](<./66. Plus One.md>)
 * 🟩 Easy - [67. Add Binary](<./67. Add Binary.md>)
 * 🟩 Easy - [69. Sqrt(x)](<./69. Sqrt(x).md>)
+* 🟥 Hard - [76. Minimum Window Substring](<./76. Minimum Window Substring.md>)
 * 🟧 Medium - [80. Remove Duplicates from Sorted Array II](<./80. Remove Duplicates from Sorted Array II.md>)
 * 🟩 Easy - [88. Merge Sorted Array](<./88. Merge Sorted Array.md>)
 * 🟩 Easy - [94. Binary Tree Inorder Traversal](<./94. Binary Tree Inorder Traversal.md>)
@@ -31,6 +32,7 @@
 * 🟩 Easy - [119. Pascal's Triangle II](<./119. Pascal's Triangle II.md>)
 * 🟩 Easy - [121. Best Time to Buy and Sell Stock](<./121. Best Time to Buy and Sell Stock.md>)
 * 🟩 Easy - [125. Valid Palindrome](<./125. Valid Palindrome.md>)
+* 🟧 Medium - [148. Sort List](<./148. Sort List.md>)
 * 🟧 Medium - [151. Reverse Words in a String](<./151. Reverse Words in a String.md>)
 * 🟧 Medium - [167. Two Sum II - Input Array Is Sorted](<./167. Two Sum II - Input Array Is Sorted.md>)
 * 🟧 Medium - [189. Rotate Array](<./189. Rotate Array.md>)
@@ -47,6 +49,7 @@
 * 🟧 Medium - [347. Top K Frequent Elements](<./347. Top K Frequent Elements.md>)
 * 🟩 Easy - [367. Valid Perfect Square](<./367. Valid Perfect Square.md>)
 * 🟩 Easy - [383. Ransom Note](<./383. Ransom Note.md>)
+* 🟩 Easy - [387. First Unique Character in a String](<./387. First Unique Character in a String.md>)
 * 🟩 Easy - [392. Is Subsequence](<./392. Is Subsequence.md>)
 * 🟩 Easy - [412. Fizz Buzz](<./412. Fizz Buzz.md>)
 * 🟩 Easy - [414. Third Maximum Number](<./414. Third Maximum Number.md>)
@@ -119,3 +122,4 @@
 * 🟩 Easy - [2706. Buy Two Chocolates](<./2706. Buy Two Chocolates.md>)
 * 🟧 Medium - [2870. Minimum Number of Operations to Make Array Empty](<./2870. Minimum Number of Operations to Make Array Empty.md>)
 * 🟧 Medium - [2966. Divide Array Into Arrays With Max Difference](<./2966. Divide Array Into Arrays With Max Difference.md>)
+* 🟩 Easy - [3005. Count Elements With Maximum Frequency](<./3005. Count Elements With Maximum Frequency.md>)
