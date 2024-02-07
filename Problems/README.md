@@ -1,8 +1,8 @@
 # Problems
 
-> **Total:** `117` \
+> **Total:** `118` \
 > **Easy:** `85` \
-> **Medium:** `31` \
+> **Medium:** `32` \
 > **Hard:** `1` 
 
 
@@ -54,6 +54,7 @@
 * 🟩 Easy - [412. Fizz Buzz](<./412. Fizz Buzz.md>)
 * 🟩 Easy - [414. Third Maximum Number](<./414. Third Maximum Number.md>)
 * 🟩 Easy - [448. Find All Numbers Disappeared in an Array](<./448. Find All Numbers Disappeared in an Array.md>)
+* 🟧 Medium - [451. Sort Characters By Frequency](<./451. Sort Characters By Frequency.md>)
 * 🟩 Easy - [455. Assign Cookies](<./455. Assign Cookies.md>)
 * 🟩 Easy - [485. Max Consecutive Ones](<./485. Max Consecutive Ones.md>)
 * 🟧 Medium - [498. Diagonal Traverse](<./498. Diagonal Traverse.md>)
