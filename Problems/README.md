@@ -1,8 +1,8 @@
 # Problems
 
-> **Total:** `118` \
+> **Total:** `119` \
 > **Easy:** `85` \
-> **Medium:** `32` \
+> **Medium:** `33` \
 > **Hard:** `1` 
 
 
@@ -43,6 +43,7 @@
 * 🟩 Easy - [226. Invert Binary Tree](<./226. Invert Binary Tree.md>)
 * 🟧 Medium - [238. Product of Array Except Self](<./238. Product of Array Except Self.md>)
 * 🟩 Easy - [242. Valid Anagram](<./242. Valid Anagram.md>)
+* 🟧 Medium - [279. Perfect Squares](<./279. Perfect Squares.md>)
 * 🟩 Easy - [283. Move Zeroes](<./283. Move Zeroes.md>)
 * 🟧 Medium - [300. Longest Increasing Subsequence](<./300. Longest Increasing Subsequence.md>)
 * 🟩 Easy - [344. Reverse String](<./344. Reverse String.md>)

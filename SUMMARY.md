@@ -82,6 +82,7 @@
   * [226. Invert Binary Tree](<Problems/226. Invert Binary Tree.md>)
   * [238. Product of Array Except Self](<Problems/238. Product of Array Except Self.md>)
   * [242. Valid Anagram](<Problems/242. Valid Anagram.md>)
+  * [279. Perfect Squares](<Problems/279. Perfect Squares.md>)
   * [283. Move Zeroes](<Problems/283. Move Zeroes.md>)
   * [300. Longest Increasing Subsequence](<Problems/300. Longest Increasing Subsequence.md>)
   * [344. Reverse String](<Problems/344. Reverse String.md>)
