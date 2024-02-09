@@ -1,8 +1,8 @@
 # Problems
 
-> **Total:** `119` \
+> **Total:** `120` \
 > **Easy:** `85` \
-> **Medium:** `33` \
+> **Medium:** `34` \
 > **Hard:** `1` 
 
 
@@ -49,6 +49,7 @@
 * 🟩 Easy - [344. Reverse String](<./344. Reverse String.md>)
 * 🟧 Medium - [347. Top K Frequent Elements](<./347. Top K Frequent Elements.md>)
 * 🟩 Easy - [367. Valid Perfect Square](<./367. Valid Perfect Square.md>)
+* 🟧 Medium - [368. Largest Divisible Subset](<./368. Largest Divisible Subset.md>)
 * 🟩 Easy - [383. Ransom Note](<./383. Ransom Note.md>)
 * 🟩 Easy - [387. First Unique Character in a String](<./387. First Unique Character in a String.md>)
 * 🟩 Easy - [392. Is Subsequence](<./392. Is Subsequence.md>)
