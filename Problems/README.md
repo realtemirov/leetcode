@@ -1,8 +1,8 @@
 # Problems
 
-> **Total:** `120` \
-> **Easy:** `85` \
-> **Medium:** `34` \
+> **Total:** `122` \
+> **Easy:** `86` \
+> **Medium:** `35` \
 > **Hard:** `1` 
 
 
@@ -65,6 +65,7 @@
 * 🟩 Easy - [575. Distribute Candies](<./575. Distribute Candies.md>)
 * 🟩 Easy - [606. Construct String from Binary Tree](<./606. Construct String from Binary Tree.md>)
 * 🟩 Easy - [620. Not Boring Movies](<./620. Not Boring Movies.md>)
+* 🟧 Medium - [647. Palindromic Substrings](<./647. Palindromic Substrings.md>)
 * 🟩 Easy - [661. Image Smoother](<./661. Image Smoother.md>)
 * 🟩 Easy - [704. Binary Search](<./704. Binary Search.md>)
 * 🟩 Easy - [724. Find Pivot Index](<./724. Find Pivot Index.md>)
@@ -101,6 +102,7 @@
 * 🟩 Easy - [1672. Richest Customer Wealth](<./1672. Richest Customer Wealth.md>)
 * 🟩 Easy - [1688. Count of Matches in Tournament](<./1688. Count of Matches in Tournament.md>)
 * 🟩 Easy - [1716. Calculate Money in Leetcode Bank](<./1716. Calculate Money in Leetcode Bank.md>)
+* 🟩 Easy - [1768. Merge Strings Alternately](<./1768. Merge Strings Alternately.md>)
 * 🟩 Easy - [1903. Largest Odd Number in String](<./1903. Largest Odd Number in String.md>)
 * 🟩 Easy - [1913. Maximum Product Difference Between Two Pairs](<./1913. Maximum Product Difference Between Two Pairs.md>)
 * 🟩 Easy - [2119. A Number After a Double Reversal](<./2119. A Number After a Double Reversal.md>)
