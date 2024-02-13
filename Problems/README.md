@@ -1,7 +1,7 @@
 # Problems
 
-> **Total:** `122` \
-> **Easy:** `86` \
+> **Total:** `126` \
+> **Easy:** `90` \
 > **Medium:** `35` \
 > **Hard:** `1` 
 
@@ -63,6 +63,7 @@
 * 🟩 Easy - [557. Reverse Words in a String III](<./557. Reverse Words in a String III.md>)
 * 🟩 Easy - [561. Array Partition](<./561. Array Partition.md>)
 * 🟩 Easy - [575. Distribute Candies](<./575. Distribute Candies.md>)
+* 🟩 Easy - [605. Can Place Flowers](<./605. Can Place Flowers.md>)
 * 🟩 Easy - [606. Construct String from Binary Tree](<./606. Construct String from Binary Tree.md>)
 * 🟩 Easy - [620. Not Boring Movies](<./620. Not Boring Movies.md>)
 * 🟧 Medium - [647. Palindromic Substrings](<./647. Palindromic Substrings.md>)
@@ -77,6 +78,7 @@
 * 🟩 Easy - [941. Valid Mountain Array](<./941. Valid Mountain Array.md>)
 * 🟩 Easy - [977. Squares of a Sorted Array](<./977. Squares of a Sorted Array.md>)
 * 🟧 Medium - [1043. Partition Array for Maximum Sum](<./1043. Partition Array for Maximum Sum.md>) 
+* 🟩 Easy - [1071. Greatest Common Divisor of Strings](<./1071. Greatest Common Divisor of Strings.md>)
 * 🟩 Easy - [1084. Sales Analysis III](<./1084. Sales Analysis III.md>)
 * 🟩 Easy - [1089. Duplicate Zeros](<./1089. Duplicate Zeros.md>)
 * 🟩 Easy - [1141. User Activity for the Past 30 Days I](<./1141. User Activity for the Past 30 Days I.md>)
@@ -90,6 +92,7 @@
 * 🟩 Easy - [1342. Number of Steps to Reduce a Number to Zero](<./1342. Number of Steps to Reduce a Number to Zero.md>)
 * 🟩 Easy - [1346. Check If N and Its Double Exist](<./1346. Check If N and Its Double Exist.md>)
 * 🟩 Easy - [1422. Maximum Score After Splitting a String](<./1422. Maximum Score After Splitting a String.md>)
+* 🟩 Easy - [1431. Kids With the Greatest Number of Candies](<./1431. Kids With the Greatest Number of Candies.md>)
 * 🟩 Easy - [1436. Destination City](<./1436. Destination City.md>)
 * 🟩 Easy - [1464. Maximum Product of Two Elements in an Array](<./1464. Maximum Product of Two Elements in an Array.md>)
 * 🟩 Easy - [1480. Running Sum of 1d Array](<./1480. Running Sum of 1d Array.md>)
@@ -105,6 +108,7 @@
 * 🟩 Easy - [1768. Merge Strings Alternately](<./1768. Merge Strings Alternately.md>)
 * 🟩 Easy - [1903. Largest Odd Number in String](<./1903. Largest Odd Number in String.md>)
 * 🟩 Easy - [1913. Maximum Product Difference Between Two Pairs](<./1913. Maximum Product Difference Between Two Pairs.md>)
+* 🟩 Easy - [2108. Find First Palindromic String in the Array](<./2108. Find First Palindromic String in the Array.md>)
 * 🟩 Easy - [2119. A Number After a Double Reversal](<./2119. A Number After a Double Reversal.md>)
 * 🟧 Medium - [2125. Number of Laser Beams in a Bank](<./2125. Number of Laser Beams in a Bank.md>)
 * 🟩 Easy - [2129. Capitalize the Title](<./2129. Capitalize the Title.md>)
