@@ -1,14 +1,15 @@
 # Problems
 
-> **Total:** `126` \
-> **Easy:** `90` \
-> **Medium:** `35` \
+> **Total:** `130` \
+> **Easy:** `91` \
+> **Medium:** `38` \
 > **Hard:** `1` 
 
 
 * 🟩 Easy - [1. Two Sum](<./1. Two Sum.md>)
 * 🟧 Medium - [7. Reverse Integer](<./7. Reverse Integer.md>)
 * 🟩 Easy - [9. Palindrome Number](<./9. Palindrome Number.md>)
+* 🟧 Medium - [11. Container With Most Water](<./11. Container With Most Water.md>)
 * 🟧 Medium - [12. Integer to Roman](<./12. Integer to Roman.md>)
 * 🟩 Easy - [13. Roman to Integer](<./13. Roman to Integer.md>)
 * 🟩 Easy - [14. Longest Common Prefix](<./14. Longest Common Prefix.md>)
@@ -47,6 +48,7 @@
 * 🟩 Easy - [283. Move Zeroes](<./283. Move Zeroes.md>)
 * 🟧 Medium - [300. Longest Increasing Subsequence](<./300. Longest Increasing Subsequence.md>)
 * 🟩 Easy - [344. Reverse String](<./344. Reverse String.md>)
+* 🟩 Easy - [345. Reverse Vowels of a String](<./345. Reverse Vowels of a String.md>)
 * 🟧 Medium - [347. Top K Frequent Elements](<./347. Top K Frequent Elements.md>)
 * 🟩 Easy - [367. Valid Perfect Square](<./367. Valid Perfect Square.md>)
 * 🟧 Medium - [368. Largest Divisible Subset](<./368. Largest Divisible Subset.md>)
@@ -55,6 +57,7 @@
 * 🟩 Easy - [392. Is Subsequence](<./392. Is Subsequence.md>)
 * 🟩 Easy - [412. Fizz Buzz](<./412. Fizz Buzz.md>)
 * 🟩 Easy - [414. Third Maximum Number](<./414. Third Maximum Number.md>)
+* 🟧 Medium - [443. String Compression](<./443. String Compression.md>)
 * 🟩 Easy - [448. Find All Numbers Disappeared in an Array](<./448. Find All Numbers Disappeared in an Array.md>)
 * 🟧 Medium - [451. Sort Characters By Frequency](<./451. Sort Characters By Frequency.md>)
 * 🟩 Easy - [455. Assign Cookies](<./455. Assign Cookies.md>)
@@ -112,6 +115,7 @@
 * 🟩 Easy - [2119. A Number After a Double Reversal](<./2119. A Number After a Double Reversal.md>)
 * 🟧 Medium - [2125. Number of Laser Beams in a Bank](<./2125. Number of Laser Beams in a Bank.md>)
 * 🟩 Easy - [2129. Capitalize the Title](<./2129. Capitalize the Title.md>)
+* 🟧 Medium - [2149. Rearrange Array Elements by Sign](<./2149. Rearrange Array Elements by Sign.md>)
 * 🟧 Medium - [2221. Find Triangular Sum of an Array](<./2221. Find Triangular Sum of an Array.md>)
 * 🟩 Easy - [2235. Add Two Integers](<./2235. Add Two Integers.md>)
 * 🟩 Easy - [2236. Root Equals Sum of Children](<./2236. Root Equals Sum of Children.md>)
