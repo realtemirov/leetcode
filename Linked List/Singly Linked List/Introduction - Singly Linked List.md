@@ -3,6 +3,7 @@
 Singly linked listdagi har bir node nafaqat qiymatdan, balki `reference field`(havola maydoni)dan ham iborat. Shuningdek, singly linked list ketma-ketlikdagi nodelardan tashkil topgan. 
 
 Bu yerda singly linked listni namunasi:
+
 ![Singly linked list](https://s3-lc-upload.s3.amazonaws.com/uploads/2018/04/12/screen-shot-2018-04-12-at-152754.png)
 
 Ko'k o'qlar singly linked listdagi nodelarni birgalikda qanday bog'langanini ko'rsatadi.
