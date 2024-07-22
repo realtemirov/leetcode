@@ -49,6 +49,8 @@
     * [Introduction - Singly Linked List.md](<Linked List/Singly Linked List/Introduction - Singly Linked List.md>)
     * [Add Operation - Singly Linked List.md](<Linked List/Singly Linked List/Add Operation - Singly Linked List.md>)
     * [Delete Operation - Singly Linked List.md](<Linked List/Singly Linked List/Delete Operation - Singly Linked List.md>)
+    * [Design Linked List.md](<Linked List/Singly Linked List/Design Linked List.md>)
+  * [Design Linked List.md](<Linked List/Singly Linked List/Design Linked List.md>)
     
 * [Problems](<Problems/README.md>)
   * [1. Two Sum](<./Problems/1. Two Sum.md>)
