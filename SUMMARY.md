@@ -51,6 +51,13 @@
     * [Add Operation - Singly Linked List.md](<Linked List/Singly Linked List/Add Operation - Singly Linked List.md>)
     * [Delete Operation - Singly Linked List.md](<Linked List/Singly Linked List/Delete Operation - Singly Linked List.md>)
     * [Design Linked List.md](<Linked List/Singly Linked List/Design Linked List.md>)
+  * [Two Pointer Technique](</Linked List/Two Pointer Technique/README.md>)
+    * [Two-Pointer in Linked List](</Linked List/Two Pointer Technique/Two-Pointer in Linked List.md>)
+    * [Linked List Cycle](</Linked List/Two Pointer Technique/Linked List Cycle.md>)
+    * [Linked List Cycle II](</Linked List/Two Pointer Technique/Linked List Cycle II.md>)
+    * [Intersection of Two Linked Lists](</Linked List/Two Pointer Technique/Intersection of Two Linked Lists.md>)
+    * [Remove Nth Node From End of List](</Linked List/Two Pointer Technique/Remove Nth Node From End of List.md>)
+    * [Summary - Two-Pointer in Linked List](</Linked List/Two Pointer Technique/Summary - Two-Pointer in Linked List.md>)
 
 * [Problems](<Problems/README.md>)
   * [1. Two Sum](<Problems/1. Two Sum.md>)
