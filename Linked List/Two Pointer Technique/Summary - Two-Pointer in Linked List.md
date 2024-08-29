@@ -41,3 +41,5 @@ Oldingi `tsiklni topish` misolida, biz `tezroq ko'rsatgich`ni har safar 2 qadam 
 Shubhasiz, `M <= N`. Shunday qilib, biz tsiklni `N martagacha` bajaramiz. Va har bir loop uchun bizga faqat doimiy vaqt kerak. Demak, bu algoritmning vaqt murakkabligi jami `O(N)` ga teng.
 
 Tahlil qilish mahoratingizni oshirish uchun boshqa muammolarni o'zingiz tahlil qiling. Turli xil shartlarni hisobga olishni unutmang. Agar barcha vaziyatlarni tahlil qilish qiyin bo'lsa, eng yomonini ko'rib chiqing.
+
+© Leetcode [link](https://leetcode.com/explore/learn/card/linked-list/214/two-pointer-technique/1216/)
