@@ -1,5 +1,8 @@
 # Leetcode
 
+* [Challenge-2](<Challenge-2/README.md>)
+  * [Day-1](<Challenge-2/Day-1.md>)
+
 * [Algorithms](<Algorithms/README.md>)
   * [Linear Search](<Algorithms/Linear Search.md>)
   * [Binary Search](<Algorithms/Binary Search.md>)
@@ -68,8 +71,8 @@
   * [14. Longest Common Prefix](<Problems/14. Longest Common Prefix.md>)
   * [15. 3Sum](<Problems/15. 3Sum.md>)
   * [20. Valid Parentheses](<Problems/20. Valid Parentheses.md>)
-  * [26. Remove Duplicates from Sorted Array](<Problems/26. Remove Duplicates from Sorted Array.md>)
-  * [27. Remove Element](<Problems/27. Remove Element.md>)
+  * [26. Remove Duplicates from Sorted Array](<Problems/0026/26. Remove Duplicates from Sorted Array.md>)
+  * [27. Remove Element](<Problems/0027/27. Remove Element.md>)
   * [28. Find the Index of the First Occurrence in a String](<Problems/28. Find the Index of the First Occurrence in a String.md>)
   * [48. Rotate Image](<Problems/48. Rotate Image.md>)
   * [49. Group Anagrams](<Problems/49. Group Anagrams.md>)
@@ -80,7 +83,7 @@
   * [69. Sqrt(x)](<Problems/69. Sqrt(x).md>)
   * [76. Minimum Window Substring](<Problems/76. Minimum Window Substring.md>)
   * [80. Remove Duplicates from Sorted Array II](<Problems/80. Remove Duplicates from Sorted Array II.md>)
-  * [88. Merge Sorted Array](<Problems/88. Merge Sorted Array.md>)
+  * [88. Merge Sorted Array](<Problems/0088/88. Merge Sorted Array.md>)
   * [94. Binary Tree Inorder Traversal](<Problems/94. Binary Tree Inorder Traversal.md>)
   * [118. Pascal's Triangle](<Problems/118. Pascal's Triangle.md>)
   * [119. Pascal's Triangle II](<Problems/119. Pascal's Triangle II.md>)
