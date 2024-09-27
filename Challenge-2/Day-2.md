@@ -1,0 +1,17 @@
+# Day-2 | 26-09-2024 
+
+1. [80. Remove Duplicates from Sorted Array II](<./../Problems/0080/80. Remove Duplicates from Sorted Array II.md>) 
+   * [Leetcode](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/description/?envType=study-plan-v2&envId=top-interview-150)
+   * [Solution](<./../Problems/0080/solution.go>)
+   * [Test](<./../Problems/0080/solution_test.go>)
+   * [Result](<./../Problems/0080/80.png>)
+2. [169. Majority Element](<./../Problems/0169/169. Majority Element.md>)
+   * [Leetcode](https://leetcode.com/problems/majority-element/description/?envType=study-plan-v2&envId=top-interview-150)
+   * [Solution](<./../Problems/0169/solution.go>)
+   * [Test](<./../Problems/0169/solution_test.go>)
+   * [Result](<./../Problems/0169/169.png>)
+3. [189. Rotate Array](<./../Problems/0189/189. Rotate Array.md>)
+   * [Leetcode](https://leetcode.com/problems/rotate-array/description/?envType=study-plan-v2&envId=top-interview-150)
+   * [Solution](<./../Problems/0189/solution.go>)
+   * [Test](<./../Problems/0189/solution_test.go>)
+   * [Result](<./../Problems/0189/189.png>)
