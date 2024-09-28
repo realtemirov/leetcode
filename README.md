@@ -3,6 +3,7 @@
 * [Challenge-2](<Challenge-2/README.md>)
   * [Day-1](<Challenge-2/Day-1.md>)
   * [Day-2](<Challenge-2/Day-2.md>)
+  * [Day-3](<Challenge-2/Day-3.md>)
 
 * [Algorithms](<Algorithms/README.md>)
   * [Linear Search](<Algorithms/Linear Search.md>)

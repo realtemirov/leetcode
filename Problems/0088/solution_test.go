@@ -49,7 +49,7 @@ func Test_Merge(t *testing.T) {
 			expected: []int{1},
 		},
 		{
-			name: "",
+			name: "Test 3",
 			cases: struct {
 				nums1 []int
 				m     int
