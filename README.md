@@ -8,6 +8,8 @@
   * [Day-5](<Challenge-2/Day-5.md>)
   * [Day-6](<Challenge-2/Day-6.md>)
   * [Day-7](<Challenge-2/Day-7.md>)
+  * [Day-8](<Challenge-2/Day-8.md>)
+  * [Day-9](<Challenge-2/Day-9.md>)
 
 * [Algorithms](<Algorithms/README.md>)
   * [Linear Search](<Algorithms/Linear Search.md>)
