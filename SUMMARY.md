@@ -64,6 +64,8 @@
   * [7. Reverse Integer](<Problems/7. Reverse Integer.md>)
   * [9. Palindrome Number](<Problems/9. Palindrome Number.md>) -->
   * [11. Container With Most Water](<./Problems/0011/11. Container With Most Water.md>)
+  * [34. Find First and Last Position of Element in Sorted Array](<./Problems/0034/34. Find First and Last Position of Element in Sorted Array.md>)
+  * [35. Search Insert Position](<./Problems/0035/35. Search Insert Position.md>)
   * [704. Binary Search](<./Problems/0704/704. Binary Search.md>)
   <!-- * [12. Integer to Roman](<Problems/12. Integer to Roman.md>)
   * [13. Roman to Integer](<Problems/13. Roman to Integer.md>)
