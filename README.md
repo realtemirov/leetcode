@@ -44,7 +44,7 @@
     * [Remove Duplicates from Sorted Array](<Array and String/Conclusion/Remove Duplicates from Sorted Array.md>)
     * [Move Zeroes](<Array and String/Conclusion/Move Zeroes.md>)
 
-* [Linked List](<Linked List/README.md>)    
+* [Linked List](<Linked List/README.md>)
   * [Singly Linked List](<Linked List/Singly Linked List/README.md>)
     * [Introduction - Singly Linked List](<Linked List/Singly Linked List/Introduction - Singly Linked List.md>)
     * [Add Operation - Singly Linked List](<Linked List/Singly Linked List/Add Operation - Singly Linked List.md>)

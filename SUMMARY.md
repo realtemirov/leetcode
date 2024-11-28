@@ -64,6 +64,7 @@
   * [7. Reverse Integer](<Problems/7. Reverse Integer.md>)
   * [9. Palindrome Number](<Problems/9. Palindrome Number.md>) -->
   * [11. Container With Most Water](<./Problems/0011/11. Container With Most Water.md>)
+  * [704. Binary Search](<./Problems/0704/704. Binary Search.md>)
   <!-- * [12. Integer to Roman](<Problems/12. Integer to Roman.md>)
   * [13. Roman to Integer](<Problems/13. Roman to Integer.md>)
   * [14. Longest Common Prefix](<Problems/14. Longest Common Prefix.md>)
@@ -126,7 +127,7 @@
   * [620. Not Boring Movies](<Problems/620. Not Boring Movies.md>)
   * [647. Palindromic Substrings](<Problems/647. Palindromic Substrings.md>)
   * [661. Image Smoother](<Problems/661. Image Smoother.md>)
-  * [704. Binary Search](<Problems/704. Binary Search.md>)
+  
   * [724. Find Pivot Index](<Problems/724. Find Pivot Index.md>)
   * [746. Min Cost Climbing Stairs](<Problems/746. Min Cost Climbing Stairs.md>)
   * [747. Largest Number At Least Twice of Others](<Problems/747. Largest Number At Least Twice of Others.md>)

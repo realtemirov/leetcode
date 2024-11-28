@@ -9,6 +9,7 @@
 * 🟧 Medium - [7. Reverse Integer](<./7. Reverse Integer.md>)
 * 🟩 Easy - [9. Palindrome Number](<./9. Palindrome Number.md>) -->
 * 🟧 Medium - [11. Container With Most Water](<./0011/11. Container With Most Water.md>)
+* 🟩 Easy - [704. Binary Search](<./0704/704. Binary Search.md>)
 <!-- * 🟧 Medium - [12. Integer to Roman](<./12. Integer to Roman.md>)
 * 🟩 Easy - [13. Roman to Integer](<./13. Roman to Integer.md>)
 * 🟩 Easy - [14. Longest Common Prefix](<./14. Longest Common Prefix.md>)
@@ -71,7 +72,7 @@
 * 🟩 Easy - [620. Not Boring Movies](<./620. Not Boring Movies.md>)
 * 🟧 Medium - [647. Palindromic Substrings](<./647. Palindromic Substrings.md>)
 * 🟩 Easy - [661. Image Smoother](<./661. Image Smoother.md>)
-* 🟩 Easy - [704. Binary Search](<./704. Binary Search.md>)
+
 * 🟩 Easy - [724. Find Pivot Index](<./724. Find Pivot Index.md>)
 * 🟩 Easy - [746. Min Cost Climbing Stairs](<./746. Min Cost Climbing Stairs.md>) 
 * 🟩 Easy - [747. Largest Number At Least Twice of Others](<./747. Largest Number At Least Twice of Others.md>)
