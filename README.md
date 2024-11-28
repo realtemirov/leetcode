@@ -1,16 +1,5 @@
 # Leetcode
 
-* [Challenge-2](<Challenge-2/README.md>)
-  * [Day-1](<Challenge-2/Day-1.md>)
-  * [Day-2](<Challenge-2/Day-2.md>)
-  * [Day-3](<Challenge-2/Day-3.md>)
-  * [Day-4](<Challenge-2/Day-4.md>)
-  * [Day-5](<Challenge-2/Day-5.md>)
-  * [Day-6](<Challenge-2/Day-6.md>)
-  * [Day-7](<Challenge-2/Day-7.md>)
-  * [Day-8](<Challenge-2/Day-8.md>)
-  * [Day-9](<Challenge-2/Day-9.md>)
-
 * [Algorithms](<Algorithms/README.md>)
   * [Linear Search](<Algorithms/Linear Search.md>)
   * [Binary Search](<Algorithms/Binary Search.md>)
@@ -68,7 +57,7 @@
     * [Intersection of Two Linked Lists](</Linked List/Two Pointer Technique/Intersection of Two Linked Lists.md>)
     * [Remove Nth Node From End of List](</Linked List/Two Pointer Technique/Remove Nth Node From End of List.md>)
     * [Summary - Two-Pointer in Linked List](</Linked List/Two Pointer Technique/Summary - Two-Pointer in Linked List.md>)
-    
+
 * [Problems](<Problems/README.md>)
   * [1. Two Sum](<./Problems/1. Two Sum.md>)
   * [7. Reverse Integer](<Problems/7. Reverse Integer.md>)

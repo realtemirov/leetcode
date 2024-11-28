@@ -1,14 +1,6 @@
 # Table of contents
 
 * [Content](README.md)
-* [Challenge-2](<Challenge-2/README.md>)
-  * [Day-1](<Challenge-2/Day-1.md>)
-  * [Day-2](<Challenge-2/Day-2.md>)
-  * [Day-3](<Challenge-2/Day-3.md>)
-  * [Day-4](<Challenge-2/Day-4.md>)
-  * [Day-5](<Challenge-2/Day-5.md>)
-  * [Day-6](<Challenge-2/Day-6.md>)
-  * [Day-7](<Challenge-2/Day-7.md>)
 * [Algorithms](<Algorithms/README.md>)
   * [Linear Search](<Algorithms/Linear Search.md>)
   * [Binary Search](<Algorithms/Binary Search.md>)
@@ -53,7 +45,7 @@
     * [Remove Duplicates from Sorted Array](<Array and String/Conclusion/Remove Duplicates from Sorted Array.md>)
     * [Move Zeroes](<Array and String/Conclusion/Move Zeroes.md>)
 
-* [Linked List](<Linked List/README.md>)    
+* [Linked List](<Linked List/README.md>)
   * [Singly Linked List](<Linked List/Singly Linked List/README.md>)
     * [Introduction - Singly Linked List.md](<Linked List/Singly Linked List/Introduction - Singly Linked List.md>)
     * [Add Operation - Singly Linked List.md](<Linked List/Singly Linked List/Add Operation - Singly Linked List.md>)
