@@ -67,6 +67,7 @@
   * [12. Integer to Roman](<./Problems/0012/12. Integer to Roman.md>)
   * [34. Find First and Last Position of Element in Sorted Array](<./Problems/0034/34. Find First and Last Position of Element in Sorted Array.md>)
   * [35. Search Insert Position](<./Problems/0035/35. Search Insert Position.md>)
+  * [69. Sqrt(x)](<./Problems/0069/69. Sqrt(x).md>)
   * [704. Binary Search](<./Problems/0704/704. Binary Search.md>)
   <!-- 
   * [13. Roman to Integer](<Problems/13. Roman to Integer.md>)
@@ -82,7 +83,7 @@
   * [56. Merge Intervals](<Problems/56. Merge Intervals.md>)
   * [66. Plus One](<Problems/66. Plus One.md>)
   * [67. Add Binary](<Problems/67. Add Binary.md>)
-  * [69. Sqrt(x)](<Problems/69. Sqrt(x).md>)
+
   * [76. Minimum Window Substring](<Problems/76. Minimum Window Substring.md>)
   * [80. Remove Duplicates from Sorted Array II](<Problems/0080/80. Remove Duplicates from Sorted Array II.md>)
   * [88. Merge Sorted Array](<Problems/0088/88. Merge Sorted Array.md>)

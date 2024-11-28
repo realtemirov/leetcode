@@ -12,6 +12,7 @@
 * 🟧 Medium - [12. Integer to Roman](<./0012/12. Integer to Roman.md>)
 * 🟧 Medium - [34. Find First and Last Position of Element in Sorted Array.md](<./0034/34. Find First and Last Position of Element in Sorted Array.md>)
 * 🟩 Easy - [35. Search Insert Position](<./0035/35. Search Insert Position.md>)
+* 🟩 Easy - [69. Sqrt(x)](<./0069/69. Sqrt(x).md>)
 * 🟩 Easy - [704. Binary Search](<./0704/704. Binary Search.md>)
 <!-- 
 * 🟩 Easy - [13. Roman to Integer](<./13. Roman to Integer.md>)
@@ -27,7 +28,7 @@
 * 🟧 Medium - [56. Merge Intervals](<./56. Merge Intervals.md>)
 * 🟩 Easy - [66. Plus One](<./66. Plus One.md>)
 * 🟩 Easy - [67. Add Binary](<./67. Add Binary.md>)
-* 🟩 Easy - [69. Sqrt(x)](<./69. Sqrt(x).md>)
+
 * 🟥 Hard - [76. Minimum Window Substring](<./76. Minimum Window Substring.md>)
 * 🟧 Medium - [80. Remove Duplicates from Sorted Array II](<./0080/80. Remove Duplicates from Sorted Array II.md>)
 * 🟩 Easy - [88. Merge Sorted Array](<./0088/88. Merge Sorted Array.md>)
