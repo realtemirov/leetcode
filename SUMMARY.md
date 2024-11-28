@@ -60,11 +60,11 @@
     * [Summary - Two-Pointer in Linked List](</Linked List/Two Pointer Technique/Summary - Two-Pointer in Linked List.md>)
 
 * [Problems](<Problems/README.md>)
-  * [1. Two Sum](<Problems/1. Two Sum.md>)
+  <!-- * [1. Two Sum](<Problems/1. Two Sum.md>)
   * [7. Reverse Integer](<Problems/7. Reverse Integer.md>)
-  * [9. Palindrome Number](<Problems/9. Palindrome Number.md>)
+  * [9. Palindrome Number](<Problems/9. Palindrome Number.md>) -->
   * [11. Container With Most Water](<Problems/11. Container With Most Water.md>)
-  * [12. Integer to Roman](<Problems/12. Integer to Roman.md>)
+  <!-- * [12. Integer to Roman](<Problems/12. Integer to Roman.md>)
   * [13. Roman to Integer](<Problems/13. Roman to Integer.md>)
   * [14. Longest Common Prefix](<Problems/14. Longest Common Prefix.md>)
   * [15. 3Sum](<Problems/15. 3Sum.md>)
@@ -190,4 +190,4 @@
   * [2706. Buy Two Chocolates](<Problems/2706. Buy Two Chocolates.md>)
   * [2870. Minimum Number of Operations to Make Array Empty](<Problems/2870. Minimum Number of Operations to Make Array Empty.md>)
   * [2966. Divide Array Into Arrays With Max Difference](<Problems/2966. Divide Array Into Arrays With Max Difference.md>)
-  * [3005. Count Elements With Maximum Frequency](<Problems/3005. Count Elements With Maximum Frequency.md>)
+  * [3005. Count Elements With Maximum Frequency](<Problems/3005. Count Elements With Maximum Frequency.md>) -->
