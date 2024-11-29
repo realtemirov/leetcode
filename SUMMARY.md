@@ -69,6 +69,7 @@
   * [35. Search Insert Position](<./Problems/0035/35. Search Insert Position.md>)
   * [69. Sqrt(x)](<./Problems/0069/69. Sqrt(x).md>)
   * [704. Binary Search](<./Problems/0704/704. Binary Search.md>)
+  * [977. Squares of a Sorted Array](<./Problems/0977/977. Squares of a Sorted Array.md>)
   <!-- 
   * [13. Roman to Integer](<Problems/13. Roman to Integer.md>)
   * [14. Longest Common Prefix](<Problems/14. Longest Common Prefix.md>)

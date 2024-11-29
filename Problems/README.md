@@ -14,6 +14,7 @@
 * 🟩 Easy - [35. Search Insert Position](<./0035/35. Search Insert Position.md>)
 * 🟩 Easy - [69. Sqrt(x)](<./0069/69. Sqrt(x).md>)
 * 🟩 Easy - [704. Binary Search](<./0704/704. Binary Search.md>)
+* 🟩 Easy - [977. Squares of a Sorted Array](<./0977/977. Squares of a Sorted Array.md>)
 <!-- 
 * 🟩 Easy - [13. Roman to Integer](<./13. Roman to Integer.md>)
 * 🟩 Easy - [14. Longest Common Prefix](<./14. Longest Common Prefix.md>)
@@ -84,7 +85,7 @@
 * 🟩 Easy - [876. Middle of the Linked List](<./876. Middle of the Linked List.md>)
 * 🟩 Easy - [905. Sort Array By Parity](<./905. Sort Array By Parity.md>)
 * 🟩 Easy - [941. Valid Mountain Array](<./941. Valid Mountain Array.md>)
-* 🟩 Easy - [977. Squares of a Sorted Array](<./977. Squares of a Sorted Array.md>)
+
 * 🟧 Medium - [1043. Partition Array for Maximum Sum](<./1043. Partition Array for Maximum Sum.md>) 
 * 🟩 Easy - [1071. Greatest Common Divisor of Strings](<./1071. Greatest Common Divisor of Strings.md>)
 * 🟩 Easy - [1084. Sales Analysis III](<./1084. Sales Analysis III.md>)
