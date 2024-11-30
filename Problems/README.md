@@ -16,6 +16,7 @@
 * 🟧 Medium - [34. Find First and Last Position of Element in Sorted Array.md](<./0034/34. Find First and Last Position of Element in Sorted Array.md>)
 * 🟩 Easy - [35. Search Insert Position](<./0035/35. Search Insert Position.md>)
 * 🟩 Easy - [69. Sqrt(x)](<./0069/69. Sqrt(x).md>)
+* 🟧 Medium - [75. Sort Colors.md](<./0075/75. Sort Colors.md>)
 * 🟩 Easy - [704. Binary Search](<./0704/704. Binary Search.md>)
 * 🟩 Easy - [977. Squares of a Sorted Array](<./0977/977. Squares of a Sorted Array.md>)
 <!-- 

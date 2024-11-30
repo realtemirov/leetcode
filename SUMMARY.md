@@ -71,6 +71,7 @@
   * [34. Find First and Last Position of Element in Sorted Array](<./Problems/0034/34. Find First and Last Position of Element in Sorted Array.md>)
   * [35. Search Insert Position](<./Problems/0035/35. Search Insert Position.md>)
   * [69. Sqrt(x)](<./Problems/0069/69. Sqrt(x).md>)
+  * [75. Sort Colors.md](<./Problems/0075/75. Sort Colors.md>)
   * [704. Binary Search](<./Problems/0704/704. Binary Search.md>)
   * [977. Squares of a Sorted Array](<./Problems/0977/977. Squares of a Sorted Array.md>)
   <!-- 
