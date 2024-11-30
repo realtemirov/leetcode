@@ -18,6 +18,7 @@
 * 🟩 Easy - [69. Sqrt(x)](<./0069/69. Sqrt(x).md>)
 * 🟧 Medium - [75. Sort Colors.md](<./0075/75. Sort Colors.md>)
 * 🟩 Easy - [104. Maximum Depth of Binary Tree](<./0104/104. Maximum Depth of Binary Tree.md>)
+* 🟩 Easy - [206. Reverse Linked List](<./0206/206. Reverse Linked List.md>)
 * 🟩 Easy - [509. Fibonacci Number](<./0509/509. Fibonacci Number.md>)
 * 🟩 Easy - [704. Binary Search](<./0704/704. Binary Search.md>)
 * 🟩 Easy - [977. Squares of a Sorted Array](<./0977/977. Squares of a Sorted Array.md>)

@@ -1,38 +1,38 @@
 package helper
 
-// type ListNode struct {
-// 	Val  int
-// 	Next *ListNode
-// }
+type ListNode struct {
+	Val  int
+	Next *ListNode
+}
 
-// func NewUtilsListNode(val int) *ListNode {
-// 	return &ListNode{Val: val}
-// }
+func SliceToList(nums []int) *ListNode {
+	if len(nums) == 0 {
+		return nil
+	}
 
-// // NextSetter allows setting the next node in the list.
-// type NextSetter interface {
-// 	SetNext(interface{ NextSetter })
-// }
+	head := &ListNode{Val: nums[0]}
+	current := head
 
-// // Implement SetNext for *utils.ListNode
-// func (n *ListNode) SetNext(next interface{ NextSetter }) {
-// 	n.Next = next.(*ListNode)
-// }
+	for _, v := range nums[1:] {
+		current.Next = &ListNode{Val: v}
+		current = current.Next
+	}
 
-// // SliceToList creates a linked list from a slice of integers using a factory function.
-// func SliceToList(nums []int, newNode func(int) interface{ NextSetter }) interface{ NextSetter } {
-// 	if len(nums) == 0 {
-// 		return nil
-// 	}
-// 	head := newNode(nums[0])
-// 	current := head
-// 	for _, val := range nums[1:] {
-// 		newNode := newNode(val)
-// 		current.SetNext(newNode)
-// 		current = newNode
-// 	}
-// 	return head
-// }
+	return head
+}
+
+func ListToSlice(head *ListNode) []int {
+	nums := []int{}
+
+	current := head
+
+	for current != nil {
+		nums = append(nums, current.Val)
+		current = current.Next
+	}
+
+	return nums
+}
 
 type TreeNode struct {
 	Val   int
