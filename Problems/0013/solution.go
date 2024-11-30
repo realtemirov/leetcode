@@ -24,21 +24,3 @@ func RomanToInt(s string) int {
 
 	return number
 }
-
-/*
-	{
-		name:     "Test 1",
-		cases:    "III",
-		expected: 3,
-	},
-	{
-		name:     "Test 2",
-		cases:    "LVIII",
-		expected: 58,
-	},
-	{
-		name:     "Test 3",
-		cases:    "MCMXCIV",
-		expected: 1994,
-	},
-*/
