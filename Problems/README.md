@@ -21,6 +21,7 @@
 * 🟩 Easy - [206. Reverse Linked List](<./0206/206. Reverse Linked List.md>)
 * 🟩 Easy - [509. Fibonacci Number](<./0509/509. Fibonacci Number.md>)
 * 🟩 Easy - [704. Binary Search](<./0704/704. Binary Search.md>)
+* 🟩 Easy - [876. Middle of the Linked List.md](<./0876/876. Middle of the Linked List.md>)
 * 🟩 Easy - [977. Squares of a Sorted Array](<./0977/977. Squares of a Sorted Array.md>)
 <!-- 
 

@@ -76,6 +76,7 @@
   * [206. Reverse Linked List](<./Problems/0206/206. Reverse Linked List.md>)
   * [509. Fibonacci Number](<./Problems/0509/509. Fibonacci Number.md>)
   * [704. Binary Search](<./Problems/0704/704. Binary Search.md>)
+  * [876. Middle of the Linked List.md](<./Problems/0876/876. Middle of the Linked List.md>)
   * [977. Squares of a Sorted Array](<./Problems/0977/977. Squares of a Sorted Array.md>)
   <!-- 
   
