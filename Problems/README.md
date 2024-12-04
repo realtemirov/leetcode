@@ -19,6 +19,7 @@
 * 🟩 Easy - [104. Maximum Depth of Binary Tree](<./0104/104. Maximum Depth of Binary Tree.md>)
 * 🟩 Easy - [206. Reverse Linked List](<./0206/206. Reverse Linked List.md>)
 * 🟩 Easy - [217. Contains Duplicate](<./0217/217. Contains Duplicate.md>)
+* 🟩 Easy - [219. Contains Duplicate II](<./0219/219. Contains Duplicate II.md>)
 * 🟩 Easy - [268. Missing Number](<./0268/268. Missing Number.md>)
 * 🟩 Easy - [509. Fibonacci Number](<./0509/509. Fibonacci Number.md>)
 * 🟩 Easy - [704. Binary Search](<./0704/704. Binary Search.md>)

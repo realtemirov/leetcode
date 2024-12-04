@@ -74,6 +74,7 @@
   * [104. Maximum Depth of Binary Tree](<./Problems/0104/104. Maximum Depth of Binary Tree.md>)
   * [206. Reverse Linked List](<./Problems/0206/206. Reverse Linked List.md>)
   * [217. Contains Duplicate](</Problems/0217/217. Contains Duplicate.md>)
+  * [219. Contains Duplicate](</Problems/0219/219. Contains Duplicate II.md>)
   * [268. Missing Number](</Problems/0268/268. Missing Number.md>)
   * [509. Fibonacci Number](<./Problems/0509/509. Fibonacci Number.md>)
   * [704. Binary Search](<./Problems/0704/704. Binary Search.md>)
