@@ -47,10 +47,10 @@
 
 * [Linked List](<Linked List/README.md>)
   * [Singly Linked List](<Linked List/Singly Linked List/README.md>)
-    * [Introduction - Singly Linked List.md](<Linked List/Singly Linked List/Introduction - Singly Linked List.md>)
-    * [Add Operation - Singly Linked List.md](<Linked List/Singly Linked List/Add Operation - Singly Linked List.md>)
-    * [Delete Operation - Singly Linked List.md](<Linked List/Singly Linked List/Delete Operation - Singly Linked List.md>)
-    * [Design Linked List.md](<Linked List/Singly Linked List/Design Linked List.md>)
+    * [Introduction - Singly Linked List](<Linked List/Singly Linked List/Introduction - Singly Linked List.md>)
+    * [Add Operation - Singly Linked List](<Linked List/Singly Linked List/Add Operation - Singly Linked List.md>)
+    * [Delete Operation - Singly Linked List](<Linked List/Singly Linked List/Delete Operation - Singly Linked List.md>)
+    * [Design Linked List](<Linked List/Singly Linked List/Design Linked List.md>)
   * [Two Pointer Technique](</Linked List/Two Pointer Technique/README.md>)
     * [Two-Pointer in Linked List](</Linked List/Two Pointer Technique/Two-Pointer in Linked List.md>)
     * [Linked List Cycle](</Linked List/Two Pointer Technique/Linked List Cycle.md>)
@@ -60,11 +60,9 @@
     * [Summary - Two-Pointer in Linked List](</Linked List/Two Pointer Technique/Summary - Two-Pointer in Linked List.md>)
 
 * [Problems](<Problems/README.md>)
-  <!-- 
-
-  * [9. Palindrome Number](<Problems/9. Palindrome Number.md>) -->
   * [1. Two Sum](<./Problems/0001/1. Two Sum.md>)
   * [7. Reverse Integer](<./Problems/0007/7. Reverse Integer.md>)
+  * [9. Palindrome Number](<./Problems/0009/9. Palindrome Number.md>)
   * [11. Container With Most Water](<./Problems/0011/11. Container With Most Water.md>)
   * [12. Integer to Roman](<./Problems/0012/12. Integer to Roman.md>)
   * [13. Roman to Integer](<./Problems/0013/13. Roman to Integer.md>)
@@ -72,12 +70,12 @@
   * [34. Find First and Last Position of Element in Sorted Array](<./Problems/0034/34. Find First and Last Position of Element in Sorted Array.md>)
   * [35. Search Insert Position](<./Problems/0035/35. Search Insert Position.md>)
   * [69. Sqrt(x)](<./Problems/0069/69. Sqrt(x).md>)
-  * [75. Sort Colors.md](<./Problems/0075/75. Sort Colors.md>)
+  * [75. Sort Colors](<./Problems/0075/75. Sort Colors.md>)
   * [104. Maximum Depth of Binary Tree](<./Problems/0104/104. Maximum Depth of Binary Tree.md>)
   * [206. Reverse Linked List](<./Problems/0206/206. Reverse Linked List.md>)
   * [509. Fibonacci Number](<./Problems/0509/509. Fibonacci Number.md>)
   * [704. Binary Search](<./Problems/0704/704. Binary Search.md>)
-  * [876. Middle of the Linked List.md](<./Problems/0876/876. Middle of the Linked List.md>)
+  * [876. Middle of the Linked List](<./Problems/0876/876. Middle of the Linked List.md>)
   * [977. Squares of a Sorted Array](<./Problems/0977/977. Squares of a Sorted Array.md>)
   <!-- 
   
