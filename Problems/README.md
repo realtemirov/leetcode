@@ -18,6 +18,7 @@
 * 🟧 Medium - [75. Sort Colors](<./0075/75. Sort Colors.md>)
 * 🟩 Easy - [104. Maximum Depth of Binary Tree](<./0104/104. Maximum Depth of Binary Tree.md>)
 * 🟩 Easy - [206. Reverse Linked List](<./0206/206. Reverse Linked List.md>)
+* 🟩 Easy - [217. Contains Duplicate](<./0217/217. Contains Duplicate.md>)
 * 🟩 Easy - [509. Fibonacci Number](<./0509/509. Fibonacci Number.md>)
 * 🟩 Easy - [704. Binary Search](<./0704/704. Binary Search.md>)
 * 🟩 Easy - [876. Middle of the Linked List](<./0876/876. Middle of the Linked List.md>)
@@ -52,7 +53,7 @@
 * 🟩 Easy - [191. Number of 1 Bits](<./191. Number of 1 Bits.md>)
 * 🟩 Easy - [197. Rising Temperature](<./197. Rising Temperature.md>)
 * 🟧 Medium - [209. Minimum Size Subarray Sum](<./209. Minimum Size Subarray Sum.md>)
-* 🟩 Easy - [217. Contains Duplicate](<./217. Contains Duplicate.md>)
+
 * 🟩 Easy - [226. Invert Binary Tree](<./226. Invert Binary Tree.md>)
 * 🟧 Medium - [238. Product of Array Except Self](<./238. Product of Array Except Self.md>)
 * 🟩 Easy - [242. Valid Anagram](<./242. Valid Anagram.md>)
