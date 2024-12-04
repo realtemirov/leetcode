@@ -6,22 +6,23 @@
 > **Hard:** `1` -->
 
 <!--
-* 🟧 Medium - [7. Reverse Integer](<./7. Reverse Integer.md>)
+
 * 🟩 Easy - [9. Palindrome Number](<./9. Palindrome Number.md>) -->
 * 🟩 Easy - [1. Two Sum](<./0001/1. Two Sum.md>)
+* 🟧 Medium - [7. Reverse Integer](<./0007/7. Reverse Integer.md>)
 * 🟧 Medium - [11. Container With Most Water](<./0011/11. Container With Most Water.md>)
 * 🟧 Medium - [12. Integer to Roman](<./0012/12. Integer to Roman.md>)
 * 🟩 Easy - [13. Roman to Integer](<./0013/13. Roman to Integer.md>)
 * 🟩 Easy - [14. Longest Common Prefix](<./0014/14. Longest Common Prefix.md>)
-* 🟧 Medium - [34. Find First and Last Position of Element in Sorted Array.md](<./0034/34. Find First and Last Position of Element in Sorted Array.md>)
+* 🟧 Medium - [34. Find First and Last Position of Element in Sorted Array](<./0034/34. Find First and Last Position of Element in Sorted Array.md>)
 * 🟩 Easy - [35. Search Insert Position](<./0035/35. Search Insert Position.md>)
 * 🟩 Easy - [69. Sqrt(x)](<./0069/69. Sqrt(x).md>)
-* 🟧 Medium - [75. Sort Colors.md](<./0075/75. Sort Colors.md>)
+* 🟧 Medium - [75. Sort Colors](<./0075/75. Sort Colors.md>)
 * 🟩 Easy - [104. Maximum Depth of Binary Tree](<./0104/104. Maximum Depth of Binary Tree.md>)
 * 🟩 Easy - [206. Reverse Linked List](<./0206/206. Reverse Linked List.md>)
 * 🟩 Easy - [509. Fibonacci Number](<./0509/509. Fibonacci Number.md>)
 * 🟩 Easy - [704. Binary Search](<./0704/704. Binary Search.md>)
-* 🟩 Easy - [876. Middle of the Linked List.md](<./0876/876. Middle of the Linked List.md>)
+* 🟩 Easy - [876. Middle of the Linked List](<./0876/876. Middle of the Linked List.md>)
 * 🟩 Easy - [977. Squares of a Sorted Array](<./0977/977. Squares of a Sorted Array.md>)
 <!-- 
 

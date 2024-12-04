@@ -61,9 +61,10 @@
 
 * [Problems](<Problems/README.md>)
   <!-- 
-  * [7. Reverse Integer](<Problems/7. Reverse Integer.md>)
+
   * [9. Palindrome Number](<Problems/9. Palindrome Number.md>) -->
   * [1. Two Sum](<./Problems/0001/1. Two Sum.md>)
+  * [7. Reverse Integer](<./Problems/0007/7. Reverse Integer.md>)
   * [11. Container With Most Water](<./Problems/0011/11. Container With Most Water.md>)
   * [12. Integer to Roman](<./Problems/0012/12. Integer to Roman.md>)
   * [13. Roman to Integer](<./Problems/0013/13. Roman to Integer.md>)
