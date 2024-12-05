@@ -1,13 +1,14 @@
 package problem0026
 
 func RemoveDuplicates(nums []int) int {
-	idx := 0
+	idx := 1
+
 	for i := 1; i < len(nums); i++ {
-		if nums[i] != nums[idx] {
-			idx++
+		if nums[idx-1] != nums[i] {
 			nums[idx] = nums[i]
+			idx++
 		}
 	}
 
-	return idx + 1
+	return idx
 }
