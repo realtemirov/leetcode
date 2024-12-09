@@ -1,9 +1,9 @@
 # Problems
-<!-- 
-> **Total:** `130` \
-> **Easy:** `91` \
-> **Medium:** `38` \
-> **Hard:** `1` -->
+
+> **Total:** `23` \
+> **Easy:** `17` \
+> **Medium:** `6` \
+> **Hard:** `0`
 
 * 🟩 Easy - [1. Two Sum](<./0001/1. Two Sum.md>)
 * 🟧 Medium - [7. Reverse Integer](<./0007/7. Reverse Integer.md>)
