@@ -1,8 +1,8 @@
 # Problems
 
-> **Total:** `23` \
+> **Total:** `24` \
 > **Easy:** `17` \
-> **Medium:** `6` \
+> **Medium:** `7` \
 > **Hard:** `0`
 
 * 🟩 Easy - [1. Two Sum](<./0001/1. Two Sum.md>)
@@ -12,6 +12,7 @@
 * 🟧 Medium - [12. Integer to Roman](<./0012/12. Integer to Roman.md>)
 * 🟩 Easy - [13. Roman to Integer](<./0013/13. Roman to Integer.md>)
 * 🟩 Easy - [14. Longest Common Prefix](<./0014/14. Longest Common Prefix.md>)
+* 🟧 Medium - [15. 3Sum](<./0015/15. 3Sum.md>)
 * 🟩 Easy - [26. Remove Duplicates from Sorted Array](<./0026/26. Remove Duplicates from Sorted Array.md>)
 * 🟧 Medium - [34. Find First and Last Position of Element in Sorted Array](<./0034/34. Find First and Last Position of Element in Sorted Array.md>)
 * 🟩 Easy - [35. Search Insert Position](<./0035/35. Search Insert Position.md>)
@@ -30,7 +31,6 @@
 * 🟩 Easy - [977. Squares of a Sorted Array](<./0977/977. Squares of a Sorted Array.md>)
 <!-- 
 
-* 🟧 Medium - [15. 3Sum](<./15. 3Sum.md>)
 * 🟩 Easy - [20. Valid Parentheses](<./20. Valid Parentheses.md>)
 
 * 🟩 Easy - [27. Remove Element](<./0027/27. Remove Element.md>)

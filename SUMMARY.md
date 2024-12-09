@@ -67,6 +67,7 @@
   * [12. Integer to Roman](<./Problems/0012/12. Integer to Roman.md>)
   * [13. Roman to Integer](<./Problems/0013/13. Roman to Integer.md>)
   * [14. Longest Common Prefix](<./Problems/0014/14. Longest Common Prefix.md>)
+  * [15. 3Sum](<./Problems/0015/15. 3Sum.md>)
   * [26. Remove Duplicates from Sorted Array](<./Problems/0026/26. Remove Duplicates from Sorted Array.md>)
   * [34. Find First and Last Position of Element in Sorted Array](<./Problems/0034/34. Find First and Last Position of Element in Sorted Array.md>)
   * [35. Search Insert Position](<./Problems/0035/35. Search Insert Position.md>)
@@ -85,7 +86,7 @@
   * [977. Squares of a Sorted Array](<./Problems/0977/977. Squares of a Sorted Array.md>)
   <!-- 
   
-  * [15. 3Sum](<Problems/15. 3Sum.md>)
+
   * [20. Valid Parentheses](<Problems/20. Valid Parentheses.md>)
   * [26. Remove Duplicates from Sorted Array](<Problems/0026/26. Remove Duplicates from Sorted Array.md>)
   * [27. Remove Element](<Problems/0027/27. Remove Element.md>)
