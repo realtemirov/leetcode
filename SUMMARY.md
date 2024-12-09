@@ -73,6 +73,7 @@
   * [69. Sqrt(x)](<./Problems/0069/69. Sqrt(x).md>)
   * [75. Sort Colors](<./Problems/0075/75. Sort Colors.md>)
   * [104. Maximum Depth of Binary Tree](<./Problems/0104/104. Maximum Depth of Binary Tree.md>)
+  * [146. LRU Cache](<./Problems/0146/146. LRU Cache.md>)
   * [206. Reverse Linked List](<./Problems/0206/206. Reverse Linked List.md>)
   * [217. Contains Duplicate](</Problems/0217/217. Contains Duplicate.md>)
   * [219. Contains Duplicate II](</Problems/0219/219. Contains Duplicate II.md>)

@@ -18,6 +18,7 @@
 * 🟩 Easy - [69. Sqrt(x)](<./0069/69. Sqrt(x).md>)
 * 🟧 Medium - [75. Sort Colors](<./0075/75. Sort Colors.md>)
 * 🟩 Easy - [104. Maximum Depth of Binary Tree](<./0104/104. Maximum Depth of Binary Tree.md>)
+* 🟧 Medium - [146. LRU Cache](<./0146/146. LRU Cache.md>)
 * 🟩 Easy - [206. Reverse Linked List](<./0206/206. Reverse Linked List.md>)
 * 🟩 Easy - [217. Contains Duplicate](<./0217/217. Contains Duplicate.md>)
 * 🟩 Easy - [219. Contains Duplicate II](<./0219/219. Contains Duplicate II.md>)
