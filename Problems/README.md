@@ -1,7 +1,7 @@
 # Problems
 
-> **Total:** `24` \
-> **Easy:** `17` \
+> **Total:** `25` \
+> **Easy:** `18` \
 > **Medium:** `7` \
 > **Hard:** `0`
 
@@ -25,6 +25,7 @@
 * 🟩 Easy - [219. Contains Duplicate II](<./0219/219. Contains Duplicate II.md>)
 * 🟩 Easy - [268. Missing Number](<./0268/268. Missing Number.md>)
 * 🟩 Easy - [509. Fibonacci Number](<./0509/509. Fibonacci Number.md>)
+* 🟩 Easy - [637. Average of Levels in Binary Tree](<./0637/637. Average of Levels in Binary Tree.md>)
 * 🟩 Easy - [704. Binary Search](<./0704/704. Binary Search.md>)
 * 🟩 Easy - [705. Design HashSet](<./0705/705. Design HashSet.md>)
 * 🟩 Easy - [876. Middle of the Linked List](<./0876/876. Middle of the Linked List.md>)
