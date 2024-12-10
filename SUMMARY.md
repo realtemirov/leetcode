@@ -74,6 +74,7 @@
   * [69. Sqrt(x)](<./Problems/0069/69. Sqrt(x).md>)
   * [75. Sort Colors](<./Problems/0075/75. Sort Colors.md>)
   * [104. Maximum Depth of Binary Tree](<./Problems/0104/104. Maximum Depth of Binary Tree.md>)
+  * [121. Best Time to Buy and Sell Stock](<./Problems/0121/121. Best Time to Buy and Sell Stock.md>)
   * [146. LRU Cache](<./Problems/0146/146. LRU Cache.md>)
   * [206. Reverse Linked List](<./Problems/0206/206. Reverse Linked List.md>)
   * [217. Contains Duplicate](</Problems/0217/217. Contains Duplicate.md>)
@@ -105,7 +106,7 @@
   * [94. Binary Tree Inorder Traversal](<Problems/94. Binary Tree Inorder Traversal.md>)
   * [118. Pascal's Triangle](<Problems/118. Pascal's Triangle.md>)
   * [119. Pascal's Triangle II](<Problems/119. Pascal's Triangle II.md>)
-  * [121. Best Time to Buy and Sell Stock](<Problems/121. Best Time to Buy and Sell Stock.md>)
+
   * [125. Valid Palindrome](<Problems/125. Valid Palindr  Dome.md>)
   * [148. Sort List](<Problems/148. Sort List.md>)
   * [151. Reverse Words in a String](<Problems/151. Reverse Words in a String.md>)

@@ -19,6 +19,7 @@
 * 🟩 Easy - [69. Sqrt(x)](<./0069/69. Sqrt(x).md>)
 * 🟧 Medium - [75. Sort Colors](<./0075/75. Sort Colors.md>)
 * 🟩 Easy - [104. Maximum Depth of Binary Tree](<./0104/104. Maximum Depth of Binary Tree.md>)
+* 🟩 Easy - [121. Best Time to Buy and Sell Stock](<./0121/121. Best Time to Buy and Sell Stock.md>)
 * 🟧 Medium - [146. LRU Cache](<./0146/146. LRU Cache.md>)
 * 🟩 Easy - [206. Reverse Linked List](<./0206/206. Reverse Linked List.md>)
 * 🟩 Easy - [217. Contains Duplicate](<./0217/217. Contains Duplicate.md>)
@@ -49,7 +50,7 @@
 * 🟩 Easy - [94. Binary Tree Inorder Traversal](<./94. Binary Tree Inorder Traversal.md>)
 * 🟩 Easy - [118. Pascal's Triangle](<./118. Pascal's Triangle.md>)
 * 🟩 Easy - [119. Pascal's Triangle II](<./119. Pascal's Triangle II.md>)
-* 🟩 Easy - [121. Best Time to Buy and Sell Stock](<./121. Best Time to Buy and Sell Stock.md>)
+
 * 🟩 Easy - [125. Valid Palindrome](<./125. Valid Palindrome.md>)
 * 🟧 Medium - [148. Sort List](<./148. Sort List.md>)
 * 🟧 Medium - [151. Reverse Words in a String](<./151. Reverse Words in a String.md>)
