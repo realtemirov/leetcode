@@ -24,6 +24,7 @@
 * 🟩 Easy - [206. Reverse Linked List](<./0206/206. Reverse Linked List.md>)
 * 🟩 Easy - [217. Contains Duplicate](<./0217/217. Contains Duplicate.md>)
 * 🟩 Easy - [219. Contains Duplicate II](<./0219/219. Contains Duplicate II.md>)
+* 🟧 Medium - [238. Product of Array Except Self](<./0238/238. Product of Array Except Self.md>)
 * 🟩 Easy - [268. Missing Number](<./0268/268. Missing Number.md>)
 * 🟩 Easy - [509. Fibonacci Number](<./0509/509. Fibonacci Number.md>)
 * 🟩 Easy - [637. Average of Levels in Binary Tree](<./0637/637. Average of Levels in Binary Tree.md>)
@@ -62,7 +63,7 @@
 * 🟧 Medium - [209. Minimum Size Subarray Sum](<./209. Minimum Size Subarray Sum.md>)
 
 * 🟩 Easy - [226. Invert Binary Tree](<./226. Invert Binary Tree.md>)
-* 🟧 Medium - [238. Product of Array Except Self](<./238. Product of Array Except Self.md>)
+
 * 🟩 Easy - [242. Valid Anagram](<./242. Valid Anagram.md>)
 * 🟧 Medium - [279. Perfect Squares](<./279. Perfect Squares.md>)
 * 🟩 Easy - [283. Move Zeroes](<./283. Move Zeroes.md>)
