@@ -32,6 +32,7 @@
 * 🟩 Easy - [705. Design HashSet](<./0705/705. Design HashSet.md>)
 * 🟩 Easy - [876. Middle of the Linked List](<./0876/876. Middle of the Linked List.md>)
 * 🟩 Easy - [977. Squares of a Sorted Array](<./0977/977. Squares of a Sorted Array.md>)
+* 🟩 Easy - [1768. Merge Strings Alternately](<./1768/1768. Merge Strings Alternately.md>)
 <!-- 
 
 * 🟩 Easy - [20. Valid Parentheses](<./20. Valid Parentheses.md>)
@@ -129,7 +130,7 @@
 * 🟩 Easy - [1672. Richest Customer Wealth](<./1672. Richest Customer Wealth.md>)
 * 🟩 Easy - [1688. Count of Matches in Tournament](<./1688. Count of Matches in Tournament.md>)
 * 🟩 Easy - [1716. Calculate Money in Leetcode Bank](<./1716. Calculate Money in Leetcode Bank.md>)
-* 🟩 Easy - [1768. Merge Strings Alternately](<./1768. Merge Strings Alternately.md>)
+
 * 🟩 Easy - [1903. Largest Odd Number in String](<./1903. Largest Odd Number in String.md>)
 * 🟩 Easy - [1913. Maximum Product Difference Between Two Pairs](<./1913. Maximum Product Difference Between Two Pairs.md>)
 * 🟩 Easy - [2108. Find First Palindromic String in the Array](<./2108. Find First Palindromic String in the Array.md>)

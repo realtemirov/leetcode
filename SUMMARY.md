@@ -87,6 +87,7 @@
   * [705. Design HashSet](<./Problems/0705/705. Design HashSet.md>)
   * [876. Middle of the Linked List](<./Problems/0876/876. Middle of the Linked List.md>)
   * [977. Squares of a Sorted Array](<./Problems/0977/977. Squares of a Sorted Array.md>)
+  * [1768. Merge Strings Alternately](<./Problems/1768/1768. Merge Strings Alternately.md>)
   <!-- 
   
 
@@ -185,7 +186,7 @@
   * [1672. Richest Customer Wealth](<Problems/1672. Richest Customer Wealth.md>)
   * [1688. Count of Matches in Tournament](<Problems/1688. Count of Matches in Tournament.md>)
   * [1716. Calculate Money in Leetcode Bank](<Problems/1716. Calculate Money in Leetcode Bank.md>)
-  * [1768. Merge Strings Alternately](<Problems/1768. Merge Strings Alternately.md>)
+  
   * [1903. Largest Odd Number in String](<Problems/1903. Largest Odd Number in String.md>)
   * [1913. Maximum Product Difference Between Two Pairs](<Problems/1913. Maximum Product Difference Between Two Pairs.md>)
   * [2108. Find First Palindromic String in the Array](<Problems/2108. Find First Palindromic String in the Array.md>)
