@@ -81,6 +81,7 @@
   * [219. Contains Duplicate II](<./Problems/0219/219. Contains Duplicate II.md>)
   * [238. Product of Array Except Self](<./Problems/0238/238. Product of Array Except Self.md>)
   * [268. Missing Number](<./Problems/0268/268. Missing Number.md>)
+  * [389. Find the Difference](<./Problems/0389/389. Find the Difference.md>)
   * [509. Fibonacci Number](<./Problems/0509/509. Fibonacci Number.md>)
   * [637. Average of Levels in Binary Tree](<./Problems/0637/637. Average of Levels in Binary Tree.md>)
   * [704. Binary Search](<./Problems/0704/704. Binary Search.md>)

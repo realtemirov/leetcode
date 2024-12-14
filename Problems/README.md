@@ -26,6 +26,7 @@
 * 🟩 Easy - [219. Contains Duplicate II](<./0219/219. Contains Duplicate II.md>)
 * 🟧 Medium - [238. Product of Array Except Self](<./0238/238. Product of Array Except Self.md>)
 * 🟩 Easy - [268. Missing Number](<./0268/268. Missing Number.md>)
+* 🟩 Easy - [389. Find the Difference](<./0389/389. Find the Difference.md>)
 * 🟩 Easy - [509. Fibonacci Number](<./0509/509. Fibonacci Number.md>)
 * 🟩 Easy - [637. Average of Levels in Binary Tree](<./0637/637. Average of Levels in Binary Tree.md>)
 * 🟩 Easy - [704. Binary Search](<./0704/704. Binary Search.md>)
