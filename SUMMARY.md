@@ -71,6 +71,7 @@
   * [26. Remove Duplicates from Sorted Array](<./Problems/0026/26. Remove Duplicates from Sorted Array.md>)
   * [34. Find First and Last Position of Element in Sorted Array](<./Problems/0034/34. Find First and Last Position of Element in Sorted Array.md>)
   * [35. Search Insert Position](<./Problems/0035/35. Search Insert Position.md>)
+  * [66. Plus One](<./Problems/0066/66. Plus One.md>)
   * [69. Sqrt(x)](<./Problems/0069/69. Sqrt(x).md>)
   * [75. Sort Colors](<./Problems/0075/75. Sort Colors.md>)
   * [104. Maximum Depth of Binary Tree](<./Problems/0104/104. Maximum Depth of Binary Tree.md>)
@@ -100,7 +101,7 @@
   * [49. Group Anagrams](<Problems/49. Group Anagrams.md>)
   * [54. Spiral Matrix](<Problems/54. Spiral Matrix.md>)
   * [56. Merge Intervals](<Problems/56. Merge Intervals.md>)
-  * [66. Plus One](<Problems/66. Plus One.md>)
+
   * [67. Add Binary](<Problems/67. Add Binary.md>)
 
   * [76. Minimum Window Substring](<Problems/76. Minimum Window Substring.md>)

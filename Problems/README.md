@@ -16,6 +16,7 @@
 * 🟩 Easy - [26. Remove Duplicates from Sorted Array](<./0026/26. Remove Duplicates from Sorted Array.md>)
 * 🟧 Medium - [34. Find First and Last Position of Element in Sorted Array](<./0034/34. Find First and Last Position of Element in Sorted Array.md>)
 * 🟩 Easy - [35. Search Insert Position](<./0035/35. Search Insert Position.md>)
+* 🟩 Easy - [66. Plus One](<./0066/66. Plus One.md>)
 * 🟩 Easy - [69. Sqrt(x)](<./0069/69. Sqrt(x).md>)
 * 🟧 Medium - [75. Sort Colors](<./0075/75. Sort Colors.md>)
 * 🟩 Easy - [104. Maximum Depth of Binary Tree](<./0104/104. Maximum Depth of Binary Tree.md>)
@@ -44,7 +45,7 @@
 * 🟧 Medium - [49. Group Anagrams](<./49. Group Anagrams.md>)
 * 🟧 Medium - [54. Spiral Matrix](<./54. Spiral Matrix.md>)
 * 🟧 Medium - [56. Merge Intervals](<./56. Merge Intervals.md>)
-* 🟩 Easy - [66. Plus One](<./66. Plus One.md>)
+
 * 🟩 Easy - [67. Add Binary](<./67. Add Binary.md>)
 
 * 🟥 Hard - [76. Minimum Window Substring](<./76. Minimum Window Substring.md>)
