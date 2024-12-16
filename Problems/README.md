@@ -14,6 +14,7 @@
 * 🟩 Easy - [14. Longest Common Prefix](<./0014/14. Longest Common Prefix.md>)
 * 🟧 Medium - [15. 3Sum](<./0015/15. 3Sum.md>)
 * 🟩 Easy - [26. Remove Duplicates from Sorted Array](<./0026/26. Remove Duplicates from Sorted Array.md>)
+* 🟩 Easy - [28. Find the Index of the First Occurrence in a String](<./0028/28. Find the Index of the First Occurrence in a String.md>)
 * 🟧 Medium - [34. Find First and Last Position of Element in Sorted Array](<./0034/34. Find First and Last Position of Element in Sorted Array.md>)
 * 🟩 Easy - [35. Search Insert Position](<./0035/35. Search Insert Position.md>)
 * 🟩 Easy - [66. Plus One](<./0066/66. Plus One.md>)
@@ -26,7 +27,7 @@
 * 🟩 Easy - [217. Contains Duplicate](<./0217/217. Contains Duplicate.md>)
 * 🟩 Easy - [219. Contains Duplicate II](<./0219/219. Contains Duplicate II.md>)
 * 🟧 Medium - [238. Product of Array Except Self](<./0238/238. Product of Array Except Self.md>)
-* 🟩 Easy - [242. Valid Anagram](<./242. Valid Anagram.md>)
+* 🟩 Easy - [242. Valid Anagram](<./0242/242. Valid Anagram.md>)
 * 🟩 Easy - [268. Missing Number](<./0268/268. Missing Number.md>)
 * 🟩 Easy - [283. Move Zeroes](<./0283/283. Move Zeroes.md>)
 * 🟩 Easy - [389. Find the Difference](<./0389/389. Find the Difference.md>)
@@ -42,7 +43,7 @@
 * 🟩 Easy - [20. Valid Parentheses](<./20. Valid Parentheses.md>)
 
 * 🟩 Easy - [27. Remove Element](<./0027/27. Remove Element.md>)
-* 🟩 Easy - [28. Find the Index of the First Occurrence in a String](<./28. Find the Index of the First Occurrence in a String.md>)
+
 * 🟧 Medium - [48. Rotate Image](<./48. Rotate Image.md>)
 * 🟧 Medium - [49. Group Anagrams](<./49. Group Anagrams.md>)
 * 🟧 Medium - [54. Spiral Matrix](<./54. Spiral Matrix.md>)
