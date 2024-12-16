@@ -26,6 +26,7 @@
 * 🟩 Easy - [217. Contains Duplicate](<./0217/217. Contains Duplicate.md>)
 * 🟩 Easy - [219. Contains Duplicate II](<./0219/219. Contains Duplicate II.md>)
 * 🟧 Medium - [238. Product of Array Except Self](<./0238/238. Product of Array Except Self.md>)
+* 🟩 Easy - [242. Valid Anagram](<./242. Valid Anagram.md>)
 * 🟩 Easy - [268. Missing Number](<./0268/268. Missing Number.md>)
 * 🟩 Easy - [283. Move Zeroes](<./0283/283. Move Zeroes.md>)
 * 🟩 Easy - [389. Find the Difference](<./0389/389. Find the Difference.md>)
@@ -68,7 +69,7 @@
 
 * 🟩 Easy - [226. Invert Binary Tree](<./226. Invert Binary Tree.md>)
 
-* 🟩 Easy - [242. Valid Anagram](<./242. Valid Anagram.md>)
+
 * 🟧 Medium - [279. Perfect Squares](<./279. Perfect Squares.md>)
 
 * 🟧 Medium - [300. Longest Increasing Subsequence](<./300. Longest Increasing Subsequence.md>)

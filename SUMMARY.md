@@ -81,6 +81,7 @@
   * [217. Contains Duplicate](<./Problems/0217/217. Contains Duplicate.md>)
   * [219. Contains Duplicate II](<./Problems/0219/219. Contains Duplicate II.md>)
   * [238. Product of Array Except Self](<./Problems/0238/238. Product of Array Except Self.md>)
+  * [242. Valid Anagram](<Problems/242. Valid Anagram.md>)
   * [268. Missing Number](<./Problems/0268/268. Missing Number.md>)
   * [283. Move Zeroes](<./Problems/0283/283. Move Zeroes.md>)
   * [389. Find the Difference](<./Problems/0389/389. Find the Difference.md>)
@@ -124,7 +125,6 @@
   * [217. Contains Duplicate](<Problems/217. Contains Duplicate.md>)
   * [226. Invert Binary Tree](<Problems/226. Invert Binary Tree.md>)
 
-  * [242. Valid Anagram](<Problems/242. Valid Anagram.md>)
   * [279. Perfect Squares](<Problems/279. Perfect Squares.md>)
 
   * [300. Longest Increasing Subsequence](<Problems/300. Longest Increasing Subsequence.md>)
