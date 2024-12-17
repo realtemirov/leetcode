@@ -38,6 +38,7 @@
 * 🟩 Easy - [876. Middle of the Linked List](<./0876/876. Middle of the Linked List.md>)
 * 🟩 Easy - [977. Squares of a Sorted Array](<./0977/977. Squares of a Sorted Array.md>)
 * 🟩 Easy - [1768. Merge Strings Alternately](<./1768/1768. Merge Strings Alternately.md>)
+* 🟩 Easy - [1822. Sign of the Product of an Array](<./1822/1822. Sign of the Product of an Array.md>)
 <!-- 
 
 * 🟩 Easy - [20. Valid Parentheses](<./20. Valid Parentheses.md>)
@@ -69,7 +70,6 @@
 * 🟧 Medium - [209. Minimum Size Subarray Sum](<./209. Minimum Size Subarray Sum.md>)
 
 * 🟩 Easy - [226. Invert Binary Tree](<./226. Invert Binary Tree.md>)
-
 
 * 🟧 Medium - [279. Perfect Squares](<./279. Perfect Squares.md>)
 

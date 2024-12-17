@@ -93,6 +93,7 @@
   * [876. Middle of the Linked List](<./Problems/0876/876. Middle of the Linked List.md>)
   * [977. Squares of a Sorted Array](<./Problems/0977/977. Squares of a Sorted Array.md>)
   * [1768. Merge Strings Alternately](<./Problems/1768/1768. Merge Strings Alternately.md>)
+  * [1822. Sign of the Product of an Array](<./Problems/1822/1822. Sign of the Product of an Array.md>)
   <!-- 
   
 
