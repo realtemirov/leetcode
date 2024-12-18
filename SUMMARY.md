@@ -91,6 +91,7 @@
   * [704. Binary Search](<./Problems/0704/704. Binary Search.md>)
   * [705. Design HashSet](<./Problems/0705/705. Design HashSet.md>)
   * [876. Middle of the Linked List](<./Problems/0876/876. Middle of the Linked List.md>)
+  * [896. Monotonic Array](<./Problems/0896/896. Monotonic Array.md>)
   * [977. Squares of a Sorted Array](<./Problems/0977/977. Squares of a Sorted Array.md>)
   * [1502. Can Make Arithmetic Progression From Sequence](<./Problems/1502/1502. Can Make Arithmetic Progression From Sequence.md>)
   * [1768. Merge Strings Alternately](<./Problems/1768/1768. Merge Strings Alternately.md>)
