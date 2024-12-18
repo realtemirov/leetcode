@@ -37,6 +37,7 @@
 * 🟩 Easy - [705. Design HashSet](<./0705/705. Design HashSet.md>)
 * 🟩 Easy - [876. Middle of the Linked List](<./0876/876. Middle of the Linked List.md>)
 * 🟩 Easy - [977. Squares of a Sorted Array](<./0977/977. Squares of a Sorted Array.md>)
+* 🟩 Easy - [1502. Can Make Arithmetic Progression From Sequence](<./1502/1502. Can Make Arithmetic Progression From Sequence.md>)
 * 🟩 Easy - [1768. Merge Strings Alternately](<./1768/1768. Merge Strings Alternately.md>)
 * 🟩 Easy - [1822. Sign of the Product of an Array](<./1822/1822. Sign of the Product of an Array.md>)
 <!-- 
