@@ -91,6 +91,7 @@
   * [637. Average of Levels in Binary Tree](<./Problems/0637/637. Average of Levels in Binary Tree.md>)
   * [704. Binary Search](<./Problems/0704/704. Binary Search.md>)
   * [705. Design HashSet](<./Problems/0705/705. Design HashSet.md>)
+  * [709. To Lower Case](<./Problems/0709/709. To Lower Case.md>)
   * [876. Middle of the Linked List](<./Problems/0876/876. Middle of the Linked List.md>)
   * [896. Monotonic Array](<./Problems/0896/896. Monotonic Array.md>)
   * [977. Squares of a Sorted Array](<./Problems/0977/977. Squares of a Sorted Array.md>)
