@@ -17,6 +17,7 @@
 * 🟩 Easy - [28. Find the Index of the First Occurrence in a String](<./0028/28. Find the Index of the First Occurrence in a String.md>)
 * 🟧 Medium - [34. Find First and Last Position of Element in Sorted Array](<./0034/34. Find First and Last Position of Element in Sorted Array.md>)
 * 🟩 Easy - [35. Search Insert Position](<./0035/35. Search Insert Position.md>)
+* 🟩 Easy - [58. Length of Last Word](<./0058/58. Length of Last Word.md>)
 * 🟩 Easy - [66. Plus One](<./0066/66. Plus One.md>)
 * 🟩 Easy - [69. Sqrt(x)](<./0069/69. Sqrt(x).md>)
 * 🟧 Medium - [75. Sort Colors](<./0075/75. Sort Colors.md>)

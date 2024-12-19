@@ -72,6 +72,7 @@
   * [28. Find the Index of the First Occurrence in a String](<./Problems/0028/28. Find the Index of the First Occurrence in a String.md>)
   * [34. Find First and Last Position of Element in Sorted Array](<./Problems/0034/34. Find First and Last Position of Element in Sorted Array.md>)
   * [35. Search Insert Position](<./Problems/0035/35. Search Insert Position.md>)
+  * [58. Length of Last Word](<./Problems/0058/58. Length of Last Word.md>)
   * [66. Plus One](<./Problems/0066/66. Plus One.md>)
   * [69. Sqrt(x)](<./Problems/0069/69. Sqrt(x).md>)
   * [75. Sort Colors](<./Problems/0075/75. Sort Colors.md>)
