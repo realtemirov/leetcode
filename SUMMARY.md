@@ -89,6 +89,7 @@
   * [389. Find the Difference](<./Problems/0389/389. Find the Difference.md>)
   * [509. Fibonacci Number](<./Problems/0509/509. Fibonacci Number.md>)
   * [637. Average of Levels in Binary Tree](<./Problems/0637/637. Average of Levels in Binary Tree.md>)
+  * [682. Baseball Game](<./Problems/0682/682. Baseball Game.md>)
   * [704. Binary Search](<./Problems/0704/704. Binary Search.md>)
   * [705. Design HashSet](<./Problems/0705/705. Design HashSet.md>)
   * [709. To Lower Case](<./Problems/0709/709. To Lower Case.md>)
