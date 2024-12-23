@@ -44,5 +44,6 @@
 * 🟩 Easy - [977. Squares of a Sorted Array](<./0977/977. Squares of a Sorted Array.md>)
 * 🟧 Medium - [1041. Robot Bounded In Circle](<./1041/1041. Robot Bounded In Circle.md>)
 * 🟩 Easy - [1502. Can Make Arithmetic Progression From Sequence](<./1502/1502. Can Make Arithmetic Progression From Sequence.md>)
+* 🟩 Easy - [1672. Richest Customer Wealth](<./1672/1672. Richest Customer Wealth.md>)
 * 🟩 Easy - [1768. Merge Strings Alternately](<./1768/1768. Merge Strings Alternately.md>)
 * 🟩 Easy - [1822. Sign of the Product of an Array](<./1822/1822. Sign of the Product of an Array.md>)
