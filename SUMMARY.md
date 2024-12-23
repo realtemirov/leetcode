@@ -99,6 +99,7 @@
   * [977. Squares of a Sorted Array](<./Problems/0977/977. Squares of a Sorted Array.md>)
   * [1041. Robot Bounded In Circle](<./Problems/1041/1041. Robot Bounded In Circle.md>)
   * [1502. Can Make Arithmetic Progression From Sequence](<./Problems/1502/1502. Can Make Arithmetic Progression From Sequence.md>)
+  * [1572. Matrix Diagonal Sum](<./Problems/1572/1572. Matrix Diagonal Sum.md>)
   * [1672. Richest Customer Wealth](<./Problems/1672/1672. Richest Customer Wealth.md>)
   * [1768. Merge Strings Alternately](<./Problems/1768/1768. Merge Strings Alternately.md>)
   * [1822. Sign of the Product of an Array](<./Problems/1822/1822. Sign of the Product of an Array.md>)
