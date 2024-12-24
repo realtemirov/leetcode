@@ -75,6 +75,7 @@
   * [58. Length of Last Word](<./Problems/0058/58. Length of Last Word.md>)
   * [66. Plus One](<./Problems/0066/66. Plus One.md>)
   * [69. Sqrt(x)](<./Problems/0069/69. Sqrt(x).md>)
+  * [73. Set Matrix Zeroes](<./Problems/0073/73. Set Matrix Zeroes.md>)
   * [75. Sort Colors](<./Problems/0075/75. Sort Colors.md>)
   * [104. Maximum Depth of Binary Tree](<./Problems/0104/104. Maximum Depth of Binary Tree.md>)
   * [121. Best Time to Buy and Sell Stock](<./Problems/0121/121. Best Time to Buy and Sell Stock.md>)

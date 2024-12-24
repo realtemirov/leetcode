@@ -1,8 +1,8 @@
 # Problems
 
-> **Total:** `41` \
-> **Easy:** `32` \
-> **Medium:** `9` \
+> **Total:** `44` \
+> **Easy:** `34` \
+> **Medium:** `10` \
 > **Hard:** `0`
 
 * 🟩 Easy - [1. Two Sum](<./0001/1. Two Sum.md>)
@@ -20,6 +20,7 @@
 * 🟩 Easy - [58. Length of Last Word](<./0058/58. Length of Last Word.md>)
 * 🟩 Easy - [66. Plus One](<./0066/66. Plus One.md>)
 * 🟩 Easy - [69. Sqrt(x)](<./0069/69. Sqrt(x).md>)
+* 🟧 Medium - [73. Set Matrix Zeroes](<./0073/73. Set Matrix Zeroes.md>)
 * 🟧 Medium - [75. Sort Colors](<./0075/75. Sort Colors.md>)
 * 🟩 Easy - [104. Maximum Depth of Binary Tree](<./0104/104. Maximum Depth of Binary Tree.md>)
 * 🟩 Easy - [121. Best Time to Buy and Sell Stock](<./0121/121. Best Time to Buy and Sell Stock.md>)
