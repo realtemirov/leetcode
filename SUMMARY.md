@@ -72,6 +72,7 @@
   * [28. Find the Index of the First Occurrence in a String](<./Problems/0028/28. Find the Index of the First Occurrence in a String.md>)
   * [34. Find First and Last Position of Element in Sorted Array](<./Problems/0034/34. Find First and Last Position of Element in Sorted Array.md>)
   * [35. Search Insert Position](<./Problems/0035/35. Search Insert Position.md>)
+  * [49. Group Anagrams](<./Problems/0049/49. Group Anagrams.md>)
   * [58. Length of Last Word](<./Problems/0058/58. Length of Last Word.md>)
   * [66. Plus One](<./Problems/0066/66. Plus One.md>)
   * [69. Sqrt(x)](<./Problems/0069/69. Sqrt(x).md>)
@@ -111,7 +112,7 @@
   * [27. Remove Element](<Problems/0027/27. Remove Element.md>)
   
   * [48. Rotate Image](<Problems/48. Rotate Image.md>)
-  * [49. Group Anagrams](<Problems/49. Group Anagrams.md>)
+  
   * [54. Spiral Matrix](<Problems/54. Spiral Matrix.md>)
   * [56. Merge Intervals](<Problems/56. Merge Intervals.md>)
 

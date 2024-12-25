@@ -1,8 +1,8 @@
 # Problems
 
-> **Total:** `44` \
+> **Total:** `45` \
 > **Easy:** `34` \
-> **Medium:** `10` \
+> **Medium:** `11` \
 > **Hard:** `0`
 
 * 🟩 Easy - [1. Two Sum](<./0001/1. Two Sum.md>)
@@ -17,6 +17,7 @@
 * 🟩 Easy - [28. Find the Index of the First Occurrence in a String](<./0028/28. Find the Index of the First Occurrence in a String.md>)
 * 🟧 Medium - [34. Find First and Last Position of Element in Sorted Array](<./0034/34. Find First and Last Position of Element in Sorted Array.md>)
 * 🟩 Easy - [35. Search Insert Position](<./0035/35. Search Insert Position.md>)
+* 🟧 Medium - [49. Group Anagrams](<./0049/49. Group Anagrams.md>)
 * 🟩 Easy - [58. Length of Last Word](<./0058/58. Length of Last Word.md>)
 * 🟩 Easy - [66. Plus One](<./0066/66. Plus One.md>)
 * 🟩 Easy - [69. Sqrt(x)](<./0069/69. Sqrt(x).md>)
