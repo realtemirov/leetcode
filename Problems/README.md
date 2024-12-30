@@ -47,6 +47,7 @@
 * 🟧 Medium - [1041. Robot Bounded In Circle](<./1041/1041. Robot Bounded In Circle.md>)
 * 🟩 Easy - [1491. Average Salary Excluding the Minimum and Maximum Salary](<./1491/1491. Average Salary Excluding the Minimum and Maximum Salary.md>)
 * 🟩 Easy - [1502. Can Make Arithmetic Progression From Sequence](<./1502/1502. Can Make Arithmetic Progression From Sequence.md>)
+* 🟩 Easy - [1523. Count Odd Numbers in an Interval Range](<./1523/1523. Count Odd Numbers in an Interval Range.md>)
 * 🟩 Easy - [1572. Matrix Diagonal Sum](<./1572/1572. Matrix Diagonal Sum.md>)
 * 🟩 Easy - [1672. Richest Customer Wealth](<./1672/1672. Richest Customer Wealth.md>)
 * 🟩 Easy - [1768. Merge Strings Alternately](<./1768/1768. Merge Strings Alternately.md>)
