@@ -34,6 +34,7 @@
 * 🟩 Easy - [268. Missing Number](<./0268/268. Missing Number.md>)
 * 🟩 Easy - [283. Move Zeroes](<./0283/283. Move Zeroes.md>)
 * 🟩 Easy - [389. Find the Difference](<./0389/389. Find the Difference.md>)
+* 🟩 Easy - [459. Repeated Substring Pattern](<./0459/459. Repeated Substring Pattern.md>)
 * 🟩 Easy - [509. Fibonacci Number](<./0509/509. Fibonacci Number.md>)
 * 🟩 Easy - [637. Average of Levels in Binary Tree](<./0637/637. Average of Levels in Binary Tree.md>)
 * 🟩 Easy - [657. Robot Return to Origin](<./0657/657. Robot Return to Origin.md>)

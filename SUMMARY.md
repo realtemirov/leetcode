@@ -89,6 +89,7 @@
   * [268. Missing Number](<./Problems/0268/268. Missing Number.md>)
   * [283. Move Zeroes](<./Problems/0283/283. Move Zeroes.md>)
   * [389. Find the Difference](<./Problems/0389/389. Find the Difference.md>)
+  * [459. Repeated Substring Pattern](<./Problems/0459/459. Repeated Substring Pattern.md>)
   * [509. Fibonacci Number](<./Problems/0509/509. Fibonacci Number.md>)
   * [637. Average of Levels in Binary Tree](<./Problems/0637/637. Average of Levels in Binary Tree.md>)
   * [657. Robot Return to Origin](<./Problems/0657/657. Robot Return to Origin.md>)
