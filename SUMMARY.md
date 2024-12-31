@@ -102,6 +102,7 @@
   * [860. Lemonade Change](<./Problems/0860/860. Lemonade Change.md>)
   * [977. Squares of a Sorted Array](<./Problems/0977/977. Squares of a Sorted Array.md>)
   * [1041. Robot Bounded In Circle](<./Problems/1041/1041. Robot Bounded In Circle.md>)
+  * [1232. Check If It Is a Straight Line](<./Problems/1232/1232. Check If It Is a Straight Line.md>)
   * [1491. Average Salary Excluding the Minimum and Maximum Salary](<./Problems/1491/1491. Average Salary Excluding the Minimum and Maximum Salary.md>)
   * [1502. Can Make Arithmetic Progression From Sequence](<./Problems/1502/1502. Can Make Arithmetic Progression From Sequence.md>)
   * [1523. Count Odd Numbers in an Interval Range](<./Problems/1523/1523. Count Odd Numbers in an Interval Range.md>)
