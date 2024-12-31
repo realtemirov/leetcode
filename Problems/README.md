@@ -43,6 +43,7 @@
 * 🟩 Easy - [705. Design HashSet](<./0705/705. Design HashSet.md>)
 * 🟩 Easy - [709. To Lower Case](<./0709/709. To Lower Case.md>)
 * 🟩 Easy - [876. Middle of the Linked List](<./0876/876. Middle of the Linked List.md>)
+* 🟩 Easy - [860. Lemonade Change](<./0860/860. Lemonade Change.md>)
 * 🟩 Easy - [896. Monotonic Array](<./0896/896. Monotonic Array.md>)
 * 🟩 Easy - [977. Squares of a Sorted Array](<./0977/977. Squares of a Sorted Array.md>)
 * 🟧 Medium - [1041. Robot Bounded In Circle](<./1041/1041. Robot Bounded In Circle.md>)

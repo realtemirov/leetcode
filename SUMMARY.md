@@ -99,6 +99,7 @@
   * [709. To Lower Case](<./Problems/0709/709. To Lower Case.md>)
   * [876. Middle of the Linked List](<./Problems/0876/876. Middle of the Linked List.md>)
   * [896. Monotonic Array](<./Problems/0896/896. Monotonic Array.md>)
+  * [860. Lemonade Change](<./Problems/0860/860. Lemonade Change.md>)
   * [977. Squares of a Sorted Array](<./Problems/0977/977. Squares of a Sorted Array.md>)
   * [1041. Robot Bounded In Circle](<./Problems/1041/1041. Robot Bounded In Circle.md>)
   * [1491. Average Salary Excluding the Minimum and Maximum Salary](<./Problems/1491/1491. Average Salary Excluding the Minimum and Maximum Salary.md>)
