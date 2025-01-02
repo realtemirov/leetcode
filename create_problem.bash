@@ -49,7 +49,7 @@ func TestSolution(t *testing.T) {
 		{
 			name:     "Test 2",
 			cases:    []int{},
-			expected: 4,
+			expected: 0,
 		},
 		{
 			name:     "Test 3",
@@ -71,25 +71,31 @@ EOL
 notes_file="$problem_dir/$problem_number.md"
 cat <<EOL > "$notes_file"
 # Problem $problem_number
+
 🟩 Easy | 🟧 Medium | 🟥 Hard
 
-## Example 1:
+## Example 1
+
 > **Input**:  \\
 > **Output**:  \\
 > **Explanation**: 
 
-## Example 2:
+## Example 2
+
 > **Input**:  \\
 > **Output**:  \\
 > **Explanation**: 
 
-## Constraints:
+## Constraints
+
 * \`-10^5 <= n <= 10^5\`
 
 ## Solution
-> **My Solution**
-> \`\`\`go
-> \`\`\`
+
+My Solution
+
+\`\`\`go
+\`\`\`
 
 ![result]($problem_number.png)
 
