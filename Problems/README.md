@@ -45,6 +45,7 @@
 * 🟩 Easy - [876. Middle of the Linked List](<./0876/876. Middle of the Linked List.md>)
 * 🟩 Easy - [860. Lemonade Change](<./0860/860. Lemonade Change.md>)
 * 🟩 Easy - [896. Monotonic Array](<./0896/896. Monotonic Array.md>)
+* 🟩 Easy - [976. Largest Perimeter Triangle](<./0976/976. Largest Perimeter Triangle.md>)
 * 🟩 Easy - [977. Squares of a Sorted Array](<./0977/977. Squares of a Sorted Array.md>)
 * 🟧 Medium - [1041. Robot Bounded In Circle](<./1041/1041. Robot Bounded In Circle.md>)
 * 🟩 Easy - [1232. Check If It Is a Straight Line](<./1232/1232. Check If It Is a Straight Line.md>)
