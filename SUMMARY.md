@@ -74,6 +74,7 @@
   * [35. Search Insert Position](<./Problems/0035/35. Search Insert Position.md>)
   * [43. Multiply Strings](<./Problems/0043/43. Multiply Strings.md>)
   * [49. Group Anagrams](<./Problems/0049/49. Group Anagrams.md>)
+  * [54. Spiral Matrix](<./Problems/0054/54. Spiral Matrix.md>)
   * [58. Length of Last Word](<./Problems/0058/58. Length of Last Word.md>)
   * [66. Plus One](<./Problems/0066/66. Plus One.md>)
   * [69. Sqrt(x)](<./Problems/0069/69. Sqrt(x).md>)
@@ -120,7 +121,7 @@
   
   * [48. Rotate Image](<Problems/48. Rotate Image.md>)
   
-  * [54. Spiral Matrix](<Problems/54. Spiral Matrix.md>)
+  
   * [56. Merge Intervals](<Problems/56. Merge Intervals.md>)
 
   * [67. Add Binary](<Problems/67. Add Binary.md>)
