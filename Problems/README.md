@@ -1,8 +1,8 @@
 # Problems
 
-> **Total:** `45` \
-> **Easy:** `34` \
-> **Medium:** `11` \
+> **Total:** `54` \
+> **Easy:** `40` \
+> **Medium:** `14` \
 > **Hard:** `0`
 
 * 🟩 Easy - [1. Two Sum](<./0001/1. Two Sum.md>)
@@ -58,3 +58,4 @@
 * 🟩 Easy - [1672. Richest Customer Wealth](<./1672/1672. Richest Customer Wealth.md>)
 * 🟩 Easy - [1768. Merge Strings Alternately](<./1768/1768. Merge Strings Alternately.md>)
 * 🟩 Easy - [1822. Sign of the Product of an Array](<./1822/1822. Sign of the Product of an Array.md>)
+* 🟧 Medium - [2559. Count Vowel Strings in Ranges](<./2559/2559. Count Vowel Strings in Ranges.md>)

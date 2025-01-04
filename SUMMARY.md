@@ -113,6 +113,7 @@
   * [1672. Richest Customer Wealth](<./Problems/1672/1672. Richest Customer Wealth.md>)
   * [1768. Merge Strings Alternately](<./Problems/1768/1768. Merge Strings Alternately.md>)
   * [1822. Sign of the Product of an Array](<./Problems/1822/1822. Sign of the Product of an Array.md>)
+  * [2559. Count Vowel Strings in Ranges](<./Problems/2559/2559. Count Vowel Strings in Ranges.md>)
   <!-- 
 
   * [20. Valid Parentheses](<Problems/20. Valid Parentheses.md>)
