@@ -51,6 +51,7 @@
 * 🟩 Easy - [977. Squares of a Sorted Array](<./0977/977. Squares of a Sorted Array.md>)
 * 🟧 Medium - [1041. Robot Bounded In Circle](<./1041/1041. Robot Bounded In Circle.md>)
 * 🟩 Easy - [1232. Check If It Is a Straight Line](<./1232/1232. Check If It Is a Straight Line.md>)
+* 🟩 Easy - [1275. Find Winner on a Tic Tac Toe Game](<./1275/1275. Find Winner on a Tic Tac Toe Game.md>)
 * 🟩 Easy - [1491. Average Salary Excluding the Minimum and Maximum Salary](<./1491/1491. Average Salary Excluding the Minimum and Maximum Salary.md>)
 * 🟩 Easy - [1502. Can Make Arithmetic Progression From Sequence](<./1502/1502. Can Make Arithmetic Progression From Sequence.md>)
 * 🟩 Easy - [1523. Count Odd Numbers in an Interval Range](<./1523/1523. Count Odd Numbers in an Interval Range.md>)
