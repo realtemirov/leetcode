@@ -74,22 +74,6 @@ cat <<EOL > "$notes_file"
 
 🟩 Easy | 🟧 Medium | 🟥 Hard
 
-## Example 1
-
-> **Input**:  \\
-> **Output**:  \\
-> **Explanation**: 
-
-## Example 2
-
-> **Input**:  \\
-> **Output**:  \\
-> **Explanation**: 
-
-## Constraints
-
-* \`-10^5 <= n <= 10^5\`
-
 ## Solution
 
 My Solution
