@@ -1,8 +1,8 @@
 # Problems
 
-> **Total:** `58` \
-> **Easy:** `41` \
-> **Medium:** `17` \
+> **Total:** `60` \
+> **Easy:** `42` \
+> **Medium:** `18` \
 > **Hard:** `0`
 
 * 🟩 Easy - [1. Two Sum](<./0001/1. Two Sum.md>)
@@ -59,6 +59,7 @@
 * 🟩 Easy - [1572. Matrix Diagonal Sum](<./1572/1572. Matrix Diagonal Sum.md>)
 * 🟩 Easy - [1672. Richest Customer Wealth](<./1672/1672. Richest Customer Wealth.md>)
 * 🟩 Easy - [1768. Merge Strings Alternately](<./1768/1768. Merge Strings Alternately.md>)
+* 🟧 Medium - [1769. Minimum Number of Operations to Move All Balls to Each Box](<./1769/1769. Minimum Number of Operations to Move All Balls to Each Box.md>)
 * 🟩 Easy - [1822. Sign of the Product of an Array](<./1822/1822. Sign of the Product of an Array.md>)
 * 🟧 Medium - [1930. Unique Length-3 Palindromic Subsequences](<./1930/1930. Unique Length-3 Palindromic Subsequences.md>)
 * 🟧 Medium - [2270. Number of Ways to Split Array](<./2270/2270. Number of Ways to Split Array.md>)

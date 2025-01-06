@@ -114,6 +114,7 @@
   * [1572. Matrix Diagonal Sum](<./Problems/1572/1572. Matrix Diagonal Sum.md>)
   * [1672. Richest Customer Wealth](<./Problems/1672/1672. Richest Customer Wealth.md>)
   * [1768. Merge Strings Alternately](<./Problems/1768/1768. Merge Strings Alternately.md>)
+  * [1769. Minimum Number of Operations to Move All Balls to Each Box](<./Problems/1769/1769. Minimum Number of Operations to Move All Balls to Each Box.md>)
   * [1822. Sign of the Product of an Array](<./Problems/1822/1822. Sign of the Product of an Array.md>)
   * [1930. Unique Length-3 Palindromic Subsequences](<./Problems/1930/1930. Unique Length-3 Palindromic Subsequences.md>)
   * [2270. Number of Ways to Split Array](<./Problems/2270/2270. Number of Ways to Split Array.md>)
