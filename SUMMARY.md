@@ -77,6 +77,7 @@
   * [54. Spiral Matrix](<./Problems/0054/54. Spiral Matrix.md>)
   * [58. Length of Last Word](<./Problems/0058/58. Length of Last Word.md>)
   * [66. Plus One](<./Problems/0066/66. Plus One.md>)
+  * [67. Add Binary](<./Problems/0067/67. Add Binary.md>)
   * [69. Sqrt(x)](<./Problems/0069/69. Sqrt(x).md>)
   * [73. Set Matrix Zeroes](<./Problems/0073/73. Set Matrix Zeroes.md>)
   * [75. Sort Colors](<./Problems/0075/75. Sort Colors.md>)
@@ -129,7 +130,7 @@
   
   * [56. Merge Intervals](<Problems/56. Merge Intervals.md>)
 
-  * [67. Add Binary](<Problems/67. Add Binary.md>)
+  
 
   * [76. Minimum Window Substring](<Problems/76. Minimum Window Substring.md>)
   * [80. Remove Duplicates from Sorted Array II](<Problems/0080/80. Remove Duplicates from Sorted Array II.md>)

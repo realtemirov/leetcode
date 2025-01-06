@@ -22,6 +22,7 @@
 * 🟧 Medium - [54. Spiral Matrix](<./0054/54. Spiral Matrix.md>)
 * 🟩 Easy - [58. Length of Last Word](<./0058/58. Length of Last Word.md>)
 * 🟩 Easy - [66. Plus One](<./0066/66. Plus One.md>)
+* 🟩 Easy - [67. Add Binary](<./0067/67. Add Binary.md>)
 * 🟩 Easy - [69. Sqrt(x)](<./0069/69. Sqrt(x).md>)
 * 🟧 Medium - [73. Set Matrix Zeroes](<./0073/73. Set Matrix Zeroes.md>)
 * 🟧 Medium - [75. Sort Colors](<./0075/75. Sort Colors.md>)
