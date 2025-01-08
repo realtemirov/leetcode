@@ -1,8 +1,8 @@
 # Problems
 
-> **Total:** `60` \
+> **Total:** `61` \
 > **Easy:** `42` \
-> **Medium:** `18` \
+> **Medium:** `19` \
 > **Hard:** `0`
 
 * 🟩 Easy - [1. Two Sum](<./0001/1. Two Sum.md>)
@@ -19,6 +19,7 @@
 * 🟩 Easy - [35. Search Insert Position](<./0035/35. Search Insert Position.md>)
 * 🟧 Medium - [43. Multiply Strings](<./0043/43. Multiply Strings.md>)
 * 🟧 Medium - [49. Group Anagrams](<./0049/49. Group Anagrams.md>)
+* 🟧 Medium - [50. Pow(x, n)](<./0050/50. Pow(x, n).md>)
 * 🟧 Medium - [54. Spiral Matrix](<./0054/54. Spiral Matrix.md>)
 * 🟩 Easy - [58. Length of Last Word](<./0058/58. Length of Last Word.md>)
 * 🟩 Easy - [66. Plus One](<./0066/66. Plus One.md>)

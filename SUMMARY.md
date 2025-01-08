@@ -74,6 +74,7 @@
   * [35. Search Insert Position](<./Problems/0035/35. Search Insert Position.md>)
   * [43. Multiply Strings](<./Problems/0043/43. Multiply Strings.md>)
   * [49. Group Anagrams](<./Problems/0049/49. Group Anagrams.md>)
+  * [50. Pow(x, n)](<./Problems/0050/50. Pow(x, n).md>)
   * [54. Spiral Matrix](<./Problems/0054/54. Spiral Matrix.md>)
   * [58. Length of Last Word](<./Problems/0058/58. Length of Last Word.md>)
   * [66. Plus One](<./Problems/0066/66. Plus One.md>)
