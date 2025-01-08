@@ -121,6 +121,7 @@
   * [2270. Number of Ways to Split Array](<./Problems/2270/2270. Number of Ways to Split Array.md>)
   * [2381. Shifting Letters II](<./Problems/2381/2381. Shifting Letters II.md>)
   * [2559. Count Vowel Strings in Ranges](<./Problems/2559/2559. Count Vowel Strings in Ranges.md>)
+  * [3042. Count Prefix and Suffix Pairs I](<./Problems/3042/3042. Count Prefix and Suffix Pairs I.md>)
   <!-- 
 
   * [20. Valid Parentheses](<Problems/20. Valid Parentheses.md>)

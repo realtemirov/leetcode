@@ -1,7 +1,7 @@
 # Problems
 
-> **Total:** `61` \
-> **Easy:** `42` \
+> **Total:** `62` \
+> **Easy:** `43` \
 > **Medium:** `19` \
 > **Hard:** `0`
 
@@ -66,3 +66,4 @@
 * 🟧 Medium - [2270. Number of Ways to Split Array](<./2270/2270. Number of Ways to Split Array.md>)
 * 🟧 Medium - [2381. Shifting Letters II](<./2381/2381. Shifting Letters II.md>)
 * 🟧 Medium - [2559. Count Vowel Strings in Ranges](<./2559/2559. Count Vowel Strings in Ranges.md>)
+* 🟩 Easy - [3042. Count Prefix and Suffix Pairs I](<./3042/3042. Count Prefix and Suffix Pairs I.md>)
