@@ -1,7 +1,7 @@
 # Problems
 
-> **Total:** `63` \
-> **Easy:** `44` \
+> **Total:** `64` \
+> **Easy:** `45` \
 > **Medium:** `19` \
 > **Hard:** `0`
 
@@ -64,6 +64,7 @@
 * 🟧 Medium - [1769. Minimum Number of Operations to Move All Balls to Each Box](<./1769/1769. Minimum Number of Operations to Move All Balls to Each Box.md>)
 * 🟩 Easy - [1822. Sign of the Product of an Array](<./1822/1822. Sign of the Product of an Array.md>)
 * 🟧 Medium - [1930. Unique Length-3 Palindromic Subsequences](<./1930/1930. Unique Length-3 Palindromic Subsequences.md>)
+* 🟩 Easy - [2185. Counting Words With a Given Prefix](<./2185/2185. Counting Words With a Given Prefix.md>)
 * 🟧 Medium - [2270. Number of Ways to Split Array](<./2270/2270. Number of Ways to Split Array.md>)
 * 🟧 Medium - [2381. Shifting Letters II](<./2381/2381. Shifting Letters II.md>)
 * 🟧 Medium - [2559. Count Vowel Strings in Ranges](<./2559/2559. Count Vowel Strings in Ranges.md>)
