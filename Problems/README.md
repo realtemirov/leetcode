@@ -1,7 +1,7 @@
 # Problems
 
-> **Total:** `62` \
-> **Easy:** `43` \
+> **Total:** `63` \
+> **Easy:** `44` \
 > **Medium:** `19` \
 > **Hard:** `0`
 
@@ -13,6 +13,7 @@
 * 🟩 Easy - [13. Roman to Integer](<./0013/13. Roman to Integer.md>)
 * 🟩 Easy - [14. Longest Common Prefix](<./0014/14. Longest Common Prefix.md>)
 * 🟧 Medium - [15. 3Sum](<./0015/15. 3Sum.md>)
+* 🟩 Easy - [21. Merge Two Sorted Lists](<./0021/21. Merge Two Sorted Lists.md>)
 * 🟩 Easy - [26. Remove Duplicates from Sorted Array](<./0026/26. Remove Duplicates from Sorted Array.md>)
 * 🟩 Easy - [28. Find the Index of the First Occurrence in a String](<./0028/28. Find the Index of the First Occurrence in a String.md>)
 * 🟧 Medium - [34. Find First and Last Position of Element in Sorted Array](<./0034/34. Find First and Last Position of Element in Sorted Array.md>)

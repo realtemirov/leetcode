@@ -68,6 +68,7 @@
   * [13. Roman to Integer](<./Problems/0013/13. Roman to Integer.md>)
   * [14. Longest Common Prefix](<./Problems/0014/14. Longest Common Prefix.md>)
   * [15. 3Sum](<./Problems/0015/15. 3Sum.md>)
+  * [21. Merge Two Sorted Lists](<./Problems/0021/21. Merge Two Sorted Lists.md>)
   * [26. Remove Duplicates from Sorted Array](<./Problems/0026/26. Remove Duplicates from Sorted Array.md>)
   * [28. Find the Index of the First Occurrence in a String](<./Problems/0028/28. Find the Index of the First Occurrence in a String.md>)
   * [34. Find First and Last Position of Element in Sorted Array](<./Problems/0034/34. Find First and Last Position of Element in Sorted Array.md>)
