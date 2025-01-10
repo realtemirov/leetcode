@@ -1,8 +1,8 @@
 # Problems
 
-> **Total:** `64` \
+> **Total:** `65` \
 > **Easy:** `45` \
-> **Medium:** `19` \
+> **Medium:** `20` \
 > **Hard:** `0`
 
 * 🟩 Easy - [1. Two Sum](<./0001/1. Two Sum.md>)
@@ -50,6 +50,7 @@
 * 🟩 Easy - [876. Middle of the Linked List](<./0876/876. Middle of the Linked List.md>)
 * 🟩 Easy - [860. Lemonade Change](<./0860/860. Lemonade Change.md>)
 * 🟩 Easy - [896. Monotonic Array](<./0896/896. Monotonic Array.md>)
+* 🟧 Medium - [916. Word Subsets](<./0916/916. Word Subsets.md>)
 * 🟩 Easy - [976. Largest Perimeter Triangle](<./0976/976. Largest Perimeter Triangle.md>)
 * 🟩 Easy - [977. Squares of a Sorted Array](<./0977/977. Squares of a Sorted Array.md>)
 * 🟧 Medium - [1041. Robot Bounded In Circle](<./1041/1041. Robot Bounded In Circle.md>)

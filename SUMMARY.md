@@ -105,6 +105,7 @@
   * [876. Middle of the Linked List](<./Problems/0876/876. Middle of the Linked List.md>)
   * [896. Monotonic Array](<./Problems/0896/896. Monotonic Array.md>)
   * [860. Lemonade Change](<./Problems/0860/860. Lemonade Change.md>)
+  * [916. Word Subsets](<./Problems/0916/916. Word Subsets.md>)
   * [976. Largest Perimeter Triangle](<./Problems/0976/976. Largest Perimeter Triangle.md>)
   * [977. Squares of a Sorted Array](<./Problems/0977/977. Squares of a Sorted Array.md>)
   * [1041. Robot Bounded In Circle](<./Problems/1041/1041. Robot Bounded In Circle.md>)
