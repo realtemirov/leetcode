@@ -1,8 +1,8 @@
 # Problems
 
-> **Total:** `66` \
+> **Total:** `67` \
 > **Easy:** `45` \
-> **Medium:** `21` \
+> **Medium:** `22` \
 > **Hard:** `0`
 
 * 🟩 Easy - [1. Two Sum](<./0001/1. Two Sum.md>)
@@ -40,6 +40,7 @@
 * 🟩 Easy - [268. Missing Number](<./0268/268. Missing Number.md>)
 * 🟩 Easy - [283. Move Zeroes](<./0283/283. Move Zeroes.md>)
 * 🟩 Easy - [389. Find the Difference](<./0389/389. Find the Difference.md>)
+* 🟧 Medium - [445. Add Two Numbers II](<./0445/445. Add Two Numbers II.md>)
 * 🟩 Easy - [459. Repeated Substring Pattern](<./0459/459. Repeated Substring Pattern.md>)
 * 🟩 Easy - [509. Fibonacci Number](<./0509/509. Fibonacci Number.md>)
 * 🟩 Easy - [637. Average of Levels in Binary Tree](<./0637/637. Average of Levels in Binary Tree.md>)
