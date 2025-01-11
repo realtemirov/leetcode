@@ -1,11 +1,12 @@
 # Problems
 
-> **Total:** `65` \
+> **Total:** `66` \
 > **Easy:** `45` \
-> **Medium:** `20` \
+> **Medium:** `21` \
 > **Hard:** `0`
 
 * 🟩 Easy - [1. Two Sum](<./0001/1. Two Sum.md>)
+* 🟧 Medium - [2. Add Two Numbers](<./0002/2. Add Two Numbers.md>)
 * 🟧 Medium - [7. Reverse Integer](<./0007/7. Reverse Integer.md>)
 * 🟩 Easy - [9. Palindrome Number](<./0009/9. Palindrome Number.md>)
 * 🟧 Medium - [11. Container With Most Water](<./0011/11. Container With Most Water.md>)
