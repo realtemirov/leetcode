@@ -95,6 +95,7 @@
   * [242. Valid Anagram](<./Problems/0242/242. Valid Anagram.md>)
   * [268. Missing Number](<./Problems/0268/268. Missing Number.md>)
   * [283. Move Zeroes](<./Problems/0283/283. Move Zeroes.md>)
+  * [383. Ransom Note](<./Problems/0383/383. Ransom Note.md>)
   * [389. Find the Difference](<./Problems/0389/389. Find the Difference.md>)
   * [412. Fizz Buzz](<./Problems/0412/412. Fizz Buzz.md>)
   * [445. Add Two Numbers II](<./Problems/0445/445. Add Two Numbers II.md>)
@@ -173,7 +174,7 @@
   * [347. Top K Frequent Elements](<Problems/347. Top K Frequent Elements.md>)
   * [367. Valid Perfect Square](<Problems/367. Valid Perfect Square.md>)
   * [368. Largest Divisible Subset](<Problems/368. Largest Divisible Subset.md>)
-  * [383. Ransom Note](<Problems/383. Ransom Note.md>)
+  
   * [387. First Unique Character in a String](<Problems/387. First Unique Character in a String.md>)
   * [392. Is Subsequence](<Problems/392. Is Subsequence.md>)
   
