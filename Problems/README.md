@@ -1,7 +1,7 @@
 # Problems
 
-> **Total:** `67` \
-> **Easy:** `45` \
+> **Total:** `68` \
+> **Easy:** `46` \
 > **Medium:** `22` \
 > **Hard:** `0`
 
@@ -68,6 +68,7 @@
 * 🟩 Easy - [1822. Sign of the Product of an Array](<./1822/1822. Sign of the Product of an Array.md>)
 * 🟧 Medium - [1930. Unique Length-3 Palindromic Subsequences](<./1930/1930. Unique Length-3 Palindromic Subsequences.md>)
 * 🟩 Easy - [2185. Counting Words With a Given Prefix](<./2185/2185. Counting Words With a Given Prefix.md>)
+* 🟩 Easy - [2235. Add Two Integers](<./2235/2235. Add Two Integers.md>)
 * 🟧 Medium - [2270. Number of Ways to Split Array](<./2270/2270. Number of Ways to Split Array.md>)
 * 🟧 Medium - [2381. Shifting Letters II](<./2381/2381. Shifting Letters II.md>)
 * 🟧 Medium - [2559. Count Vowel Strings in Ranges](<./2559/2559. Count Vowel Strings in Ranges.md>)

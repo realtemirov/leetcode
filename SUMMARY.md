@@ -123,6 +123,7 @@
   * [1822. Sign of the Product of an Array](<./Problems/1822/1822. Sign of the Product of an Array.md>)
   * [1930. Unique Length-3 Palindromic Subsequences](<./Problems/1930/1930. Unique Length-3 Palindromic Subsequences.md>)
   * [2185. Counting Words With a Given Prefix](<./Problems/2185/2185. Counting Words With a Given Prefix.md>)
+  * [2235. Add Two Integers](<./Problems/2235/2235. Add Two Integers.md>)
   * [2270. Number of Ways to Split Array](<./Problems/2270/2270. Number of Ways to Split Array.md>)
   * [2381. Shifting Letters II](<./Problems/2381/2381. Shifting Letters II.md>)
   * [2559. Count Vowel Strings in Ranges](<./Problems/2559/2559. Count Vowel Strings in Ranges.md>)
@@ -232,7 +233,7 @@
   * [2129. Capitalize the Title](<Problems/2129. Capitalize the Title.md>)
   * [2149. Rearrange Array Elements by Sign](<Problems/2149. Rearrange Array Elements by Sign.md>)
   * [2221. Find Triangular Sum of an Array](<Problems/2221. Find Triangular Sum of an Array.md>)
-  * [2235. Add Two Integers](<Problems/2235. Add Two Integers.md>)
+  
   * [2236. Root Equals Sum of Children](<Problems/2236. Root Equals Sum of Children.md>)
   * [2264. Largest 3-Same-Digit Number in String](<Problems/2264. Largest 3-Same-Digit Number in String.md>)
   * [2351. First Letter to Appear Twice](<Problems/2351. First Letter to Appear Twice.md>)
