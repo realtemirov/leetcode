@@ -114,6 +114,7 @@
   * [1041. Robot Bounded In Circle](<./Problems/1041/1041. Robot Bounded In Circle.md>)
   * [1232. Check If It Is a Straight Line](<./Problems/1232/1232. Check If It Is a Straight Line.md>)
   * [1275. Find Winner on a Tic Tac Toe Game](<./Problems/1275/1275. Find Winner on a Tic Tac Toe Game.md>)
+  * [1480. Running Sum of 1d Array](<./Problems/1480/1480. Running Sum of 1d Array.md>)
   * [1491. Average Salary Excluding the Minimum and Maximum Salary](<./Problems/1491/1491. Average Salary Excluding the Minimum and Maximum Salary.md>)
   * [1502. Can Make Arithmetic Progression From Sequence](<./Problems/1502/1502. Can Make Arithmetic Progression From Sequence.md>)
   * [1523. Count Odd Numbers in an Interval Range](<./Problems/1523/1523. Count Odd Numbers in an Interval Range.md>)
@@ -216,7 +217,7 @@
   * [1431. Kids With the Greatest Number of Candies](<Problems/1431. Kids With the Greatest Number of Candies.md>)
   * [1436. Destination City](<Problems/1436. Destination City.md>)
   * [1464. Maximum Product of Two Elements in an Array](<Problems/1464. Maximum Product of Two Elements in an Array.md>)
-  * [1480. Running Sum of 1d Array](<Problems/1480. Running Sum of 1d Array.md>)
+
   * [1496. Path Crossing](<Problems/1496. Path Crossing.md>)
   * [1551. Minimum Operations to Make Array Equal](<Problems/1551. Minimum Operations to Make Array Equal.md>)
   * [1582. Special Positions in a Binary Matrix](<Problems/1582. Special Positions in a Binary Matrix.md>)
