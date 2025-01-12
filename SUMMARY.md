@@ -89,7 +89,8 @@
   * [146. LRU Cache](<./Problems/0146/146. LRU Cache.md>)
   * [206. Reverse Linked List](<./Problems/0206/206. Reverse Linked List.md>)
   * [217. Contains Duplicate](<./Problems/0217/217. Contains Duplicate.md>)
-  * [219. Contains Duplicate II](<./Problems/0219/219. Contains Duplicate II.md>)
+  * [219. Cotains Duplicate II](<./Problems/0219/219. Contains Duplicate II.md>)
+  * [226. Invert Binary Tree](<./Problems/0226/226. Invert Binary Tree.md>)
   * [238. Product of Array Except Self](<./Problems/0238/238. Product of Array Except Self.md>)
   * [242. Valid Anagram](<./Problems/0242/242. Valid Anagram.md>)
   * [268. Missing Number](<./Problems/0268/268. Missing Number.md>)
@@ -159,7 +160,7 @@
   * [197. Rising Temperature](<Problems/197. Rising Temperature.md>)
   * [209. Minimum Size Subarray Sum](<Problems/209. Minimum Size Subarray Sum.md>)
   * [217. Contains Duplicate](<Problems/217. Contains Duplicate.md>)
-  * [226. Invert Binary Tree](<Problems/226. Invert Binary Tree.md>)
+  
 
   * [279. Perfect Squares](<Problems/279. Perfect Squares.md>)
 

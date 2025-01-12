@@ -1,7 +1,7 @@
 # Problems
 
-> **Total:** `69` \
-> **Easy:** `47` \
+> **Total:** `70` \
+> **Easy:** `48` \
 > **Medium:** `22` \
 > **Hard:** `0`
 
@@ -35,6 +35,7 @@
 * 🟩 Easy - [206. Reverse Linked List](<./0206/206. Reverse Linked List.md>)
 * 🟩 Easy - [217. Contains Duplicate](<./0217/217. Contains Duplicate.md>)
 * 🟩 Easy - [219. Contains Duplicate II](<./0219/219. Contains Duplicate II.md>)
+* 🟩 Easy - [226. Invert Binary Tree](<./0226/226. Invert Binary Tree.md>)
 * 🟧 Medium - [238. Product of Array Except Self](<./0238/238. Product of Array Except Self.md>)
 * 🟩 Easy - [242. Valid Anagram](<./0242/242. Valid Anagram.md>)
 * 🟩 Easy - [268. Missing Number](<./0268/268. Missing Number.md>)
