@@ -1,7 +1,7 @@
 # Problems
 
-> **Total:** `72` \
-> **Easy:** `50` \
+> **Total:** `73` \
+> **Easy:** `51` \
 > **Medium:** `22` \
 > **Hard:** `0`
 
@@ -60,6 +60,7 @@
 * 🟧 Medium - [1041. Robot Bounded In Circle](<./1041/1041. Robot Bounded In Circle.md>)
 * 🟩 Easy - [1232. Check If It Is a Straight Line](<./1232/1232. Check If It Is a Straight Line.md>)
 * 🟩 Easy - [1275. Find Winner on a Tic Tac Toe Game](<./1275/1275. Find Winner on a Tic Tac Toe Game.md>)
+* 🟩 Easy - [1342. Number of Steps to Reduce a Number to Zero](<./1342/1342. Number of Steps to Reduce a Number to Zero.md>)
 * 🟩 Easy - [1480. Running Sum of 1d Array](<./1480/1480. Running Sum of 1d Array.md>)
 * 🟩 Easy - [1491. Average Salary Excluding the Minimum and Maximum Salary](<./1491/1491. Average Salary Excluding the Minimum and Maximum Salary.md>)
 * 🟩 Easy - [1502. Can Make Arithmetic Progression From Sequence](<./1502/1502. Can Make Arithmetic Progression From Sequence.md>)
