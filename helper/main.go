@@ -70,3 +70,29 @@ func SliceToTree(nums []interface{}) *TreeNode {
 
 	return root
 }
+
+func TreeToSlice(root *TreeNode) []int {
+	if root == nil {
+		return nil
+	}
+
+	queue := []*TreeNode{root}
+	var result []int
+
+	for len(queue) > 0 {
+		current := queue[0]
+		queue = queue[1:]
+
+		result = append(result, current.Val)
+
+		if current.Left != nil {
+			queue = append(queue, current.Left)
+		}
+
+		if current.Right != nil {
+			queue = append(queue, current.Right)
+		}
+	}
+
+	return result
+}
