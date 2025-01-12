@@ -71,13 +71,13 @@ func SliceToTree(nums []interface{}) *TreeNode {
 	return root
 }
 
-func TreeToSlice(root *TreeNode) []int {
+func TreeToSlice(root *TreeNode) []any {
 	if root == nil {
 		return nil
 	}
 
 	queue := []*TreeNode{root}
-	var result []int
+	var result []any
 
 	for len(queue) > 0 {
 		current := queue[0]
