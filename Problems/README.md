@@ -1,7 +1,7 @@
 # Problems
 
-> **Total:** `74` \
-> **Easy:** `52` \
+> **Total:** `75` \
+> **Easy:** `53` \
 > **Medium:** `22` \
 > **Hard:** `0`
 
@@ -45,6 +45,7 @@
 * 🟩 Easy - [412. Fizz Buzz](<./0412/412. Fizz Buzz.md>)
 * 🟧 Medium - [445. Add Two Numbers II](<./0445/445. Add Two Numbers II.md>)
 * 🟩 Easy - [459. Repeated Substring Pattern](<./0459/459. Repeated Substring Pattern.md>)
+* 🟩 Easy - [485. Max Consecutive Ones](<./0485/485. Max Consecutive Ones.md>)
 * 🟩 Easy - [509. Fibonacci Number](<./0509/509. Fibonacci Number.md>)
 * 🟩 Easy - [637. Average of Levels in Binary Tree](<./0637/637. Average of Levels in Binary Tree.md>)
 * 🟩 Easy - [657. Robot Return to Origin](<./0657/657. Robot Return to Origin.md>)

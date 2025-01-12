@@ -100,6 +100,7 @@
   * [412. Fizz Buzz](<./Problems/0412/412. Fizz Buzz.md>)
   * [445. Add Two Numbers II](<./Problems/0445/445. Add Two Numbers II.md>)
   * [459. Repeated Substring Pattern](<./Problems/0459/459. Repeated Substring Pattern.md>)
+  * [485. Max Consecutive Ones](<./Problems/0485/485. Max Consecutive Ones.md>)
   * [509. Fibonacci Number](<./Problems/0509/509. Fibonacci Number.md>)
   * [637. Average of Levels in Binary Tree](<./Problems/0637/637. Average of Levels in Binary Tree.md>)
   * [657. Robot Return to Origin](<./Problems/0657/657. Robot Return to Origin.md>)
@@ -183,7 +184,7 @@
   * [448. Find All Numbers Disappeared in an Array](<Problems/448. Find All Numbers Disappeared in an Array.md>)
   * [451. Sort Characters By Frequency](<Problems/451. Sort Characters By Frequency.md>)
   * [455. Assign Cookies](<Problems/455. Assign Cookies.md>)
-  * [485. Max Consecutive Ones](<Problems/485. Max Consecutive Ones.md>)
+  
   * [498. Diagonal Traverse](<Problems/498. Diagonal Traverse.md>)
   * [557. Reverse Words in a String III](<Problems/557. Reverse Words in a String III.md>)
   * [561. Array Partition](<Problems/561. Array Partition.md>)
