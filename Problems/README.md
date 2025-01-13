@@ -1,8 +1,8 @@
 # Problems
 
-> **Total:** `75` \
+> **Total:** `76` \
 > **Easy:** `53` \
-> **Medium:** `22` \
+> **Medium:** `23` \
 > **Hard:** `0`
 
 * 🟩 Easy - [1. Two Sum](<./0001/1. Two Sum.md>)
@@ -80,3 +80,4 @@
 * 🟧 Medium - [2381. Shifting Letters II](<./2381/2381. Shifting Letters II.md>)
 * 🟧 Medium - [2559. Count Vowel Strings in Ranges](<./2559/2559. Count Vowel Strings in Ranges.md>)
 * 🟩 Easy - [3042. Count Prefix and Suffix Pairs I](<./3042/3042. Count Prefix and Suffix Pairs I.md>)
+* 🟧 Medium - [3223. Minimum Length of String After Operations](<./3223/3223. Minimum Length of String After Operations.md>)

@@ -135,6 +135,7 @@
   * [2381. Shifting Letters II](<./Problems/2381/2381. Shifting Letters II.md>)
   * [2559. Count Vowel Strings in Ranges](<./Problems/2559/2559. Count Vowel Strings in Ranges.md>)
   * [3042. Count Prefix and Suffix Pairs I](<./Problems/3042/3042. Count Prefix and Suffix Pairs I.md>)
+  * [3223. Minimum Length of String After Operations](<./Problems/3223/3223. Minimum Length of String After Operations.md>)
   <!-- 
 
   * [20. Valid Parentheses](<Problems/20. Valid Parentheses.md>)
