@@ -1,8 +1,8 @@
 # Problems
 
-> **Total:** `78` \
+> **Total:** `79` \
 > **Easy:** `55` \
-> **Medium:** `23` \
+> **Medium:** `24` \
 > **Hard:** `0`
 
 * 🟩 Easy - [1. Two Sum](<./0001/1. Two Sum.md>)
@@ -81,5 +81,6 @@
 * 🟧 Medium - [2270. Number of Ways to Split Array](<./2270/2270. Number of Ways to Split Array.md>)
 * 🟧 Medium - [2381. Shifting Letters II](<./2381/2381. Shifting Letters II.md>)
 * 🟧 Medium - [2559. Count Vowel Strings in Ranges](<./2559/2559. Count Vowel Strings in Ranges.md>)
+* 🟧 Medium - [2657. Find the Prefix Common Array of Two Arrays](<./2657/2657. Find the Prefix Common Array of Two Arrays.md>)
 * 🟩 Easy - [3042. Count Prefix and Suffix Pairs I](<./3042/3042. Count Prefix and Suffix Pairs I.md>)
 * 🟧 Medium - [3223. Minimum Length of String After Operations](<./3223/3223. Minimum Length of String After Operations.md>)
