@@ -1,7 +1,7 @@
 # Problems
 
-> **Total:** `79` \
-> **Easy:** `55` \
+> **Total:** `80` \
+> **Easy:** `56` \
 > **Medium:** `24` \
 > **Hard:** `0`
 
@@ -29,6 +29,7 @@
 * 🟩 Easy - [69. Sqrt(x)](<./0069/69. Sqrt(x).md>)
 * 🟧 Medium - [73. Set Matrix Zeroes](<./0073/73. Set Matrix Zeroes.md>)
 * 🟧 Medium - [75. Sort Colors](<./0075/75. Sort Colors.md>)
+* 🟩 Easy - [88. Merge Sorted Array](<./0088/88. Merge Sorted Array.md>)
 * 🟩 Easy - [104. Maximum Depth of Binary Tree](<./0104/104. Maximum Depth of Binary Tree.md>)
 * 🟩 Easy - [121. Best Time to Buy and Sell Stock](<./0121/121. Best Time to Buy and Sell Stock.md>)
 * 🟧 Medium - [146. LRU Cache](<./0146/146. LRU Cache.md>)

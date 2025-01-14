@@ -7,7 +7,7 @@ import (
 	"github.com/stretchr/testify/require"
 )
 
-func Test_Merge(t *testing.T) {
+func TestMerge(t *testing.T) {
 	testCases := []struct {
 		name  string
 		cases struct {

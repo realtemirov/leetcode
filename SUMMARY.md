@@ -84,6 +84,7 @@
   * [69. Sqrt(x)](<./Problems/0069/69. Sqrt(x).md>)
   * [73. Set Matrix Zeroes](<./Problems/0073/73. Set Matrix Zeroes.md>)
   * [75. Sort Colors](<./Problems/0075/75. Sort Colors.md>)
+  * [88. Merge Sorted Array](<./Problems/0088/88. Merge Sorted Array.md>)
   * [104. Maximum Depth of Binary Tree](<./Problems/0104/104. Maximum Depth of Binary Tree.md>)
   * [121. Best Time to Buy and Sell Stock](<./Problems/0121/121. Best Time to Buy and Sell Stock.md>)
   * [146. LRU Cache](<./Problems/0146/146. LRU Cache.md>)
@@ -154,7 +155,7 @@
 
   * [76. Minimum Window Substring](<Problems/76. Minimum Window Substring.md>)
   * [80. Remove Duplicates from Sorted Array II](<Problems/0080/80. Remove Duplicates from Sorted Array II.md>)
-  * [88. Merge Sorted Array](<Problems/0088/88. Merge Sorted Array.md>)
+
   * [94. Binary Tree Inorder Traversal](<Problems/94. Binary Tree Inorder Traversal.md>)
   * [118. Pascal's Triangle](<Problems/118. Pascal's Triangle.md>)
   * [119. Pascal's Triangle II](<Problems/119. Pascal's Triangle II.md>)
