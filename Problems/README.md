@@ -1,7 +1,7 @@
 # Problems
 
-> **Total:** `80` \
-> **Easy:** `56` \
+> **Total:** `81` \
+> **Easy:** `57` \
 > **Medium:** `24` \
 > **Hard:** `0`
 
@@ -16,6 +16,7 @@
 * 🟧 Medium - [15. 3Sum](<./0015/15. 3Sum.md>)
 * 🟩 Easy - [21. Merge Two Sorted Lists](<./0021/21. Merge Two Sorted Lists.md>)
 * 🟩 Easy - [26. Remove Duplicates from Sorted Array](<./0026/26. Remove Duplicates from Sorted Array.md>)
+* 🟩 Easy - [27. Remove Element](<./0027/27. Remove Element.md>)
 * 🟩 Easy - [28. Find the Index of the First Occurrence in a String](<./0028/28. Find the Index of the First Occurrence in a String.md>)
 * 🟧 Medium - [34. Find First and Last Position of Element in Sorted Array](<./0034/34. Find First and Last Position of Element in Sorted Array.md>)
 * 🟩 Easy - [35. Search Insert Position](<./0035/35. Search Insert Position.md>)

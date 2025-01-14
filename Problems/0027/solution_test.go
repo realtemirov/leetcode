@@ -7,7 +7,7 @@ import (
 	"github.com/stretchr/testify/require"
 )
 
-func Test_RemoveElement(t *testing.T) {
+func TestSolution(t *testing.T) {
 	testCases := []struct {
 		name  string
 		cases struct {

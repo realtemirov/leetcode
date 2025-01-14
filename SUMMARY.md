@@ -71,6 +71,7 @@
   * [15. 3Sum](<./Problems/0015/15. 3Sum.md>)
   * [21. Merge Two Sorted Lists](<./Problems/0021/21. Merge Two Sorted Lists.md>)
   * [26. Remove Duplicates from Sorted Array](<./Problems/0026/26. Remove Duplicates from Sorted Array.md>)
+  * [27. Remove Element](<./Problems/0027/27. Remove Element.md>)
   * [28. Find the Index of the First Occurrence in a String](<./Problems/0028/28. Find the Index of the First Occurrence in a String.md>)
   * [34. Find First and Last Position of Element in Sorted Array](<./Problems/0034/34. Find First and Last Position of Element in Sorted Array.md>)
   * [35. Search Insert Position](<./Problems/0035/35. Search Insert Position.md>)
@@ -143,8 +144,7 @@
   <!-- 
 
   * [20. Valid Parentheses](<Problems/20. Valid Parentheses.md>)
-  * [26. Remove Duplicates from Sorted Array](<Problems/0026/26. Remove Duplicates from Sorted Array.md>)
-  * [27. Remove Element](<Problems/0027/27. Remove Element.md>)
+  
   
   * [48. Rotate Image](<Problems/48. Rotate Image.md>)
   
