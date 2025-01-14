@@ -115,6 +115,7 @@
   * [976. Largest Perimeter Triangle](<./Problems/0976/976. Largest Perimeter Triangle.md>)
   * [977. Squares of a Sorted Array](<./Problems/0977/977. Squares of a Sorted Array.md>)
   * [1041. Robot Bounded In Circle](<./Problems/1041/1041. Robot Bounded In Circle.md>)
+  * [1089. Duplicate Zeros](<./Problems/1089/1089. Duplicate Zeros.md>)
   * [1232. Check If It Is a Straight Line](<./Problems/1232/1232. Check If It Is a Straight Line.md>)
   * [1275. Find Winner on a Tic Tac Toe Game](<./Problems/1275/1275. Find Winner on a Tic Tac Toe Game.md>)
   * [1295. Find Numbers with Even Number of Digits](<./Problems/1295/1295. Find Numbers with Even Number of Digits.md>)
@@ -208,7 +209,7 @@
   * [1043. Partition Array for Maximum Sum](<Problems/1043. Partition Array for Maximum Sum.md>)
   * [1071. Greatest Common Divisor of Strings](<Problems/1071. Greatest Common Divisor of Strings.md>)
   * [1084. Sales Analysis III](<Problems/1084. Sales Analysis III.md>)
-  * [1089. Duplicate Zeros](<Problems/1089. Duplicate Zeros.md>)
+  
   * [1141. User Activity for the Past 30 Days I](<Problems/1141. User Activity for the Past 30 Days I.md>)
   * [1148. Article Views I](<Problems/1148. Article Views I.md>)
   * [1160. Find Words That Can Be Formed by Characters](<Problems/1160. Find Words That Can Be Formed by Characters.md>)
