@@ -122,6 +122,7 @@
   * [1232. Check If It Is a Straight Line](<./Problems/1232/1232. Check If It Is a Straight Line.md>)
   * [1275. Find Winner on a Tic Tac Toe Game](<./Problems/1275/1275. Find Winner on a Tic Tac Toe Game.md>)
   * [1295. Find Numbers with Even Number of Digits](<./Problems/1295/1295. Find Numbers with Even Number of Digits.md>)
+  * [1299. Replace Elements with Greatest Element on Right Side](<./Problems/1299/1299. Replace Elements with Greatest Element on Right Side.md>)
   * [1342. Number of Steps to Reduce a Number to Zero](<./Problems/1342/1342. Number of Steps to Reduce a Number to Zero.md>)
   * [1346. Check If N and Its Double Exist](<./Problems/1346/1346. Check If N and Its Double Exist.md>)
   * [1480. Running Sum of 1d Array](<./Problems/1480/1480. Running Sum of 1d Array.md>)
@@ -221,7 +222,7 @@
   * [1287. Element Appearing More Than 25% In Sorted Array](<Problems/1287. Element Appearing More Than 25 In Sorted Array.md>)
   * [1291. Sequential Digits](<Problems/1291. Sequential Digits.md>)
   
-  * [1299. Replace Elements with Greatest Element on Right Side](<Problems/1299. Replace Elements with Greatest Element on Right Side.md>)
+  
   
   
   * [1422. Maximum Score After Splitting a String](<Problems/1422. Maximum Score After Splitting a String.md>)

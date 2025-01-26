@@ -67,6 +67,7 @@
 * 🟩 Easy - [1232. Check If It Is a Straight Line](<./1232/1232. Check If It Is a Straight Line.md>)
 * 🟩 Easy - [1275. Find Winner on a Tic Tac Toe Game](<./1275/1275. Find Winner on a Tic Tac Toe Game.md>)
 * 🟩 Easy - [1295. Find Numbers with Even Number of Digits](<./1295/1295. Find Numbers with Even Number of Digits.md>)
+* 🟩 Easy - [1299. Replace Elements with Greatest Element on Right Side](<./1299/1299. Replace Elements with Greatest Element on Right Side.md>)
 * 🟩 Easy - [1342. Number of Steps to Reduce a Number to Zero](<./1342/1342. Number of Steps to Reduce a Number to Zero.md>)
 * 🟩 Easy - [1346. Check If N and Its Double Exist](<./1346/1346. Check If N and Its Double Exist.md>)
 * 🟩 Easy - [1480. Running Sum of 1d Array](<./1480/1480. Running Sum of 1d Array.md>)
