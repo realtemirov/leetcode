@@ -58,6 +58,7 @@
 * 🟩 Easy - [876. Middle of the Linked List](<./0876/876. Middle of the Linked List.md>)
 * 🟩 Easy - [860. Lemonade Change](<./0860/860. Lemonade Change.md>)
 * 🟩 Easy - [896. Monotonic Array](<./0896/896. Monotonic Array.md>)
+* 🟩 Easy - [905. Sort Array By Parity](<./0905/905. Sort Array By Parity.md>)
 * 🟧 Medium - [916. Word Subsets](<./0916/916. Word Subsets.md>)
 * 🟩 Easy - [941. Valid Mountain Array](<./0941/941. Valid Mountain Array.md>)
 * 🟩 Easy - [976. Largest Perimeter Triangle](<./0976/976. Largest Perimeter Triangle.md>)
