@@ -64,6 +64,7 @@
 * 🟩 Easy - [976. Largest Perimeter Triangle](<./0976/976. Largest Perimeter Triangle.md>)
 * 🟩 Easy - [977. Squares of a Sorted Array](<./0977/977. Squares of a Sorted Array.md>)
 * 🟧 Medium - [1041. Robot Bounded In Circle](<./1041/1041. Robot Bounded In Circle.md>)
+* 🟩 Easy - [1051. Height Checker](<./1051/1051. Height Checker.md>)
 * 🟩 Easy - [1089. Duplicate Zeros](<./1089/1089. Duplicate Zeros.md>)
 * 🟩 Easy - [1232. Check If It Is a Straight Line](<./1232/1232. Check If It Is a Straight Line.md>)
 * 🟩 Easy - [1275. Find Winner on a Tic Tac Toe Game](<./1275/1275. Find Winner on a Tic Tac Toe Game.md>)

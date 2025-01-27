@@ -119,6 +119,7 @@
   * [976. Largest Perimeter Triangle](<./Problems/0976/976. Largest Perimeter Triangle.md>)
   * [977. Squares of a Sorted Array](<./Problems/0977/977. Squares of a Sorted Array.md>)
   * [1041. Robot Bounded In Circle](<./Problems/1041/1041. Robot Bounded In Circle.md>)
+  * [1051. Height Checker](<./Problems/1051/1051. Height Checker.md>)
   * [1089. Duplicate Zeros](<./Problems/1089/1089. Duplicate Zeros.md>)
   * [1232. Check If It Is a Straight Line](<./Problems/1232/1232. Check If It Is a Straight Line.md>)
   * [1275. Find Winner on a Tic Tac Toe Game](<./Problems/1275/1275. Find Winner on a Tic Tac Toe Game.md>)
