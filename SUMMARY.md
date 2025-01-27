@@ -100,6 +100,7 @@
   * [383. Ransom Note](<./Problems/0383/383. Ransom Note.md>)
   * [389. Find the Difference](<./Problems/0389/389. Find the Difference.md>)
   * [412. Fizz Buzz](<./Problems/0412/412. Fizz Buzz.md>)
+  * [414. Third Maximum Number](<./Problems/0414/414. Third Maximum Number.md>)
   * [445. Add Two Numbers II](<./Problems/0445/445. Add Two Numbers II.md>)
   * [459. Repeated Substring Pattern](<./Problems/0459/459. Repeated Substring Pattern.md>)
   * [485. Max Consecutive Ones](<./Problems/0485/485. Max Consecutive Ones.md>)
@@ -189,7 +190,7 @@
   * [387. First Unique Character in a String](<Problems/387. First Unique Character in a String.md>)
   * [392. Is Subsequence](<Problems/392. Is Subsequence.md>)
   
-  * [414. Third Maximum Number](<Problems/414. Third Maximum Number.md>)
+  
   * [443. String Compression](<Problems/443. String Compression.md>)
   * [448. Find All Numbers Disappeared in an Array](<Problems/448. Find All Numbers Disappeared in an Array.md>)
   * [451. Sort Characters By Frequency](<Problems/451. Sort Characters By Frequency.md>)

@@ -45,6 +45,7 @@
 * 🟩 Easy - [383. Ransom Note](<./0383/383. Ransom Note.md>)
 * 🟩 Easy - [389. Find the Difference](<./0389/389. Find the Difference.md>)
 * 🟩 Easy - [412. Fizz Buzz](<./0412/412. Fizz Buzz.md>)
+* 🟩 Easy - [414. Third Maximum Number](<./0414/414. Third Maximum Number.md>)
 * 🟧 Medium - [445. Add Two Numbers II](<./0445/445. Add Two Numbers II.md>)
 * 🟩 Easy - [459. Repeated Substring Pattern](<./0459/459. Repeated Substring Pattern.md>)
 * 🟩 Easy - [485. Max Consecutive Ones](<./0485/485. Max Consecutive Ones.md>)
