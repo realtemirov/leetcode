@@ -47,6 +47,7 @@
 * 🟩 Easy - [412. Fizz Buzz](<./0412/412. Fizz Buzz.md>)
 * 🟩 Easy - [414. Third Maximum Number](<./0414/414. Third Maximum Number.md>)
 * 🟧 Medium - [445. Add Two Numbers II](<./0445/445. Add Two Numbers II.md>)
+* 🟩 Easy - [448. Find All Numbers Disappeared in an Array](<./0448/448. Find All Numbers Disappeared in an Array.md>)
 * 🟩 Easy - [459. Repeated Substring Pattern](<./0459/459. Repeated Substring Pattern.md>)
 * 🟩 Easy - [485. Max Consecutive Ones](<./0485/485. Max Consecutive Ones.md>)
 * 🟩 Easy - [509. Fibonacci Number](<./0509/509. Fibonacci Number.md>)
