@@ -140,6 +140,7 @@
   * [1769. Minimum Number of Operations to Move All Balls to Each Box](<./Problems/1769/1769. Minimum Number of Operations to Move All Balls to Each Box.md>)
   * [1822. Sign of the Product of an Array](<./Problems/1822/1822. Sign of the Product of an Array.md>)
   * [1930. Unique Length-3 Palindromic Subsequences](<./Problems/1930/1930. Unique Length-3 Palindromic Subsequences.md>)
+  * [1991. Find the Middle Index in Array](<./Problems/1991/1991. Find the Middle Index in Array.md>)
   * [2185. Counting Words With a Given Prefix](<./Problems/2185/2185. Counting Words With a Given Prefix.md>)
   * [2235. Add Two Integers](<./Problems/2235/2235. Add Two Integers.md>)
   * [2236. Root Equals Sum of Children](<./Problems/2236/2236. Root Equals Sum of Children.md>)

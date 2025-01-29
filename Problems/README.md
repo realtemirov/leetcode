@@ -85,6 +85,7 @@
 * 🟧 Medium - [1769. Minimum Number of Operations to Move All Balls to Each Box](<./1769/1769. Minimum Number of Operations to Move All Balls to Each Box.md>)
 * 🟩 Easy - [1822. Sign of the Product of an Array](<./1822/1822. Sign of the Product of an Array.md>)
 * 🟧 Medium - [1930. Unique Length-3 Palindromic Subsequences](<./1930/1930. Unique Length-3 Palindromic Subsequences.md>)
+* 🟩 Easy - [1991. Find the Middle Index in Array](<./1991/1991. Find the Middle Index in Array.md>)
 * 🟩 Easy - [2185. Counting Words With a Given Prefix](<./2185/2185. Counting Words With a Given Prefix.md>)
 * 🟩 Easy - [2235. Add Two Integers](<./2235/2235. Add Two Integers.md>)
 * 🟩 Easy - [2236. Root Equals Sum of Children](<./2236/2236. Root Equals Sum of Children.md>)
