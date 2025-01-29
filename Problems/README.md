@@ -57,6 +57,7 @@
 * 🟩 Easy - [704. Binary Search](<./0704/704. Binary Search.md>)
 * 🟩 Easy - [705. Design HashSet](<./0705/705. Design HashSet.md>)
 * 🟩 Easy - [709. To Lower Case](<./0709/709. To Lower Case.md>)
+* 🟩 Easy - [724. Find Pivot Index](<./0724/724. Find Pivot Index.md>)
 * 🟩 Easy - [876. Middle of the Linked List](<./0876/876. Middle of the Linked List.md>)
 * 🟩 Easy - [860. Lemonade Change](<./0860/860. Lemonade Change.md>)
 * 🟩 Easy - [896. Monotonic Array](<./0896/896. Monotonic Array.md>)

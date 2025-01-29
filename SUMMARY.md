@@ -112,6 +112,7 @@
   * [704. Binary Search](<./Problems/0704/704. Binary Search.md>)
   * [705. Design HashSet](<./Problems/0705/705. Design HashSet.md>)
   * [709. To Lower Case](<./Problems/0709/709. To Lower Case.md>)
+  * [724. Find Pivot Index](<./Problems/0724/724. Find Pivot Index.md>)
   * [876. Middle of the Linked List](<./Problems/0876/876. Middle of the Linked List.md>)
   * [896. Monotonic Array](<./Problems/0896/896. Monotonic Array.md>)
   * [860. Lemonade Change](<./Problems/0860/860. Lemonade Change.md>)
@@ -207,7 +208,7 @@
   * [647. Palindromic Substrings](<Problems/647. Palindromic Substrings.md>)
   * [661. Image Smoother](<Problems/661. Image Smoother.md>)
   
-  * [724. Find Pivot Index](<Problems/724. Find Pivot Index.md>)
+
   * [746. Min Cost Climbing Stairs](<Problems/746. Min Cost Climbing Stairs.md>)
   * [747. Largest Number At Least Twice of Others](<Problems/747. Largest Number At Least Twice of Others.md>)
   * [867. Transpose Matrix](<Problems/867. Transpose Matrix.md>)
