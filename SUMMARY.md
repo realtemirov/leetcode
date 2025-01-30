@@ -90,6 +90,7 @@
   * [121. Best Time to Buy and Sell Stock](<./Problems/0121/121. Best Time to Buy and Sell Stock.md>)
   * [122. Best Time to Buy and Sell Stock II](<./Problems/0122/122. Best Time to Buy and Sell Stock II.md>)
   * [146. LRU Cache](<./Problems/0146/146. LRU Cache.md>)
+  * [189. Rotate Array](<./Problems/0189/189. Rotate Array.md>)
   * [206. Reverse Linked List](<./Problems/0206/206. Reverse Linked List.md>)
   * [217. Contains Duplicate](<./Problems/0217/217. Contains Duplicate.md>)
   * [219. Cotains Duplicate II](<./Problems/0219/219. Contains Duplicate II.md>)
@@ -175,7 +176,7 @@
   * [151. Reverse Words in a String](<Problems/151. Reverse Words in a String.md>)
   * [167. Two Sum II - Input Array Is ./orted](<Problems/167. Two Sum II - Input Array Is Sorted.md>)
   * [169. Majority Element](<Problems/0169/169. Majority Element.md>)
-  * [189. Rotate Array](<Problems/0189/189. Rotate Array.md>)
+  
   * [191. Number of 1 Bits](<Problems/191. Number of 1 Bits.md>)
   * [197. Rising Temperature](<Problems/197. Rising Temperature.md>)
   * [209. Minimum Size Subarray Sum](<Problems/209. Minimum Size Subarray Sum.md>)
