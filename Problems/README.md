@@ -1,8 +1,8 @@
 # Problems
 
-> **Total:** `82` \
-> **Easy:** `58` \
-> **Medium:** `24` \
+> **Total:** `91` \
+> **Easy:** `66` \
+> **Medium:** `25` \
 > **Hard:** `0`
 
 * 🟩 Easy - [1. Two Sum](<./0001/1. Two Sum.md>)
@@ -34,6 +34,7 @@
 * 🟩 Easy - [104. Maximum Depth of Binary Tree](<./0104/104. Maximum Depth of Binary Tree.md>)
 * 🟩 Easy - [121. Best Time to Buy and Sell Stock](<./0121/121. Best Time to Buy and Sell Stock.md>)
 * 🟧 Medium - [146. LRU Cache](<./0146/146. LRU Cache.md>)
+* 🟧 Medium - [122. Best Time to Buy and Sell Stock II](<./0122/122. Best Time to Buy and Sell Stock II.md>)
 * 🟩 Easy - [206. Reverse Linked List](<./0206/206. Reverse Linked List.md>)
 * 🟩 Easy - [217. Contains Duplicate](<./0217/217. Contains Duplicate.md>)
 * 🟩 Easy - [219. Contains Duplicate II](<./0219/219. Contains Duplicate II.md>)
