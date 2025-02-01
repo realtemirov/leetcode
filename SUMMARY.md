@@ -151,6 +151,7 @@
   * [2559. Count Vowel Strings in Ranges](<./Problems/2559/2559. Count Vowel Strings in Ranges.md>)
   * [2657. Find the Prefix Common Array of Two Arrays](<./Problems/2657/2657. Find the Prefix Common Array of Two Arrays.md>)
   * [3042. Count Prefix and Suffix Pairs I](<./Problems/3042/3042. Count Prefix and Suffix Pairs I.md>)
+  * [3151. Special Array I](<./Problems/3151/3151. Special Array I.md>)
   * [3223. Minimum Length of String After Operations](<./Problems/3223/3223. Minimum Length of String After Operations.md>)
   <!-- 
 
