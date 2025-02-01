@@ -45,6 +45,7 @@
 * 🟩 Easy - [242. Valid Anagram](<./0242/242. Valid Anagram.md>)
 * 🟩 Easy - [268. Missing Number](<./0268/268. Missing Number.md>)
 * 🟩 Easy - [283. Move Zeroes](<./0283/283. Move Zeroes.md>)
+* 🟩 Easy - [350. Intersection of Two Arrays II](<./0350/350. Intersection of Two Arrays II.md>)
 * 🟩 Easy - [383. Ransom Note](<./0383/383. Ransom Note.md>)
 * 🟩 Easy - [389. Find the Difference](<./0389/389. Find the Difference.md>)
 * 🟩 Easy - [412. Fizz Buzz](<./0412/412. Fizz Buzz.md>)

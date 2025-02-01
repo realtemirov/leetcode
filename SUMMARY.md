@@ -100,6 +100,7 @@
   * [242. Valid Anagram](<./Problems/0242/242. Valid Anagram.md>)
   * [268. Missing Number](<./Problems/0268/268. Missing Number.md>)
   * [283. Move Zeroes](<./Problems/0283/283. Move Zeroes.md>)
+  * [350. Intersection of Two Arrays II](<./Problems/0350/350. Intersection of Two Arrays II.md>)
   * [383. Ransom Note](<./Problems/0383/383. Ransom Note.md>)
   * [389. Find the Difference](<./Problems/0389/389. Find the Difference.md>)
   * [412. Fizz Buzz](<./Problems/0412/412. Fizz Buzz.md>)
