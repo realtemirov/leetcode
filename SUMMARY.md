@@ -89,6 +89,7 @@
   * [104. Maximum Depth of Binary Tree](<./Problems/0104/104. Maximum Depth of Binary Tree.md>)
   * [121. Best Time to Buy and Sell Stock](<./Problems/0121/121. Best Time to Buy and Sell Stock.md>)
   * [122. Best Time to Buy and Sell Stock II](<./Problems/0122/122. Best Time to Buy and Sell Stock II.md>)
+  * [136. Single Number](<./Problems/0136/136. Single Number.md>)
   * [146. LRU Cache](<./Problems/0146/146. LRU Cache.md>)
   * [189. Rotate Array](<./Problems/0189/189. Rotate Array.md>)
   * [206. Reverse Linked List](<./Problems/0206/206. Reverse Linked List.md>)
@@ -181,7 +182,7 @@
   * [191. Number of 1 Bits](<Problems/191. Number of 1 Bits.md>)
   * [197. Rising Temperature](<Problems/197. Rising Temperature.md>)
   * [209. Minimum Size Subarray Sum](<Problems/209. Minimum Size Subarray Sum.md>)
-  * [217. Contains Duplicate](<Problems/217. Contains Duplicate.md>)
+  
   
 
   * [279. Perfect Squares](<Problems/279. Perfect Squares.md>)

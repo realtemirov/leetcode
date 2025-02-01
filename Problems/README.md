@@ -1,7 +1,7 @@
 # Problems
 
-> **Total:** `93` \
-> **Easy:** `67` \
+> **Total:** `94` \
+> **Easy:** `68` \
 > **Medium:** `26` \
 > **Hard:** `0`
 
@@ -34,6 +34,7 @@
 * 🟩 Easy - [104. Maximum Depth of Binary Tree](<./0104/104. Maximum Depth of Binary Tree.md>)
 * 🟩 Easy - [121. Best Time to Buy and Sell Stock](<./0121/121. Best Time to Buy and Sell Stock.md>)
 * 🟧 Medium - [122. Best Time to Buy and Sell Stock II](<./0122/122. Best Time to Buy and Sell Stock II.md>)
+* 🟩 Easy - [136. Single Number](<./0136/136. Single Number.md>)
 * 🟧 Medium - [146. LRU Cache](<./0146/146. LRU Cache.md>)
 * 🟧 Medium - [189. Rotate Array](<./0189/189. Rotate Array.md>)
 * 🟩 Easy - [206. Reverse Linked List](<./0206/206. Reverse Linked List.md>)
