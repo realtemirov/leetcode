@@ -1,7 +1,7 @@
 # Problems
 
-> **Total:** `94` \
-> **Easy:** `68` \
+> **Total:** `99` \
+> **Easy:** `69` \
 > **Medium:** `26` \
 > **Hard:** `0`
 
@@ -85,6 +85,7 @@
 * 🟩 Easy - [1523. Count Odd Numbers in an Interval Range](<./1523/1523. Count Odd Numbers in an Interval Range.md>)
 * 🟩 Easy - [1572. Matrix Diagonal Sum](<./1572/1572. Matrix Diagonal Sum.md>)
 * 🟩 Easy - [1672. Richest Customer Wealth](<./1672/1672. Richest Customer Wealth.md>)
+* 🟩 Easy - [1752. Check if Array Is Sorted and Rotated](<./1752/1752. Check if Array Is Sorted and Rotated.md>)
 * 🟩 Easy - [1768. Merge Strings Alternately](<./1768/1768. Merge Strings Alternately.md>)
 * 🟧 Medium - [1769. Minimum Number of Operations to Move All Balls to Each Box](<./1769/1769. Minimum Number of Operations to Move All Balls to Each Box.md>)
 * 🟩 Easy - [1822. Sign of the Product of an Array](<./1822/1822. Sign of the Product of an Array.md>)
