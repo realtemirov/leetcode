@@ -101,5 +101,6 @@
 * 🟧 Medium - [2559. Count Vowel Strings in Ranges](<./2559/2559. Count Vowel Strings in Ranges.md>)
 * 🟧 Medium - [2657. Find the Prefix Common Array of Two Arrays](<./2657/2657. Find the Prefix Common Array of Two Arrays.md>)
 * 🟩 Easy - [3042. Count Prefix and Suffix Pairs I](<./3042/3042. Count Prefix and Suffix Pairs I.md>)
+* 🟩 Easy - [3105. Longest Strictly Increasing or Strictly Decreasing Subarray](<./3105/3105. Longest Strictly Increasing or Strictly Decreasing Subarray.md>)
 * 🟩 Easy - [3151. Special Array I](<./3151/3151. Special Array I.md>)
 * 🟧 Medium - [3223. Minimum Length of String After Operations](<./3223/3223. Minimum Length of String After Operations.md>)
