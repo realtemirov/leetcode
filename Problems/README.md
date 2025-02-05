@@ -88,6 +88,7 @@
 * 🟩 Easy - [1752. Check if Array Is Sorted and Rotated](<./1752/1752. Check if Array Is Sorted and Rotated.md>)
 * 🟩 Easy - [1768. Merge Strings Alternately](<./1768/1768. Merge Strings Alternately.md>)
 * 🟧 Medium - [1769. Minimum Number of Operations to Move All Balls to Each Box](<./1769/1769. Minimum Number of Operations to Move All Balls to Each Box.md>)
+* 🟩 Easy - [1790. Check if One String Swap Can Make Strings Equal](<./1790/1790. Check if One String Swap Can Make Strings Equal.md>)
 * 🟩 Easy - [1822. Sign of the Product of an Array](<./1822/1822. Sign of the Product of an Array.md>)
 * 🟧 Medium - [1930. Unique Length-3 Palindromic Subsequences](<./1930/1930. Unique Length-3 Palindromic Subsequences.md>)
 * 🟩 Easy - [1991. Find the Middle Index in Array](<./1991/1991. Find the Middle Index in Array.md>)

@@ -143,6 +143,7 @@
   * [1768. Merge Strings Alternately](<./Problems/1768/1768. Merge Strings Alternately.md>)
   * [1752. Check if Array Is Sorted and Rotated](<./Problems/1752/1752. Check if Array Is Sorted and Rotated.md>)
   * [1769. Minimum Number of Operations to Move All Balls to Each Box](<./Problems/1769/1769. Minimum Number of Operations to Move All Balls to Each Box.md>)
+  * [1790. Check if One String Swap Can Make Strings Equal](<./Problems/1790/1790. Check if One String Swap Can Make Strings Equal.md>)
   * [1822. Sign of the Product of an Array](<./Problems/1822/1822. Sign of the Product of an Array.md>)
   * [1930. Unique Length-3 Palindromic Subsequences](<./Problems/1930/1930. Unique Length-3 Palindromic Subsequences.md>)
   * [1991. Find the Middle Index in Array](<./Problems/1991/1991. Find the Middle Index in Array.md>)
