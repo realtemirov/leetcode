@@ -100,6 +100,7 @@
 * 🟧 Medium - [2270. Number of Ways to Split Array](<./2270/2270. Number of Ways to Split Array.md>)
 * 🟧 Medium - [2381. Shifting Letters II](<./2381/2381. Shifting Letters II.md>)
 * 🟧 Medium - [2559. Count Vowel Strings in Ranges](<./2559/2559. Count Vowel Strings in Ranges.md>)
+* 🟧 Medium - [2610. Convert an Array Into a 2D Array With Conditions](<./2610/2610. Convert an Array Into a 2D Array With Conditions.md>)
 * 🟧 Medium - [2657. Find the Prefix Common Array of Two Arrays](<./2657/2657. Find the Prefix Common Array of Two Arrays.md>)
 * 🟩 Easy - [3042. Count Prefix and Suffix Pairs I](<./3042/3042. Count Prefix and Suffix Pairs I.md>)
 * 🟩 Easy - [3105. Longest Strictly Increasing or Strictly Decreasing Subarray](<./3105/3105. Longest Strictly Increasing or Strictly Decreasing Subarray.md>)

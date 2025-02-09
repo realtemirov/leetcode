@@ -155,6 +155,7 @@
   * [2270. Number of Ways to Split Array](<./Problems/2270/2270. Number of Ways to Split Array.md>)
   * [2381. Shifting Letters II](<./Problems/2381/2381. Shifting Letters II.md>)
   * [2559. Count Vowel Strings in Ranges](<./Problems/2559/2559. Count Vowel Strings in Ranges.md>)
+  * [2610. Convert an Array Into a 2D Array With Conditions](<./Problems/2610/2610. Convert an Array Into a 2D Array With Conditions.md>)
   * [2657. Find the Prefix Common Array of Two Arrays](<./Problems/2657/2657. Find the Prefix Common Array of Two Arrays.md>)
   * [3042. Count Prefix and Suffix Pairs I](<./Problems/3042/3042. Count Prefix and Suffix Pairs I.md>)
   * [3105. Longest Strictly Increasing or Strictly Decreasing Subarray](<./Problems/3105/3105. Longest Strictly Increasing or Strictly Decreasing Subarray.md>)
