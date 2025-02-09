@@ -134,6 +134,7 @@
   * [1299. Replace Elements with Greatest Element on Right Side](<./Problems/1299/1299. Replace Elements with Greatest Element on Right Side.md>)
   * [1342. Number of Steps to Reduce a Number to Zero](<./Problems/1342/1342. Number of Steps to Reduce a Number to Zero.md>)
   * [1346. Check If N and Its Double Exist](<./Problems/1346/1346. Check If N and Its Double Exist.md>)
+  * [1476. Subrectangle Queries](<./Problems/1476/1476. Subrectangle Queries.md>)
   * [1480. Running Sum of 1d Array](<./Problems/1480/1480. Running Sum of 1d Array.md>)
   * [1491. Average Salary Excluding the Minimum and Maximum Salary](<./Problems/1491/1491. Average Salary Excluding the Minimum and Maximum Salary.md>)
   * [1502. Can Make Arithmetic Progression From Sequence](<./Problems/1502/1502. Can Make Arithmetic Progression From Sequence.md>)
